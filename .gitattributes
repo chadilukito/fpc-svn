@@ -2954,6 +2954,7 @@ rtl/bsd/ostypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/powerpc/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/powerpc/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/bsd/suuid.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/sysbsd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/sysctl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3190,6 +3191,7 @@ rtl/linux/sparc/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/sparc/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/sparc/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/sparc/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/suuid.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/syslinux.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3636,7 +3638,6 @@ rtl/unix/unixutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unxdeclh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unxovl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unxovlh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/unix/uuid.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/x86.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
