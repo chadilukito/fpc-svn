@@ -2657,6 +2657,13 @@ packages/extra/users/users.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/extra/utmp/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/utmp/testutmp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/utmp/utmp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/uuid/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/uuid/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/uuid/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/uuid/libuuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/uuid/testlibuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/uuid/testuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/uuid/uuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/winunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/winunits/activex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/winunits/commctrl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
