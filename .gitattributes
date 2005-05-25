@@ -5673,6 +5673,10 @@ utils/simulator/mm64.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/simulator/simbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/simulator/simlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/svn2cl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/svn2cvs/svn2cvs.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/svn2cvs/svn2cvs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/svn2cvs/test.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/svn2cvs/vers.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/lexbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/lexdfa.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
