@@ -4397,6 +4397,7 @@ tests/tbs/tb0488.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb0489.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb0490.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb0491.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/tbs/tb0492.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/ub0060.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/ub0069.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/ub0119.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
