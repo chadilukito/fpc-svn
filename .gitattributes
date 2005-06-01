@@ -3344,6 +3344,7 @@ rtl/netwlibc/keyboard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/libc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/mouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/nwsnut.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/netwlibc/pre/libcpre.gcc.o svn_mime_002dtype=application%2Foctet-stream
 rtl/netwlibc/qos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4436,7 +4437,21 @@ tests/test/cg/cdecl/taoc3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 tests/test/cg/cdecl/taoc4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/cdecl/taoc5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/cdecl/taoc6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cg/obj/amiga/m68k/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/darwin/powerpc/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/freebsd/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/go32v2/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/arm/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/m68k/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/powerpc/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/sparc/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/x86_64/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/macos/powerpc/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/netbsd/m68k/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/os2/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cg/obj/win32/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/ptest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/taddbool.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/taddcard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
