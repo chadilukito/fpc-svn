@@ -119,7 +119,6 @@ compiler/i386/i386tab.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 compiler/i386/n386add.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386cal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386cnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/i386/n386con.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386inl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386mat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386mem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -439,6 +438,7 @@ compiler/x86/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 compiler/x86/itx86int.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/nx86add.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/nx86cnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/x86/nx86con.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/nx86inl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/nx86mat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/nx86set.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
