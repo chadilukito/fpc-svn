@@ -32,6 +32,7 @@ compiler/arm/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/aoptcpuc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/arm/armreg.dat svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
 compiler/arm/cgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -166,6 +167,7 @@ compiler/m68k/cpupi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/cpuswtch.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/cputarg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/m68k/m68kreg.dat svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
 compiler/m68k/n68kcnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/n68kmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/ncpuadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -185,6 +187,7 @@ compiler/mips/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 compiler/mips/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/mips/mipsreg.dat svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
 compiler/mips/rmipscon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/rmipsdwf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/rmipsgas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -275,6 +278,8 @@ compiler/powerpc/nppcinl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/powerpc/nppcld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/nppcmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/nppcset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/powerpc/ppcins.dat svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
+compiler/powerpc/ppcreg.dat svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
 compiler/powerpc/rappc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/rappcgas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -344,6 +349,7 @@ compiler/sparc/rspsri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 compiler/sparc/rspstab.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/sparc/rspstd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/sparc/rspsup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/sparc/spreg.dat svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
 compiler/sparc/strinst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/switches.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/symbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -439,6 +445,8 @@ compiler/x86/nx86set.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/rax86.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/rax86att.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/rgx86.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/x86/x86ins.dat svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
+compiler/x86/x86reg.dat svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
 compiler/x86_64/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86_64/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86_64/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
