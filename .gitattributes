@@ -5637,6 +5637,7 @@ utils/dxegen/coff.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/dxegen/dxegen.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/fpcmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcm/fpcmake.ini svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/fpcmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/fpcmdic.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/fpcmmain.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
