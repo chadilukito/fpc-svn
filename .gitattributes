@@ -1023,49 +1023,6 @@ ide/wutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/wviews.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/wvphelp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/wwinhelp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-install/bingo32/cwsdpmi.exe svn_mime_002dtype=application%2Foctet-stream
-install/bingo32/wmemu387.dxe svn_mime_002dtype=application%2Foctet-stream
-install/binos2/emx.dll svn_mime_002dtype=application%2Foctet-stream
-install/binos2/emxwrap.dll svn_mime_002dtype=application%2Foctet-stream
-install/binos2/fp2.ico svn_mime_002dtype=application%2Foctet-stream
-install/binos2/unzip32.dll svn_mime_002dtype=application%2Foctet-stream
-install/binw32/ar.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/as.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/cmp.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/cp.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/cpp.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/cygiconv-2.dll svn_mime_002dtype=application%2Foctet-stream
-install/binw32/cygncurses-8.dll svn_mime_002dtype=application%2Foctet-stream
-install/binw32/cygwin1.dll svn_mime_002dtype=application%2Foctet-stream
-install/binw32/diff.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/dlltool.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/fp32_32.ico svn_mime_002dtype=application%2Foctet-stream
-install/binw32/gcc.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/gdate.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/gdb.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/gecho.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/ginstall.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/gmkdir.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/grep.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/ld.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/make.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/mv.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/objdump.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/patch.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/pwd.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/rm.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/strip.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/unzip.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/upx.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/windres.exe svn_mime_002dtype=application%2Foctet-stream
-install/binw32/zip.exe svn_mime_002dtype=application%2Foctet-stream
-install/doc/copying.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-install/doc/faq.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-install/doc/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-install/doc/whatsnew.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-install/macosx/fpc-1.9.8.pmsp svn_mime_002dtype=application%2Foctet-stream
-install/macosx/resources/License.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-install/macosx/resources/ReadMe.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 installer/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 installer/install.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 installer/makelink.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
