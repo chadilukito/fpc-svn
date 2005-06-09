@@ -96,7 +96,6 @@ compiler/globtype.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/html/i386/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/html/powerpc/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/htypechk.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/i386/ag386int.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/ag386nsm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/aopt386.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/cgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -431,6 +430,7 @@ compiler/vis/cpupara.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/widestr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/agx86att.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/x86/agx86int.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/cga.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/cgx86.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -467,6 +467,8 @@ compiler/x86_64/r8664ari.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/x86_64/r8664att.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86_64/r8664con.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86_64/r8664dwrf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/x86_64/r8664int.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/x86_64/r8664iri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86_64/r8664nor.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86_64/r8664num.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86_64/r8664op.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
