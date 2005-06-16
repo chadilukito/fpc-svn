@@ -4630,6 +4630,8 @@ tests/test/tsubdecl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunit1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunit2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunit3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tutf81.pp svn_mime_002dtype=text%2Fplain%3Bcharset%3Dutf-8 svn_eol_002dstyle=native
+tests/test/tutf82.pp svn_mime_002dtype=text%2Fplain%3Bcharset%3Dutf-8 svn_eol_002dstyle=native
 tests/test/twide1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/twide2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uabstrcl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
