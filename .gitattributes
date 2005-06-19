@@ -236,7 +236,9 @@ compiler/ogcoff.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ogelf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/oglx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ogmap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/optcse.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/options.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/optunrol.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/owar.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/owbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/parabase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4781,6 +4783,7 @@ tests/test/tsubdecl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunit1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunit2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunit3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tunroll1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tutf81.pp svn_mime_002dtype=text%2Fplain%3Bcharset%3Dutf-8 svn_eol_002dstyle=native
 tests/test/tutf82.pp svn_mime_002dtype=text%2Fplain%3Bcharset%3Dutf-8 svn_eol_002dstyle=native
 tests/test/twide1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
