@@ -5035,6 +5035,13 @@ tests/utils/macos/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 tests/utils/redir.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/testfail.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/teststr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/utils/testsuite/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/utils/testsuite/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/utils/testsuite/defaults.sql svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/utils/testsuite/testsuite.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/utils/testsuite/testsuite.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/utils/testsuite/testsuite.sql svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/utils/testsuite/utests.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/testu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw0744.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw0769b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
