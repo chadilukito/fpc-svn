@@ -3918,6 +3918,9 @@ rtl/win32/winsysut.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win64/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win64/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win64/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/wince/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/wince/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/wince/wprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
