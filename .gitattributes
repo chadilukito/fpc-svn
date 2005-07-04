@@ -641,9 +641,11 @@ fcl/db/sqlite/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 fcl/db/sqlite/browseds.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqlite/concurrencyds.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqlite/createds.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/db/sqlite/customsqliteds.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqlite/fillds.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqlite/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqlite/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/db/sqlite/sqlite3ds.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqlite/sqlitedataset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqlite/sqliteds.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqlite/testds.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
