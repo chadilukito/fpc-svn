@@ -1549,6 +1549,7 @@ packages/base/sqlite/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/base/sqlite/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/sqlite/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/sqlite/sqlite.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/sqlite/sqlite3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/sqlite/sqlitedb.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/sqlite/test.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
