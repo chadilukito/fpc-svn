@@ -557,6 +557,7 @@ fcl/db/dbase/dbf_struct.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 fcl/db/dbase/dbf_wtil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/dbase/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/dbase/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/db/dbase/getstrfromint.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/dbase/history.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/dbase/package.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/dbase/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
