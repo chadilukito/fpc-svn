@@ -3093,6 +3093,8 @@ packages/extra/x11/xrender.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/extra/x11/xresource.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/x11/xshm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/x11/xutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/x11/xv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/x11/xvlib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/zlib/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/zlib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/zlib/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
