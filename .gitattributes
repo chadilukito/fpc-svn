@@ -119,7 +119,6 @@ compiler/i386/i386prop.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/i386/i386tab.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386add.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386cal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/i386/n386cnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386inl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386mat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386mem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
