@@ -1322,6 +1322,7 @@ packages/base/libc/timeh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 packages/base/libc/timesh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/libc/timexh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/libc/ttyenth.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/libc/types.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/libc/typesh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/libc/ucontexth.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/libc/ulimith.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
