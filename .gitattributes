@@ -812,7 +812,6 @@ fcl/passrc/paswrite.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/passrc/pparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/passrc/pscanner.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/passrc/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-fcl/posix/custapp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/posix/ezcgi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/posix/pipes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/posix/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -899,13 +898,11 @@ fcl/tests/txmlreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/xmldump.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/asyncio.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/asyncioh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-fcl/unix/custapp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/ezcgi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/pipes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/process.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/resolve.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-fcl/win32/custapp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win32/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win32/ezcgi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win32/fclel.res svn_mime_002dtype=application%2Foctet-stream
