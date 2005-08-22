@@ -635,6 +635,7 @@ fcl/db/sqldb/postgres/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dst
 fcl/db/sqldb/postgres/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqldb/postgres/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqldb/postgres/pqconnection.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/db/sqldb/readme.txt svn_eol_002dstyle=native
 fcl/db/sqldb/sqldb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqldb/testsqldb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqlite/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
