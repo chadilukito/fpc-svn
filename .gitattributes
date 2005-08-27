@@ -1232,6 +1232,7 @@ packages/base/libc/printfh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/base/libc/proutedh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/libc/prwhodh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/libc/ptalkdh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/libc/pthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/libc/pthreadh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/libc/pthreadtypesh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/libc/ptimedh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
