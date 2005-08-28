@@ -5946,6 +5946,13 @@ utils/fpcm/fpcmmain.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/fpcmpkg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/fpcmwr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcres/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcres/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcres/elfbfd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcres/elfres.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcres/elfresfix.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcres/fpcres.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcres/fpcres.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/dglobals.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
