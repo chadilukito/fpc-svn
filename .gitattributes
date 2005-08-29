@@ -3201,6 +3201,7 @@ rtl/emx/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/emx/system.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/emx/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/emx/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/bsdport.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3377,6 +3378,7 @@ rtl/linux/arm/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 rtl/linux/arm/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/bunxsysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/gpm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3833,6 +3835,7 @@ rtl/unix/dl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/dynlibs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/errors.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/unix/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/genfdset.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/genfuncs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/gensigset.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
