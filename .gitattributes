@@ -740,6 +740,7 @@ fcl/inc/cachecls.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/cgiapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/contnrs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/custapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/inc/dbugintf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/eventlog.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/ezcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/felog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -750,6 +751,7 @@ fcl/inc/gettext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/idea.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/inifiles.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/iostream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/inc/msgintf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/pipes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/process.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/process.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -760,6 +762,7 @@ fcl/inc/resolve.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/rtfdata.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/rtfpars.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/rttiutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/inc/simpleipc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/ssockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/streamex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/streamio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -852,6 +855,8 @@ fcl/tests/b64test.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/b64test2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/cachetest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/cfgtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/tests/dbugsrv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/tests/debugtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/doecho.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/dparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/dsockcli.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -862,6 +867,8 @@ fcl/tests/intl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/intl/restest.de.mo svn_mime_002dtype=application%2Foctet-stream
 fcl/tests/intl/restest.fr.mo svn_mime_002dtype=application%2Foctet-stream
 fcl/tests/intl/restest.nl.mo svn_mime_002dtype=application%2Foctet-stream
+fcl/tests/ipcclient.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/tests/ipcserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/isockcli.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/isocksvr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/istream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -906,6 +913,7 @@ fcl/unix/ezcgi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/pipes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/process.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/resolve.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/unix/simpleipc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win32/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win32/ezcgi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win32/fclel.res svn_mime_002dtype=application%2Foctet-stream
@@ -914,6 +922,7 @@ fcl/win32/httpapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win32/pipes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win32/process.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win32/resolve.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/win32/simpleipc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win32/syncobjs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win32/winreg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/xml/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
