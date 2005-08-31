@@ -3308,6 +3308,7 @@ rtl/inc/dosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/dynarr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/dynarrh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/dynlibs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/elfres32.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/except.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/fexpand.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/file.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3352,6 +3353,7 @@ rtl/inc/pagemem.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/printer.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/printerh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/real2str.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/resh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/rtti.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/sockets.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/socketsh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3361,6 +3363,7 @@ rtl/inc/sstrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/stdsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/strings.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/stringsi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/sysres.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/system.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/systemh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/text.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
