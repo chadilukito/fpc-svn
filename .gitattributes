@@ -3926,6 +3926,7 @@ rtl/win32/syswin32.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win32/win32res.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/wincrt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/windows.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/winevent.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
