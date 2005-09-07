@@ -34,7 +34,12 @@ compiler/arm/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/aoptcpuc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/arm/armatt.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/arm/armatts.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/arm/armnop.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/arm/armop.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/armreg.dat svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
+compiler/arm/armtab.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/cgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -428,6 +433,7 @@ compiler/utils/fpimpdef.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/utils/fppkg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/gppc386.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mk68kreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/utils/mkarmins.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkarmreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkmpsreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkppcreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
