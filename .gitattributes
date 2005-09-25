@@ -712,7 +712,9 @@ fcl/image/fpcanvas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fpcanvas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fpcdrawh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fpcolcnv.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/image/fpcolhash.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fpcolors.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/image/fpditherer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fpfont.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fphandler.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fphelper.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -725,6 +727,7 @@ fcl/image/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fppalette.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fppen.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fppixlcanv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/image/fpquantizer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fpreadbmp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fpreadjpeg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fpreadpng.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
