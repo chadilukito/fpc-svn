@@ -3402,6 +3402,7 @@ rtl/linux/arm/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 rtl/linux/arm/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/bunxsysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/fpcylix.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/gpm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
