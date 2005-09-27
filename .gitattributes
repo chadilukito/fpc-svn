@@ -671,6 +671,16 @@ fcl/db/sdf/testfix.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sdf/testsdf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqldb/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqldb/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/db/sqldb/examples/alisttables.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/db/sqldb/examples/bcreatetable.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/db/sqldb/examples/cfilltable.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/db/sqldb/examples/database.ini svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/db/sqldb/examples/dshowtable.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/db/sqldb/examples/efilltableparams.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/db/sqldb/examples/fedittable.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/db/sqldb/examples/gfiltertable.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/db/sqldb/examples/readme.txt svn_eol_002dstyle=native
+fcl/db/sqldb/examples/sqldbexampleunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqldb/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqldb/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqldb/interbase/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
