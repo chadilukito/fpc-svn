@@ -3825,7 +3825,6 @@ rtl/powerpc/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/powerpc/powerpc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3838,7 +3837,6 @@ rtl/powerpc64/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/powerpc64/powerpc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
