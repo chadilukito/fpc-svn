@@ -4966,6 +4966,7 @@ tests/test/testv5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/testv6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/testv7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/testv8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/testv9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/texception1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/texception10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/texception2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
