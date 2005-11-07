@@ -1471,7 +1471,9 @@ packages/base/odbc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/base/odbc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/odbc/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/odbc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/odbc/odbcsql.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/odbc/odbcsql.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/odbc/odbcsqldyn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/odbc/testodbc.mdb svn_mime_002dtype=application%2Foctet-stream
 packages/base/odbc/testodbc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/oracle/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
