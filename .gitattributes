@@ -1131,9 +1131,11 @@ ide/wwinhelp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 installer/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 installer/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 installer/install.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+installer/insthelp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 installer/makelink.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 installer/scroll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 installer/winshell.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+installer/writeidx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
