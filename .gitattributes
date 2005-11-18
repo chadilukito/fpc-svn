@@ -691,6 +691,8 @@ fcl/db/sqldb/mysql/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 fcl/db/sqldb/mysql/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqldb/mysql/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqldb/mysql/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/db/sqldb/mysql/mysql40conn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/db/sqldb/mysql/mysql41conn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqldb/mysql/mysqlconn.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqldb/odbc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/sqldb/odbc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
