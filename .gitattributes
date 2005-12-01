@@ -85,7 +85,6 @@ compiler/comprsrc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cp437.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cp850.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cp8859_1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/crc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cresstr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cstreams.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -98,6 +97,7 @@ compiler/dwarf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/export.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/finput.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/fmodule.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/fpccrc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/fpcdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/fppu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/gendef.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
