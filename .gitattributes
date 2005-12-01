@@ -1612,7 +1612,6 @@ packages/base/paszlib/zconf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/base/paszlib/zdeflate.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/zinflate.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/zuncompr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/paszlib/zutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/postgres/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/postgres/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/postgres/dllist.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
