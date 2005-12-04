@@ -6034,6 +6034,7 @@ tests/webtbs/tw4520.pp svn_mime_002dtype=text%2Fplain
 tests/webtbs/tw4529.pp svn_mime_002dtype=text%2Fplain
 tests/webtbs/tw4537.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw4540.pp svn_mime_002dtype=text%2Fplain
+tests/webtbs/tw4566.pp svn_mime_002dtype=text%2Fplain
 tests/webtbs/ub1873.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/ub1883.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/uw0555.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
