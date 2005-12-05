@@ -3168,6 +3168,7 @@ packages/extra/x11/cursorfont.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/extra/x11/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/x11/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/x11/keysym.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/x11/randr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/x11/x.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/x11/xatom.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/x11/xcms.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3179,6 +3180,7 @@ packages/extra/x11/xinerama.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/extra/x11/xkb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/x11/xkblib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/x11/xlib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/x11/xrandr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/x11/xrender.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/x11/xresource.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/x11/xshm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
