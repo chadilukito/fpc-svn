@@ -2698,7 +2698,6 @@ packages/extra/numlib/tpnumlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/extra/numlib/typ.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/opengl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/opengl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/opengl/dllfuncs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/opengl/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/opengl/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/opengl/examples/bounce.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
