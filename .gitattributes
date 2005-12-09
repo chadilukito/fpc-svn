@@ -5073,6 +5073,7 @@ tests/test/tstring4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstring5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstring6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstring7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tstring8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstrreal1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstrreal2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tsubdecl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
