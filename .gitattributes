@@ -4977,6 +4977,7 @@ tests/test/testmovd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tests.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/testsse2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/testv1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/testv10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/testv2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/testv3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/testv4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
