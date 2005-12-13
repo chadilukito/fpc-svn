@@ -2861,6 +2861,11 @@ packages/extra/palmunits/uicontrols.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/extra/palmunits/uiresources.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/palmunits/vfsmgr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/palmunits/window.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/ptc/demos/mojo.raw svn_mime_002dtype=application%2Foctet-stream
+packages/extra/ptc/examples/image.tga svn_mime_002dtype=application%2Foctet-stream
+packages/extra/ptc/examples/stretch.tga svn_mime_002dtype=application%2Foctet-stream
+packages/extra/ptc/win32/base/ptcres.res svn_mime_002dtype=application%2Foctet-stream
+packages/extra/ptc/win32/base/windows.ico svn_mime_002dtype=application%2Foctet-stream
 packages/extra/rexx/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/rexx/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/rexx/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
