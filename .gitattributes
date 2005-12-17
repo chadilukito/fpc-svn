@@ -175,6 +175,7 @@ compiler/m68k/cpuswtch.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/m68k/cputarg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/m68kreg.dat svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
+compiler/m68k/n68kcal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/n68kcnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/n68kmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/ncpuadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
