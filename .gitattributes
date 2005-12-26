@@ -1001,6 +1001,7 @@ fcl/wince/ezcgi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/wince/fileinfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/wince/pipes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/wince/process.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/wince/simpleipc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/xml/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/xml/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/xml/dom.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
