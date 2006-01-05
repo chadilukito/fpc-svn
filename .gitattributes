@@ -1050,7 +1050,6 @@ fv/test/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fv/test/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fv/test/platform.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fv/test/testapp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-fv/test/tfileio.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fv/time.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fv/timeddlg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fv/unixsmsg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
