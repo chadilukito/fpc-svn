@@ -3230,6 +3230,7 @@ rtl/amiga/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/os.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/amiga/powerpc/prt0.as svnc_amiga_003aprotection=----rw-d+rw-d+rw-d
 rtl/amiga/printer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/arm.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
