@@ -1167,6 +1167,8 @@ packages/base/gdbint/testgdb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/base/graph/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/graph/amiga/graph.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/graph/go32v2/graph.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/graph/go32v2/vesa.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/graph/go32v2/vesah.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/graph/inc/clip.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/graph/inc/fills.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/graph/inc/fontdata.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3379,8 +3381,6 @@ rtl/go32v2/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/go32v2/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/go32v2/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/go32v2/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/go32v2/vesa.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/go32v2/vesah.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/go32v2/vesamode.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/go32v2/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/cpu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
