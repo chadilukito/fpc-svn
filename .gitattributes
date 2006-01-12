@@ -4036,7 +4036,6 @@ rtl/win32/signals.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/win32/syswin32.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
