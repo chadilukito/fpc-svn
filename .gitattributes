@@ -3502,6 +3502,7 @@ rtl/linux/i386/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/ipccall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/ipcsys.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/m68k/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/m68k/signal.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/m68k/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/osmacro.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
