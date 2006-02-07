@@ -4842,6 +4842,7 @@ tests/test/cg/obj/macos/powerpc/ctest.o svn_mime_002dtype=application%2Foctet-st
 tests/test/cg/obj/netbsd/m68k/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/os2/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cg/obj/solaris/sparc/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/win32/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/win32/i386/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/win32/i386/tcext4.o svn_mime_002dtype=application%2Foctet-stream
@@ -5042,6 +5043,7 @@ tests/test/tgeneric2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tgeneric3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tgeneric4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tgeneric5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tgeneric6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tgoto.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/theap.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/thintdir.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
