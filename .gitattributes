@@ -3888,6 +3888,7 @@ rtl/powerpc64/sysutilp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 rtl/solaris/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/solaris/errnostr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/i386/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/i386/sighndh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3898,9 +3899,15 @@ rtl/solaris/signal.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/sparc/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/sparc/sighndh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/sparc/start.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/solaris/suuid.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/solaris/termio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/solaris/termios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/solaris/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/solaris/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/solaris/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
