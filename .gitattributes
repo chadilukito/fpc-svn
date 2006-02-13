@@ -901,6 +901,7 @@ fcl/shedit/sh_pas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/shedit/sh_xml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/shedit/shedit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/shedit/undo.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/solaris/syncobjs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/template/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/template/template.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/template/thread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
