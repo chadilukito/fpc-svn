@@ -1,5 +1,6 @@
 /Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+/compiler svnc_svnmerge_002dintegrated
 compiler/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aasmbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
