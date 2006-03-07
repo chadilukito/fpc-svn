@@ -4052,6 +4052,7 @@ rtl/win32/wininc/struct.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 rtl/win32/wininc/unidef.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/wininc/unifun.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/winsock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win32/winsock2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/winsysut.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win64/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win64/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
