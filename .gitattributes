@@ -299,7 +299,6 @@ compiler/powerpc/nppcadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/powerpc/nppccal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/nppccnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/nppcinl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/powerpc/nppcld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/nppcmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/nppcset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/ppcins.dat svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
