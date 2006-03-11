@@ -4816,6 +4816,9 @@ tests/test/cg/cdecl/taoc4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 tests/test/cg/cdecl/taoc5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/cdecl/taoc6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/obj/amiga/m68k/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/darwin/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/darwin/i386/tcext3.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/darwin/i386/tcext4.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/powerpc/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/powerpc/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/powerpc/tcext4.o svn_mime_002dtype=application%2Foctet-stream
