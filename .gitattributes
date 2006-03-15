@@ -3959,6 +3959,7 @@ rtl/unix/dynlibs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/errors.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/genfdset.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/unix/genfunch.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/genfuncs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/gensigset.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/initc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
