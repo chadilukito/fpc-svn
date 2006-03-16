@@ -4,6 +4,7 @@
 compiler/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aasmbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/aasmdata.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aasmtai.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aggas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/alpha/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -71,6 +72,7 @@ compiler/browcol.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/browlog.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/catch.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cclasses.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/cfidwarf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cg64f32.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cgbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cgobj.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -92,7 +94,6 @@ compiler/dbgdwarf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/dbgstabs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/defcmp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/defutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/dwarf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/export.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/finput.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/fmodule.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
