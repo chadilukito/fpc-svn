@@ -802,6 +802,7 @@ fcl/inc/cgiapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/contnrs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/custapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/dbugintf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/inc/dbugmsg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/eventlog.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/ezcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/felog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -812,7 +813,6 @@ fcl/inc/gettext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/idea.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/inifiles.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/iostream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-fcl/inc/msgintf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/pipes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/process.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/process.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
