@@ -4826,6 +4826,7 @@ tests/test/cg/obj/linux/arm/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/i386/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/i386/tcext4.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/i386/tcext5.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/m68k/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/powerpc/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/powerpc/tcext3.o svn_mime_002dtype=application%2Foctet-stream
