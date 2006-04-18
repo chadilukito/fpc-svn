@@ -966,11 +966,11 @@ fcl/unix/pipes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/process.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/resolve.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/simpleipc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-fcl/win32/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/win/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/win/pipes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win32/fclel.res svn_mime_002dtype=application%2Foctet-stream
 fcl/win32/fileinfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win32/httpapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-fcl/win32/pipes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win32/process.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win32/resolve.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win32/simpleipc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
