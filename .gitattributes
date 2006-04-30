@@ -3169,6 +3169,7 @@ packages/extra/winunits/jwawtsapi32.pas svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/extra/winunits/jwazmouse.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/winunits/mmsystem.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/winunits/ole2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/winunits/oleserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/winunits/shellapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/winunits/shfolder.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/winunits/shlobj.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
