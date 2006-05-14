@@ -4856,6 +4856,7 @@ tests/test/cg/obj/solaris/sparc/ctest.o svn_mime_002dtype=application%2Foctet-st
 tests/test/cg/obj/win32/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/win32/i386/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/win32/i386/tcext4.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/win32/i386/tcext5.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/wince/arm/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/wince/arm/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/wince/arm/tcext4.o svn_mime_002dtype=application%2Foctet-stream
