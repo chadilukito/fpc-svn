@@ -4064,6 +4064,7 @@ rtl/wince/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/wininc/ascfun.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/wininc/coredll.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/wince/wininc/oleaut32.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/winsock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/winsock2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
