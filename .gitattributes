@@ -4824,6 +4824,7 @@ tests/test/cg/obj/amiga/m68k/ctest.o svn_mime_002dtype=application%2Foctet-strea
 tests/test/cg/obj/darwin/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/i386/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/i386/tcext4.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/darwin/i386/tcext5.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/powerpc/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/powerpc/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/powerpc/tcext4.o svn_mime_002dtype=application%2Foctet-stream
