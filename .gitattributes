@@ -799,6 +799,7 @@ fcl/image/pscanvas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/targacmn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/avl_tree.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/base64.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/inc/blowfish.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/bufstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/cachecls.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/cgiapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -938,6 +939,7 @@ fcl/tests/socksvr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/sstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/stringl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/tests/testbf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testbs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testcont.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
