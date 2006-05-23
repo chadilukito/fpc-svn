@@ -5131,6 +5131,7 @@ tests/test/trange3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trange4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trange5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trangeob.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/trecreg2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tresstr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trtti1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trtti2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
