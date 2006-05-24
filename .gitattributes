@@ -4921,7 +4921,6 @@ tests/test/cg/tcalval2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/cg/tcalval3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalval4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalval5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/test/cg/tcalval6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalval7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalval8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalval9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
