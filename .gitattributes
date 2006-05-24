@@ -4896,7 +4896,6 @@ tests/test/cg/tcalfun1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/cg/tcalfun2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalfun3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalfun4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/test/cg/tcalfun5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalfun6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalfun7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalfun8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4906,7 +4905,6 @@ tests/test/cg/tcalobj1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/cg/tcalobj2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalobj3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalobj4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/test/cg/tcalobj5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalobj6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalobj7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalobj8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4915,7 +4913,6 @@ tests/test/cg/tcalpvr1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/cg/tcalpvr2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalpvr3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalpvr4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/test/cg/tcalpvr5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalpvr6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalpvr7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalpvr8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
