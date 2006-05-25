@@ -2578,6 +2578,7 @@ packages/extra/gtk2/gtk+/gtk/gtkwindow-decorate.inc svn_mime_002dtype=text%2Fpla
 packages/extra/gtk2/gtk+/gtk/gtkwindow.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk2/gtk+/gtk/paste.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk2/gtk+/gtk/xembed.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/gtk2/gtkcellrenderercombo.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk2/gtkglext/gdkglconfig.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk2/gtkglext/gdkglcontext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk2/gtkglext/gdkgldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
