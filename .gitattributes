@@ -3362,13 +3362,10 @@ rtl/gba/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/gba/fpc4gba.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/gbabios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/gbabiosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/gba/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/gba/sysgba.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3376,7 +3373,6 @@ rtl/gba/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/gba/unix.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/go32v2/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/go32v2/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
