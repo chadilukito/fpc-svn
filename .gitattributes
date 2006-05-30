@@ -5126,6 +5126,7 @@ tests/test/tintfdef.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tintuint.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tlibrary1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tlibrary2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tmacbool.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmacfunret.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmaclocalprocparam.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmacnonlocalexit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5136,6 +5137,7 @@ tests/test/tmacpas3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmacpas4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmacprocvar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmath1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tmcbool2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmmx1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmove.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmt1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
