@@ -4401,8 +4401,6 @@ rtl/win64/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win64/windows.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/wince/arm/wprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/wince/i386/wprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/wininc/ascfun.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
