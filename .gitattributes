@@ -723,6 +723,7 @@ fcl/db/unmaintained/odbc/testsql.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 fcl/db/unmaintained/odbc/testst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/unmaintained/odbc/testtl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/unmaintained/sqlite/sqlitedataset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/dbtests/testbasics.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
