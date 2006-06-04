@@ -5188,6 +5188,7 @@ tests/test/cg/obj/linux/powerpc/tcext5.o svn_mime_002dtype=application%2Foctet-s
 tests/test/cg/obj/linux/powerpc64/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/powerpc64/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/powerpc64/tcext4.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/powerpc64/tcext5.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/sparc/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/x86_64/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/x86_64/tcext3.o svn_mime_002dtype=application%2Foctet-stream
