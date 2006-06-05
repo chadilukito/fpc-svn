@@ -1514,6 +1514,7 @@ packages/base/netdb/hsh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/base/netdb/ip6test.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/netdb/netdb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/netdb/testdns.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/netdb/testhosts.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/netdb/testhst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/netdb/testnet.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/netdb/testproto.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
