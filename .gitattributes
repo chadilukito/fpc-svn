@@ -1000,6 +1000,7 @@ fcl/xml/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/xml/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/xml/htmldefs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/xml/htmwrite.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/xml/names.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/xml/sax.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/xml/sax_html.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/xml/xhtml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
