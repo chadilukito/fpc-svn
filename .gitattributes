@@ -211,6 +211,7 @@ compiler/mips/rmipsstd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/mips/rmipssup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msg/errorct.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msg/errord.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/msg/errorda.msg svn_keywords=Rev+Date
 compiler/msg/errore.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msg/errores.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msg/errorf.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
