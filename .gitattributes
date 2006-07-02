@@ -5206,6 +5206,7 @@ tests/test/cg/obj/win32/i386/tcext5.o svn_mime_002dtype=application%2Foctet-stre
 tests/test/cg/obj/wince/arm/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/wince/arm/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/wince/arm/tcext4.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/wince/arm/tcext5.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/ptest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/taddbool.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/taddcard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
