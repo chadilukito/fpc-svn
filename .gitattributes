@@ -5463,6 +5463,10 @@ tests/test/tover2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tpackrec.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tpara1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tpara2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tparray1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tparray2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tparray3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tparray4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tpftch1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprocext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprocvar1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
