@@ -5584,6 +5584,7 @@ tests/test/units/sysutils/execansi.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 tests/test/units/sysutils/execedbya.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/extractquote.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/tsscanf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/sysutils/tstrtobool.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uprocext1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uprocext2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/utasout.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
