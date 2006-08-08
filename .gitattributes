@@ -3549,13 +3549,26 @@ packages/extra/zlib/zlib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/amiga/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/amiga/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/amiga/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/amiga/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/amiga/os.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/amiga/powerpc/prt0.as svnc_amiga_003aprotection=----rw-d+rw-d+rw-d
-rtl/amiga/printer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/amiga/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
+rtl/amiga/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
+rtl/amiga/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
+rtl/amiga/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
+rtl/amiga/doslibd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
+rtl/amiga/m68k svn_eol_002dtype=nativ
+rtl/amiga/m68k/execf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
+rtl/amiga/m68k/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
+rtl/amiga/powerpc svn_eol_002dtype=nativ
+rtl/amiga/powerpc/prt0.as svnc_amiga_003aprotection=----rw-d+rw-d+rw-d svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
+rtl/amiga/printer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
+rtl/amiga/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
+rtl/amiga/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
+rtl/amiga/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
+rtl/amiga/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
+rtl/amiga/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
+rtl/amiga/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
+rtl/amiga/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
+rtl/amiga/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
+rtl/amiga/timerd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 rtl/arm/arm.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
