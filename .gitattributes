@@ -845,6 +845,7 @@ fcl/inc/whtml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/wtex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/xmlreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/xregreg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/inc/zipper.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/zstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/linux/syncobjs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/net/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -965,6 +966,7 @@ fcl/tests/testsres.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testur.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testz.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testz2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/tests/testzip.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/threads.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/tidea.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/tstelcmd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
