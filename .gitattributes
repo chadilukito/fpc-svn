@@ -5495,6 +5495,7 @@ tests/test/tparray2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tparray6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tpftch1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprocext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprocvar1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
