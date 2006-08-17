@@ -155,6 +155,7 @@ compiler/i386/rropt386.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/ia64/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ia64/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ia64/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ia64/ia64reg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/impdef.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/import.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/link.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -474,6 +475,7 @@ compiler/utils/fpcsubst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/utils/fpimpdef.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fpini.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fppkg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/utils/gia64reg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/gppc386.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mk68kreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkarmins.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
