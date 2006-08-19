@@ -2730,6 +2730,7 @@ packages/extra/numlib/eigh2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/extra/numlib/examples/invgenex.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/numlib/examples/invgpdex.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/numlib/examples/invgsyex.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/numlib/examples/iomrewrsex.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/numlib/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/numlib/int.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/numlib/inv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
