@@ -5496,6 +5496,7 @@ tests/test/tpara1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tpara2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tparray11.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5505,6 +5506,14 @@ tests/test/tparray7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tpftch1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tprec1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tprec2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tprec3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tprec4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tprec5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tprec6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tprec7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tprec8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprocext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprocvar1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprocvar2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5624,6 +5633,8 @@ tests/test/units/sysutils/execedbya.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 tests/test/units/sysutils/extractquote.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/tsscanf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/tstrtobool.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/uprec6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/uprec7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uprocext1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uprocext2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/utasout.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
