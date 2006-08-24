@@ -4435,7 +4435,9 @@ rtl/wince/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/wince/wininc/ascfun.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/wince/wininc/cemiss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/wince/wininc/ceshell.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/wince/wininc/commdlg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/wininc/coredll.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/wininc/oleaut32.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/winsock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
