@@ -5509,6 +5509,7 @@ tests/test/tparray8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tpftch1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tprec10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5516,6 +5517,7 @@ tests/test/tprec5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tprec9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprocext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprocvar1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprocvar2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
