@@ -2684,6 +2684,7 @@ packages/extra/imlib/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/extra/imlib/gdk_imlib/gdk_imlib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/imlib/imlib/imlib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/ldap/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/ldap/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/ldap/lber.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/ldap/lber_typesh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/ldap/lberh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
