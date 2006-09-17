@@ -2695,6 +2695,8 @@ packages/extra/libpng/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/extra/libpng/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/libpng/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/libpng/png.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/md4/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/md4/md4.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/ncurses/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/ncurses/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/ncurses/db_demo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
