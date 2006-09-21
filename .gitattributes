@@ -5533,6 +5533,7 @@ tests/test/tpara2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray11.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tparray12.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
