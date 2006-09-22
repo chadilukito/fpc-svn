@@ -6808,6 +6808,7 @@ utils/h2pas/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/converu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/h2pas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/h2pas/h2pas.y svnc_mime_002dtype=text%2Fplain svnc_eol_002dstyle=native
 utils/h2pas/h2paspp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/lexlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/options.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
