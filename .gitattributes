@@ -1879,6 +1879,9 @@ packages/extra/cdrom/scsidefs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/extra/cdrom/showcds.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/cdrom/wincd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/cdrom/wnaspi32.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/dts/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/dts/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/dts/dts.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/forms/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/forms/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/forms/cursorfont.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
