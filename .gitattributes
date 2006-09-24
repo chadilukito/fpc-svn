@@ -475,6 +475,8 @@ compiler/utils/fpcfg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fpcmkcfg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fpcsubst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fpimpdef.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/utils/fpinc.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/utils/fpinc.ini svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fpini.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fppkg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/gia64reg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
