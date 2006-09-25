@@ -828,6 +828,7 @@ fcl/inc/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/gettext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/idea.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/inc/inicol.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/inifiles.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/iostream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/pipes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
