@@ -4525,6 +4525,7 @@ tests/bench/shootout/src/strcat.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 tests/bench/shootout/src/sumcol.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/takfp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/wc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/bench/shortbench.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/timer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/whet.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/packages/webtbs/tw3820.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
