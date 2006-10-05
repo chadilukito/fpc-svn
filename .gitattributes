@@ -832,6 +832,7 @@ fcl/inc/inicol.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/inifiles.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/iostream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/pipes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/inc/pooledmm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/process.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/process.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/regdef.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -948,6 +949,8 @@ fcl/tests/isocksvr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/istream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/list.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/mstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/tests/poolmm1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/tests/poolmm2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/restest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/showver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/showver.res svn_mime_002dtype=application%2Foctet-stream
