@@ -3742,7 +3742,7 @@ rtl/freebsd/termio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/termios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/freebsd/ucontexth.inc svn_mime_002dtype=plain%2Ftext
+rtl/freebsd/ucontexth.inc svn_mime_002dtype=text%2Fplain
 rtl/freebsd/unixsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
