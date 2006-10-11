@@ -4512,6 +4512,7 @@ tests/bench/dmisc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/drystone.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/pi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/bench/shootout/io/recursive-output.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/obsolete/ackermann.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/obsolete/array.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/obsolete/fibo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4529,6 +4530,7 @@ tests/bench/shootout/obsolete/takfp.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 tests/bench/shootout/obsolete/wc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/hello.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/nsieve.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/bench/shootout/src/recursive.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/sumcol.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shortbench.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/timer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
