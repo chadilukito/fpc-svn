@@ -4513,6 +4513,7 @@ tests/bench/drystone.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/pi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/io/binarytrees-output.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/bench/shootout/io/knucleotide-output.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/io/recursive-output.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/io/spectralnorm-output.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/obsolete/ackermann.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4532,8 +4533,10 @@ tests/bench/shootout/obsolete/takfp.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 tests/bench/shootout/obsolete/wc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/binarytrees.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/hello.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/bench/shootout/src/knucleotide.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/nsieve.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/recursive.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/bench/shootout/src/simple_hash.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/spectralnorm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/sumcol.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shortbench.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
