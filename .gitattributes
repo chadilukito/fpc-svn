@@ -1366,8 +1366,6 @@ packages/base/imagemagick/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/base/imagemagick/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/imagemagick/buildim.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/imagemagick/demo1/image.png svn_mime_002dtype=image%2Fpng
-packages/base/imagemagick/demo1/wanddemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/imagemagick/demo2/screenshot.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/imagemagick/magick/cache_view.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/imagemagick/magick/compare.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/imagemagick/magick/constitute.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
