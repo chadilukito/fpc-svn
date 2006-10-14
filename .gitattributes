@@ -1217,9 +1217,9 @@ packages/base/hash/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/base/hash/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/hash/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/hash/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/hash/md4.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/hash/md5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/hash/md5test.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/hash/ntlm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/httpd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/httpd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/httpd/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2859,7 +2859,6 @@ packages/extra/ldap/ldap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 packages/extra/ldap/ldap_featuresh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/ldap/ldap_schemah.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/ldap/ldaph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/ldap/ntlm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/libgd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/libgd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/libgd/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
