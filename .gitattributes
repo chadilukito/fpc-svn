@@ -5572,6 +5572,7 @@ tests/test/cg/tpara1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tpara2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tprintf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tprintf2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cg/tprintf3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/traise1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/traise2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/traise3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5588,6 +5589,7 @@ tests/test/cg/ttryfin2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/cg/ttryfin3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/ttryfin4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tvec.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cg/uprintf3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/dumpclass.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/dumpmethods.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tcmov.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
