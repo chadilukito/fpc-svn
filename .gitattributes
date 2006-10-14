@@ -4643,6 +4643,7 @@ rtl/wince/wininc/cemiss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 rtl/wince/wininc/ceshell.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/wininc/commdlg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/wininc/coredll.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/wince/wininc/iphlpapi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/wininc/oleaut32.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/winsock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/winsock2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
