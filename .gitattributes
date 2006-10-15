@@ -4299,6 +4299,7 @@ rtl/objpas/objpas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/rtlconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/rtlconst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/rtlconsts.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/objpas/stdconvs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/strutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysconst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/dati.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
