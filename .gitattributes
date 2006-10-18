@@ -5683,6 +5683,8 @@ tests/test/tinline2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinline3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinline4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinline6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tint2str1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tint2str2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tint641.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tint642.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tint643.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
