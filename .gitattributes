@@ -829,6 +829,7 @@ fcl/inc/fpasync.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/gettext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/inc/htmldefs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/idea.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/inicol.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/inifiles.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -994,6 +995,24 @@ fcl/unix/pipes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/process.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/resolve.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/simpleipc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/web/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/web/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/web/custcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/web/fpcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/web/fpdatasetform.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/web/fphtml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/web/fphttp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/web/fptemplate.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/web/fpweb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/web/htmlelements.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/web/htmlwriter.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/web/httpdefs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/web/tagsimpl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/web/tagsintf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/web/websession.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/web/webutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/web/wtagsimpl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/web/wtagsintf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win/fclel.res svn_mime_002dtype=application%2Foctet-stream
 fcl/win/fileinfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1017,7 +1036,6 @@ fcl/xml/dom.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/xml/dom_html.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/xml/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/xml/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-fcl/xml/htmldefs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/xml/htmwrite.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/xml/names.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/xml/sax.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
