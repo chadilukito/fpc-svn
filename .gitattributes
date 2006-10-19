@@ -997,6 +997,7 @@ fcl/unix/resolve.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/simpleipc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/web/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/web/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/web/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/web/custcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/web/fpcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/web/fpdatasetform.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
