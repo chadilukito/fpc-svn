@@ -979,6 +979,7 @@ fcl/tests/testrtf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testsres.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testur.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/tests/testweb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testz.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testz2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testzip.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
