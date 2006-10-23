@@ -962,6 +962,8 @@ fcl/tests/sockcli.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/socksvr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/sstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/stringl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/tests/tarmakercons.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/tests/tarmakerconsgzip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testbf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testbs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
