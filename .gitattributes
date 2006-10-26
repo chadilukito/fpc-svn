@@ -848,6 +848,7 @@ fcl/inc/rtfpars.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/rttiutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/simpleipc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/ssockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/inc/streamcoll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/streamex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/streamio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/syncob.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
