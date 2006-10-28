@@ -480,7 +480,6 @@ compiler/utils/fpimpdef.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/utils/fpinc.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fpinc.ini svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fpini.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/utils/fppkg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/gia64reg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/gppc386.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mk68kreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7034,6 +7033,7 @@ utils/fppkg/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fpmkcnst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fpmktype.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fpmkunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fppkg/fppkg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fprepos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fpxmlrep.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/pkgropts.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
