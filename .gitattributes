@@ -4201,8 +4201,8 @@ rtl/morphos/utility.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/netbsd/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/netbsd/i386/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/i386/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/pmutext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/powerpc/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4219,7 +4219,10 @@ rtl/netbsd/termios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/unixsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/netbsd/unixsysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/netbsd/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/netbsd/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/netbsd/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/netbsd/unxsysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/aio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
