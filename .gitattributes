@@ -4319,6 +4319,7 @@ rtl/objpas/dateutil.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/dateutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/dateutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/fgl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/objpas/fmtbcd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/freebidi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/math.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/objpas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
