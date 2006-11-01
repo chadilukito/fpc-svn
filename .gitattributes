@@ -7057,9 +7057,14 @@ utils/fppkg/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fpmkcnst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fpmktype.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fpmkunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fppkg/fppkg.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fppkg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fprepos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fpxmlrep.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fppkg/pkgdownload.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fppkg/pkghandler.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fppkg/pkgmessages.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fppkg/pkgmkconv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/pkgropts.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/rep2xml.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/rep2xml.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
