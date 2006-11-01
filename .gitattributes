@@ -5675,6 +5675,7 @@ tests/test/tclass6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tclass7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tclass8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tclrprop.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tendian1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tenum1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/testcmem.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/testda1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
