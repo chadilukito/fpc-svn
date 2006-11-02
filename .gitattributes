@@ -4083,6 +4083,12 @@ rtl/linux/fpcylix.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/gpm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/i386/si_c.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/i386/si_c21.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/i386/si_c21g.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/i386/si_dll.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/i386/si_g.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/i386/si_prc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/sighndh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4116,6 +4122,13 @@ rtl/linux/powerpc64/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 rtl/linux/powerpc64/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/pthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/ptypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/si_c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/si_c21.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/si_c21g.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/si_dll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/si_g.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/si_intf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/si_prc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/signal.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/sparc/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/sparc/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
