@@ -4671,6 +4671,9 @@ rtl/win32/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/initc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/objinc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/signals.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win32/sysinitcyg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win32/sysinitgprof.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win32/sysinitpas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/win32res.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/windows.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
