@@ -70,7 +70,6 @@ compiler/arm/rarmsup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/assemble.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/browcol.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/browlog.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/catch.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cclasses.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cfidwarf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
