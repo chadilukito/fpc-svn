@@ -7083,6 +7083,7 @@ utils/fppkg/pkgdownload.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 utils/fppkg/pkghandler.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/pkgmessages.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/pkgmkconv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fppkg/pkgocurl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/pkgropts.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/pkgsynapse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/pkgwget.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
