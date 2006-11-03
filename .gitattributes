@@ -7090,6 +7090,7 @@ utils/fppkg/pkgwget.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/rep2xml.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/rep2xml.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/reptest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fppkg/testdownload.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fprcp/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fprcp/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fprcp/Readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
