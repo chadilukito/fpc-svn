@@ -7084,6 +7084,7 @@ utils/fppkg/pkghandler.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 utils/fppkg/pkgmessages.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/pkgmkconv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/pkgropts.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fppkg/pkgsynapse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/pkgwget.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/rep2xml.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/rep2xml.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
