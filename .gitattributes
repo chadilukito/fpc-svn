@@ -361,6 +361,7 @@ compiler/powerpc64/rppcsri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 compiler/powerpc64/rppcstab.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/rppcstd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/rppcsup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/pp.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcgen/cgppc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcgen/ngppcadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
