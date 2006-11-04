@@ -7139,6 +7139,7 @@ utils/fppkg/fprepos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fpxmlrep.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/pkgdownload.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/pkghandler.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fppkg/pkglnet.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/pkgmessages.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/pkgmkconv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/pkgocurl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
