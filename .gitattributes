@@ -242,6 +242,7 @@ compiler/ncgld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgmem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgopt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ncgrtti.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
