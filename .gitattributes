@@ -3589,6 +3589,7 @@ packages/extra/winunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/extra/winunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/winunits/activex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/winunits/buildjwa.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/winunits/comconst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/winunits/commctrl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/winunits/comobj.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/winunits/examples/testver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
