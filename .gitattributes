@@ -2943,6 +2943,8 @@ packages/extra/ldap/ldap_schemah.inc svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/extra/ldap/ldaph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/libcurl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/libcurl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libcurl/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libcurl/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/libcurl/libcurl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/libcurl/testcurl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/libcurl/teststream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
