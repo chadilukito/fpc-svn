@@ -4799,6 +4799,7 @@ tests/bench/shootout/obsolete/wc.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 tests/bench/shootout/src/binarytrees.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/hello.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/knucleotide.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/bench/shootout/src/mandelbrot.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/nsieve.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/partialsums.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/recursive.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
