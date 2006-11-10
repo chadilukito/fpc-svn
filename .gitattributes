@@ -283,7 +283,6 @@ compiler/pexports.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pexpr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pinline.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pmodules.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/powerpc/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/agppcgas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/agppcmpw.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -323,7 +322,6 @@ compiler/powerpc/rppcsri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/powerpc/rppcstab.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/rppcstd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/rppcsup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/powerpc64/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/agppcgas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -363,6 +361,7 @@ compiler/powerpc64/rppcstd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 compiler/powerpc64/rppcsup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pp.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ppcgen/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcgen/cgppc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcgen/ngppcadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppheap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
