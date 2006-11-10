@@ -5690,6 +5690,7 @@ tests/test/cg/texit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tfor.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tfuncret.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tin.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cg/tincdec.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tincexc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tinitdon.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tis.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
