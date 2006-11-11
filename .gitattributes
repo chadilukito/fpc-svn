@@ -5803,6 +5803,7 @@ tests/test/tfpu5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tfpuover.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tgeneric1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tgeneric10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tgeneric11.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tgeneric2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tgeneric3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tgeneric4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
