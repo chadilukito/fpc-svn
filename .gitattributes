@@ -5950,6 +5950,7 @@ tests/test/tvarset1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/twide1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/twide2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uabstrcl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/ugeneric10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ugeneric3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ugeneric4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uimpluni1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
