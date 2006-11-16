@@ -301,7 +301,6 @@ compiler/powerpc/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 compiler/powerpc/nppcadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/nppccal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/nppccnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/powerpc/nppcinl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/nppcmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/nppcset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/ppcins.dat svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
@@ -339,7 +338,6 @@ compiler/powerpc64/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 compiler/powerpc64/nppcadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/nppccal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/nppccnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/powerpc64/nppcinl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/nppcld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/nppcmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/nppcset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -367,6 +365,7 @@ compiler/ppcgen/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 compiler/ppcgen/cgppc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcgen/ngppcadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcgen/ngppccnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ppcgen/ngppcinl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppheap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/procinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
