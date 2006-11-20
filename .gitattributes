@@ -742,6 +742,9 @@ fcl/fpcunit/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/demo/consolerunner/suiteconfig.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/demo/consolerunner/testrunner.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/fpcunit/example_xsl/fpcunit.css svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/fpcunit/example_xsl/fpcunit.xsl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/fpcunit/example_xsl/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/exampletests/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/exampletests/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/exampletests/fpcunittests.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
