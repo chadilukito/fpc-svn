@@ -776,6 +776,7 @@ fcl/image/bmpcomn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/clipping.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/drawing.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/ellipses.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/image/extinterpolation.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fpbrush.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fpcanvas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fpcanvas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -791,6 +792,7 @@ fcl/image/fpimage.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fpimage.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fpimgcanv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fpimgcmn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/image/fpinterpolation.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/fppalette.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
