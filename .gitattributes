@@ -4495,6 +4495,7 @@ rtl/openbsd/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 rtl/openbsd/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/unixsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/unixsysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/openbsd/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
