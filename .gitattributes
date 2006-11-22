@@ -4730,6 +4730,7 @@ rtl/win/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/dynlibs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/fpcmemdll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win/fpwinsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/keyboard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/messages.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/mouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
