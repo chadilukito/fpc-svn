@@ -1768,6 +1768,7 @@ packages/base/mysql/ver40/mysql_com.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/base/mysql/ver40/mysql_version.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/netdb/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/netdb/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/netdb/cnetdb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/netdb/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/netdb/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/netdb/hs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
