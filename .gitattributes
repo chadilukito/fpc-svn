@@ -4351,6 +4351,7 @@ rtl/netware/initc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/keyboard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/mouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/netware.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/netware/netwsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/npackoff.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/npackon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/nwcalls.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4388,6 +4389,7 @@ rtl/netwlibc/initc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/keyboard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/libc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/mouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/netwlibc/netwsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/nwsnut.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/pre/libcpre.gcc.o svn_mime_002dtype=application%2Foctet-stream
 rtl/netwlibc/qos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
