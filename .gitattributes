@@ -1172,6 +1172,7 @@ ide/fpcygwin.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fpdebug.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fpdesk.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fpdpansi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+ide/fpevalw.pas svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 ide/fphelp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fpide.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fpini.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
