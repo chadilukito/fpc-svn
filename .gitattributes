@@ -580,7 +580,8 @@ fcl/darwin/syncobjs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/Dataset.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-fcl/db/bufdataset.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/db/bufdataset.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/db/bufdataset_parser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/database.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/dataset.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/datasource.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
