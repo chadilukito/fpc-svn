@@ -432,6 +432,7 @@ compiler/systems/i_amiga.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/systems/i_atari.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_beos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_bsd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/systems/i_embedded.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_emx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_gba.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_go32v2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -451,6 +452,7 @@ compiler/systems/t_amiga.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/systems/t_atari.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_beos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_bsd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/systems/t_embedded.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_emx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_gba.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_go32v2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3998,6 +4000,16 @@ rtl/darwin/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/check.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/emx/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/emx/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/emx/crt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
