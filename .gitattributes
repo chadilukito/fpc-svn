@@ -590,6 +590,7 @@ fcl/db/dbase/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/dbase/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/dbase/dbf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/dbase/dbf_avl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/db/dbase/dbf_collate.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/dbase/dbf_common.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/dbase/dbf_common.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/db/dbase/dbf_cursor.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
