@@ -4338,6 +4338,7 @@ rtl/morphos/utild2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/utilf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/utility.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
