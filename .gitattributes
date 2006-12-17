@@ -3624,9 +3624,9 @@ packages/extra/uuid/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 packages/extra/uuid/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/uuid/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/uuid/libuuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/uuid/macuuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/uuid/testlibuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/uuid/testuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/uuid/uuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/winunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/winunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/winunits/activex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
