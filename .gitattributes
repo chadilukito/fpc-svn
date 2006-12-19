@@ -1311,7 +1311,7 @@ packages/base/hash/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/base/hash/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/hash/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/hash/md5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/hash/md5test.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/hash/mdtest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/hash/ntlm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/hash/uuid.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/httpd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
