@@ -3996,7 +3996,6 @@ rtl/darwin/sysctlh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/termio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/termios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/darwin/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4045,7 +4044,6 @@ rtl/freebsd/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/termio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/termios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/freebsd/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/ucontexth.inc svn_mime_002dtype=text%2Fplain
 rtl/freebsd/unixsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4273,7 +4271,6 @@ rtl/linux/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/termio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/termios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/linux/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/unixsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4369,7 +4366,6 @@ rtl/netbsd/systypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/termio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/termios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/netbsd/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/unixsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4532,7 +4528,6 @@ rtl/openbsd/systypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/termio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/termios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/openbsd/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/unixsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/unixsysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4652,7 +4647,6 @@ rtl/solaris/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/termio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/termios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/solaris/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4747,6 +4741,7 @@ rtl/unix/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/terminfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/termiosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/timezone.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/unix/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/ttyname.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unix.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unixtype.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5829,6 +5824,7 @@ tests/test/tarray5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tarray6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasmread.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasout.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tbrtlevt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcase1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcase2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcg1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
