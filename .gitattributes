@@ -2121,6 +2121,9 @@ packages/extra/bzip2/bzip2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/extra/bzip2/bzip2i386.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/bzip2/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/bzip2/pasbzip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/cairo/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/cairo/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/cairo/cairo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/cdrom/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/cdrom/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/cdrom/cdrom.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
