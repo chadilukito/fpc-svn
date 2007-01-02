@@ -5,6 +5,7 @@ compiler/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aasmbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aasmdata.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/aasmsym.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aasmtai.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aggas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/alpha/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
