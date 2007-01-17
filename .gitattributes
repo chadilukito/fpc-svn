@@ -6166,7 +6166,9 @@ tests/test/units/dos/tidos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 tests/test/units/dos/tidos2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/dos/tverify.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/dos/tversion.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/math/tmask.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/math/tmask.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/math/tmask2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/math/tnaninf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/math/ttrig1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/objects/testobj.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
