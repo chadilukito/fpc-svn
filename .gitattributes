@@ -4275,7 +4275,10 @@ rtl/morphos/graphics.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/hardware.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/inputevent.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/intuition.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/morphos/keyboard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/morphos/kvm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/layers.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/morphos/mouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4293,6 +4296,7 @@ rtl/morphos/utild2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/utilf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/utility.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/morphos/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
