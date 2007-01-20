@@ -4297,6 +4297,7 @@ rtl/morphos/utilf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/utility.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/morphos/videodata.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
