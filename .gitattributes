@@ -1139,9 +1139,6 @@ ide/fpmtools.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fpmwnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fpredir.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fpregs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-ide/fpstre.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-ide/fpstrh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-ide/fpstring.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fpswitch.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fpsymbol.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fptemplt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
