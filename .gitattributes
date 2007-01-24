@@ -1224,6 +1224,7 @@ packages/base/gdbint/gdbcon.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/base/gdbint/gdbint.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/gdbint/gdbobjs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/gdbint/gdbver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/gdbint/gdbver_nogdb.inc svn_mimetype=text%2Fx-pascal svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 packages/base/gdbint/symify.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/gdbint/testgdb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/graph/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
