@@ -745,12 +745,13 @@ fcl/db/unmaintained/sqlite/sqlitedataset.pas svn_mime_002dtype=text%2Fplain svn_
 fcl/dbtests/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/dbtests/memdstoolsunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/dbtests/testbasics.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-fcl/fpcunit/DUnitCompatibleInterface.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/demo/consolerunner/suiteconfig.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/demo/consolerunner/testrunner.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/fpcunit/example_output/results.pdf svn_mime_002dtype=application%2Foctet-stream
+fcl/fpcunit/example_output/results.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/example_xsl/fpcunit.css svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/example_xsl/fpcunit.xsl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/example_xsl/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -760,9 +761,11 @@ fcl/fpcunit/exampletests/fpcunittests.pp svn_mime_002dtype=text%2Fplain svn_eol_
 fcl/fpcunit/exampletests/money.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/exampletests/moneytest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/exampletests/testmockobject.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-fcl/fpcunit/fpcunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/fpcunit/fpcunitreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/fpcunit/latextestreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/fpcunit/plaintestreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/testdecorator.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/testregistry.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/testreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -771,9 +774,9 @@ fcl/fpcunit/tests/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 fcl/fpcunit/tests/asserttest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/tests/frameworktest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/tests/suitetest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-fcl/fpcunit/testutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/ubmockobject.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpcunit/xmlreporter.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/fpcunit/xmltestreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/go32v2/custapp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/go32v2/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -827,6 +830,7 @@ fcl/image/pixtools.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/pngcomn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/pscanvas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/image/targacmn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/inc/DUnitCompatibleInterface.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/avl_tree.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/base64.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/blowfish.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -841,6 +845,7 @@ fcl/inc/eventlog.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/ezcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/felog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/fpasync.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/inc/fpcunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/gettext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -867,6 +872,7 @@ fcl/inc/streamcoll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/streamex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/streamio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/syncobjs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/inc/testutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/wformat.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/whtml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/wtex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
