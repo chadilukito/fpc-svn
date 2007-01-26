@@ -7311,6 +7311,7 @@ tests/webtbs/tw8155.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw8156.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw8171.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw8172.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw8180.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw8183.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw8199.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw8222.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7364,6 +7365,7 @@ tests/webtbs/uw4541.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/uw6203.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/uw6767.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/uw7381.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/uw8180.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/bin2obj.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
