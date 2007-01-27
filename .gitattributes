@@ -6136,6 +6136,7 @@ tests/test/tset1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tset2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tset3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tset4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tset5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstack.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstprocv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstring1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
