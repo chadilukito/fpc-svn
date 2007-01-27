@@ -1757,6 +1757,7 @@ packages/base/oracle/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/base/oracle/oraoci.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/pasjpeg/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/pasjpeg/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/pasjpeg/buildpasjpeg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/pasjpeg/cderror.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/pasjpeg/cdjpeg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/pasjpeg/cjpeg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
