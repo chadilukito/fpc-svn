@@ -839,6 +839,7 @@ fcl/inc/cachecls.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/cgiapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/contnrs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/custapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/inc/daemonapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/dbugintf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/dbugmsg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/inc/eventlog.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -952,6 +953,7 @@ fcl/tests/b64test.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/b64test2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/cachetest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/cfgtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/tests/daemon.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/dbugsrv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/debugtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/doecho.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1012,6 +1014,7 @@ fcl/tests/txmlreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/xmldump.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/asyncio.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/asyncioh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/unix/daemonapp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/pipes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/unix/process.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1036,6 +1039,7 @@ fcl/web/websession.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/web/webutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/web/wtagsimpl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/web/wtagsintf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/win/daemonapp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/win/fclel.res svn_mime_002dtype=application%2Foctet-stream
 fcl/win/fileinfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
