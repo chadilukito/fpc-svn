@@ -1001,6 +1001,7 @@ fcl/tests/testrsre.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testrtf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testsres.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/tests/testunzip.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testur.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testweb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/testz.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
