@@ -7514,6 +7514,7 @@ utils/fppkg/lnet/sys/lkqueueeventerh.inc svn_mime_002dtype=text%2Fplain svn_eol_
 utils/fppkg/lnet/sys/lspawnfcgiunix.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/lnet/sys/lspawnfcgiwin.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/lnet/sys/osunits.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fppkg/pkgarchive.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/pkgcommands.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/pkgdownload.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/pkgfpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
