@@ -7481,6 +7481,7 @@ utils/fppkg/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fcl20/contnrs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fcl20/streamcoll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fppkg/fcl20/uriparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fcl20/zipper.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fcl20/zstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fpmkcnst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
