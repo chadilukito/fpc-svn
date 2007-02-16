@@ -6293,6 +6293,7 @@ tests/utils/testsuite/testsuite.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 tests/utils/testsuite/testsuite.sql svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/testsuite/utests.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/testu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/utils/tresults.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/variants/genvartests.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/variants/processtests.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw0744.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
