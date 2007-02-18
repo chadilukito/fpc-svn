@@ -4771,6 +4771,7 @@ rtl/win/wininc/redef.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/wininc/struct.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/wininc/unidef.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/wininc/unifun.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win/winres.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/winsock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/winsock2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4784,7 +4785,6 @@ rtl/win32/sysinitcyg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/sysinitgprof.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/sysinitpas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/win32/win32res.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/windows.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/winsysut.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win64/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7349,6 +7349,7 @@ tests/webtbs/tw8232.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw8258.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw8258a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw8264.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw8304.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw8312.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/ub1873.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/ub1883.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
