@@ -462,6 +462,7 @@ compiler/systems/t_go32v2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 compiler/systems/t_linux.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_macos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_morph.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/systems/t_nds.pas svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 compiler/systems/t_nwl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_nwm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_os2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
