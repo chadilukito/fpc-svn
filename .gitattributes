@@ -6494,6 +6494,7 @@ tests/webtbf/tw4781b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw4893d.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw4893e.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw4911.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbf/tw5896a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw6420.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw6631.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw6686.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7277,6 +7278,7 @@ tests/webtbs/tw5082.pp svn_mime_002dtype=text%2Fplain
 tests/webtbs/tw5100.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw5100a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw5641.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw5896.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw6129.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw6203.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw6435.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
