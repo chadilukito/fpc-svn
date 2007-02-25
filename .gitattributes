@@ -737,6 +737,7 @@ packages/base/gdbint/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/base/gdbint/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/gdbint/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/gdbint/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/gdbint/freadlin.pp svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 packages/base/gdbint/gdbcon.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/gdbint/gdbint.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/gdbint/gdbobjs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
