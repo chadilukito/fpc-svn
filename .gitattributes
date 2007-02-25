@@ -964,9 +964,14 @@ fcl/tests/dsocksvr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/fstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/htdump.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/intl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/tests/intl/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/intl/restest.de.mo svn_mime_002dtype=application%2Foctet-stream
+fcl/tests/intl/restest.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/intl/restest.fr.mo svn_mime_002dtype=application%2Foctet-stream
+fcl/tests/intl/restest.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/intl/restest.nl.mo svn_mime_002dtype=application%2Foctet-stream
+fcl/tests/intl/restest.nl.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+fcl/tests/intl/resttest.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/ipcclient.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/ipcserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 fcl/tests/isockcli.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
