@@ -368,6 +368,7 @@ compiler/ppcgen/ngppcadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/ppcgen/ngppccnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcgen/ngppcinl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcgen/ngppcset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ppcppc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppheap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/procinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
