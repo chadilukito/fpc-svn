@@ -2957,6 +2957,30 @@ packages/extra/rexx/rexxsaa.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/extra/rexx/test/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/rexx/test/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/rexx/test/callrexx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/sdl/MPL-1.1.txt svn_eol_002dstyle=native
+packages/extra/sdl/Makefile svn_eol_002dstyle=native
+packages/extra/sdl/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/sdl/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/sdl/jedi-sdl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/sdl/libxmlparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/sdl/logger.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/sdl/moduleloader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/sdl/registryuserpreferences.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/sdl/sdl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/sdl/sdl_cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/sdl/sdl_gfx.pas svn_mime_002dtype=text%2Fplain
+packages/extra/sdl/sdl_image.pas svn_mime_002dtype=text%2Fplain
+packages/extra/sdl/sdl_mixer.pas svn_mime_002dtype=text%2Fplain
+packages/extra/sdl/sdlfilter.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/sdl/sdlgameinterface.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/sdl/sdli386utils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/sdl/sdlinput.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/sdl/sdlstreams.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/sdl/sdlticks.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/sdl/sdlutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/sdl/sdlwindow.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/sdl/smpeg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/sdl/userpreferences.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/sndfile/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/sndfile/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/sndfile/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
