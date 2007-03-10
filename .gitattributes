@@ -1437,6 +1437,7 @@ packages/base/winunits/jwaaccctrl.pas svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/base/winunits/jwaaclapi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwaaclui.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwaactiveds.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/winunits/jwaactivex.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwaadsdb.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwaadserr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwaadshlp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1459,6 +1460,7 @@ packages/base/winunits/jwabluetoothapis.pas svn_mime_002dtype=text%2Fplain svn_e
 packages/base/winunits/jwabthdef.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwabthsdpdef.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwabugcodes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/winunits/jwacarderr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwacderr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwacmnquery.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwacolordlg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1505,6 +1507,7 @@ packages/base/winunits/jwaiprtrmib.pas svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/base/winunits/jwaiptypes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwaisguids.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwaissper16.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/winunits/jwalm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwalmaccess.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwalmalert.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwalmapibuf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1602,7 +1605,9 @@ packages/base/winunits/jwawincon.pas svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/base/winunits/jwawincpl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwawincred.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwawincrypt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/winunits/jwawindllnames.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwawindns.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/winunits/jwawindows.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwawinefs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwawinerror.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwawinfax.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1619,6 +1624,7 @@ packages/base/winunits/jwawinsafer.pas svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/base/winunits/jwawinsock.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwawinsock2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwawinsvc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/winunits/jwawinternl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwawintype.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwawinuser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/jwawinver.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
