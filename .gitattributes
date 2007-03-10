@@ -3889,6 +3889,8 @@ packages/fcl-xml/src/xmlstreaming.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/fcl-xml/src/xmlutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/xmlwrite.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/xpath.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-xml/tests/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-xml/tests/template.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/tests/xmlts.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
