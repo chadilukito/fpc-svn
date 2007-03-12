@@ -5629,6 +5629,7 @@ tests/tbs/tb0529.pp svn_mimetype=text%2Fx-pascal svn_eol_002dstyle=native
 tests/tbs/tb0530.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb0531.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb0532.pp svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+tests/tbs/tb0533.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/ub0060.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/ub0069.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/ub0119.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
