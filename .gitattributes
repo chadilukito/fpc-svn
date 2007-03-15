@@ -4338,6 +4338,7 @@ rtl/morphos/hardware.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/inputevent.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/intuition.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/keyboard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/morphos/keymap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/kvm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/layers.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/mouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
