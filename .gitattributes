@@ -3859,6 +3859,7 @@ packages/fcl-xml/src/wtagsimpl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/fcl-xml/src/wtagsintf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/xhtml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/xmlcfg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-xml/src/xmlconf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/xmlread.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/xmlstreaming.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/xmlutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
