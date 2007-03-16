@@ -2695,6 +2695,13 @@ packages/extra/libpng/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/extra/libpng/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/libpng/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/libpng/png.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/lua/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/lua/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/lua/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/lua/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/lua/lauxlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/lua/lua.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/lua/lualib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/mad/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/mad/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/mad/mad.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
