@@ -2962,15 +2962,18 @@ packages/extra/ptc/examples/stretch.tga svn_mime_002dtype=application%2Foctet-st
 packages/extra/ptc/win32/base/ptcres.res svn_mime_002dtype=application%2Foctet-stream
 packages/extra/ptc/win32/base/windows.ico svn_mime_002dtype=application%2Foctet-stream
 packages/extra/ptc/x11/check.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/consoled.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/consolei.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/dgadispd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/dgadispi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/displayd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/displayi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/imaged.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/imagei.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/windowi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/extra/ptc/x11/modesd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/extra/ptc/x11/modesi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/extra/ptc/x11/svnimaged.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/extra/ptc/x11/svnimagei.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/extra/ptc/x11/x11consoled.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/extra/ptc/x11/x11consolei.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/extra/ptc/x11/x11dgadisplayd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/extra/ptc/x11/x11dgadisplayi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/extra/ptc/x11/x11displayd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/extra/ptc/x11/x11displayi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/extra/ptc/x11/x11windowd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/extra/ptc/x11/x11windowi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 packages/extra/rexx/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/rexx/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/rexx/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
