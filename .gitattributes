@@ -6224,6 +6224,7 @@ tests/test/tintfdef.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tintuint.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tlibrary1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tlibrary2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tlibrary3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmacbool.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmacfunret.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmaclocalprocparam.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
