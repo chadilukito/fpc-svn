@@ -3943,6 +3943,7 @@ packages/fcl-web/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 packages/fcl-web/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/custcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/src/fpapache.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/fpcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/fpdatasetform.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/fphtml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
