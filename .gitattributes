@@ -308,7 +308,6 @@ compiler/powerpc/ppcins.dat svn_eol_002dstyle=native svn_eol_002dmime=text%2Fpla
 compiler/powerpc/ppcreg.dat svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
 compiler/powerpc/rappc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/rappcgas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/powerpc/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/rppccon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/rppcdwrf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/rppcgas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -342,7 +341,6 @@ compiler/powerpc64/nppcld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 compiler/powerpc64/nppcmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/rappc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/rappcgas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/powerpc64/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/rppccon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/rppcdwrf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/rppcgas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -368,6 +366,7 @@ compiler/ppcgen/ngppcadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/ppcgen/ngppccnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcgen/ngppcinl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcgen/ngppcset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ppcgen/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcppc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcsparc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppheap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7570,6 +7569,7 @@ tests/webtbs/tw8513.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw8525.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw8573.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw8615.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw8633.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw8660.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw8664.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/ub1873.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
