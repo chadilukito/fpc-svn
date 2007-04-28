@@ -6684,6 +6684,9 @@ tests/webtbf/tw8451.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw8528.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw8583.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw8588.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbf/tw8780a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbf/tw8780b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbf/tw8780c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw8781.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/uw0744.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/uw0840a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
