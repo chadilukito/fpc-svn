@@ -621,6 +621,7 @@ ide/fakegdb/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fakegdb/gdbcon.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fakegdb/gdbint.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+ide/fp.term svn_mime_002dtype=application%2Foctet-stream
 ide/fp32.ico svn_mime_002dtype=application%2Foctet-stream
 ide/fpcalc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fpcatch.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
