@@ -3652,6 +3652,8 @@ packages/fcl-base/tests/intl/restest.fr.mo svn_mime_002dtype=application%2Foctet
 packages/fcl-base/tests/intl/restest.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/tests/intl/restest.nl.mo svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-base/tests/intl/restest.nl.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/tests/intl/restest.pb.mo svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-base/tests/intl/restest.pb.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/tests/intl/resttest.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/tests/ipcclient.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/tests/ipcserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
