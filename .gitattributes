@@ -6135,7 +6135,6 @@ tests/test/cg/variants/tvarol98.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 tests/test/cg/variants/tvarol99.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/dumpclass.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/dumpmethods.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/test/heapthread.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tcmov.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tcse1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tcse2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6228,6 +6227,7 @@ tests/test/tgeneric8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tgeneric9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tgoto.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/theap.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/theapthread.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/thintdir.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/timplprog.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinivar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
