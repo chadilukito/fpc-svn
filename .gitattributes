@@ -6274,6 +6274,7 @@ tests/test/tinterface1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/tinterface2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinterface3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinterface4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tinterface5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinterrupt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tintfdef.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tintuint.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
