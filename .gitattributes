@@ -6348,6 +6348,7 @@ tests/test/tprocext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprocvar1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprocvar2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprocvar3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tprop.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprop1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprop2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trange1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
