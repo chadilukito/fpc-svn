@@ -4991,6 +4991,7 @@ tests/bench/dmisc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/drystone.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/pi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/bench/shootout/fpascal2.diff svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/io/binarytrees-output.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/io/knucleotide-output.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/io/recursive-output.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
