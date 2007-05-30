@@ -734,12 +734,6 @@ packages/base/dbus/example/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/base/dbus/example/busexample.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/fpmake/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/fpmake/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/fpmake/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/fpmake/fpmkcnst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/fpmake/fpmktype.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/fpmake/fpmkunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/gdbint/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/gdbint/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/gdbint/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3995,6 +3989,12 @@ packages/fcl-xml/tests/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/fcl-xml/tests/template.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/tests/xmlts.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpmake/src/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpmake/src/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpmake/src/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpmake/src/fpmkcnst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpmake/src/fpmktype.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpmake/src/fpmkunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
