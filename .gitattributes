@@ -3993,8 +3993,6 @@ packages/fpmake/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpmake/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpmake/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpmake/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fpmake/src/fpmkcnst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fpmake/src/fpmktype.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpmake/src/fpmkunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
