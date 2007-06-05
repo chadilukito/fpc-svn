@@ -5025,6 +5025,7 @@ tests/bench/shootout/src/simple_hash.pp svn_mime_002dtype=text%2Fplain svn_eol_0
 tests/bench/shootout/src/spectralnorm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/sumcol.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shortbench.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/bench/stream.pp svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 tests/bench/timer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/whet.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/packages/webtbs/tw3820.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
