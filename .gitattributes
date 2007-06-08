@@ -6300,6 +6300,14 @@ tests/test/tmcbool2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmmx1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmove.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmt1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tnewdis1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tnewdis2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tnewdis3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tnewdis4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tnewdis5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tnewdis6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tnewdis7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tnewdis8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobject1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobject2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobject3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
