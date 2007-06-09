@@ -6342,6 +6342,10 @@ tests/test/tprec11.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec12.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec13.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec14.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tprec15.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tprec16.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tprec17.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tprec18.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
