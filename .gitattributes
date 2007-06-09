@@ -6328,6 +6328,10 @@ tests/test/tparray19.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray20.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray21.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tparray22.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tparray23.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tparray24.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tparray25.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6346,7 +6350,9 @@ tests/test/tprec15.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec16.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec17.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec18.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tprec19.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tprec20.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
