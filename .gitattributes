@@ -76,7 +76,7 @@ compiler/browcol.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/catch.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cclasses.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cfidwarf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/cfileutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/cfileutl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cg64f32.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cgbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cgobj.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -440,7 +440,7 @@ compiler/systems/i_amiga.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/systems/i_atari.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_beos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_bsd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/systems/i_embedded.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/systems/i_embed.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_emx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_gba.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_go32v2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -461,7 +461,7 @@ compiler/systems/t_amiga.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/systems/t_atari.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_beos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_bsd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/systems/t_embedded.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/systems/t_embed.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_emx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_gba.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_go32v2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
