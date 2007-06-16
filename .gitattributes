@@ -5881,6 +5881,7 @@ tests/test/cg/taddset2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/cg/tadint64.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tassign1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tassign2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cg/tautom.pp svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 tests/test/cg/tcalcla1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalcon1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalcst1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
