@@ -761,6 +761,7 @@ packages/base/graph/inc/gtext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/base/graph/inc/makefile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/graph/inc/modes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/graph/inc/palette.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/graph/macosx/graph.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/graph/ptcgraph.pp svn_mimetype=text%2Fx-pascal svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 packages/base/graph/unix/ggigraph.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/graph/unix/graph.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
