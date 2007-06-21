@@ -3559,6 +3559,7 @@ packages/fcl-base/src/inc/eventlog.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/fcl-base/src/inc/ezcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/inc/felog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/inc/fpasync.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/src/inc/fptimer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/inc/gettext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/inc/idea.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/inc/inicol.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3691,6 +3692,7 @@ packages/fcl-base/tests/testrsre.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/fcl-base/tests/testrtf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/tests/testser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/tests/testsres.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/tests/testtimer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/tests/testunzip.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/tests/testur.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/tests/testweb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
