@@ -7875,7 +7875,9 @@ utils/fppkg/lnet/lfastcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 utils/fppkg/lnet/lftp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/lnet/lhttp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/lnet/lhttputil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fppkg/lnet/lmimestreams.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/lnet/lmimetypes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fppkg/lnet/lmimewrapper.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/lnet/lnet.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/lnet/lprocess.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/lnet/lsmtp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
