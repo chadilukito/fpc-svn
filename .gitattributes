@@ -1367,6 +1367,8 @@ packages/base/paszlib/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/base/paszlib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/adler.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/changes.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/paszlib/demo/miniunz.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/paszlib/demo/minizip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/example.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1380,11 +1382,14 @@ packages/base/paszlib/minigzip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/base/paszlib/paszlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/trees.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/paszlib/unzip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/zbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/zcompres.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/zconf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/zdeflate.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/zinflate.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/paszlib/zip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/paszlib/ziputils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/zuncompr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/postgres/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/postgres/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
