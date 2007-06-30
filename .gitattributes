@@ -1367,9 +1367,10 @@ packages/base/paszlib/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/base/paszlib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/adler.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/changes.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/paszlib/demo/example.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/paszlib/demo/minigzip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/demo/miniunz.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/demo/minizip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/paszlib/example.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/gzio.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1378,7 +1379,6 @@ packages/base/paszlib/infcodes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/base/paszlib/inffast.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/inftrees.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/infutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/paszlib/minigzip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/paszlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/trees.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
