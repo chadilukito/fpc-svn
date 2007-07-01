@@ -1367,6 +1367,8 @@ packages/base/paszlib/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/base/paszlib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/adler.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/changes.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/paszlib/demo/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/paszlib/demo/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/demo/example.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/demo/minigzip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/paszlib/demo/miniunz.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
