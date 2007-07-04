@@ -6426,6 +6426,7 @@ tests/test/tw6727.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/twide1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/twide2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/twide3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/twide4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/twrstr1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/twrstr2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/twrstr3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
