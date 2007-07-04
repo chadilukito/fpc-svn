@@ -3110,6 +3110,7 @@ packages/extra/sdl/sdl_cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/extra/sdl/sdl_gfx.pas svn_mime_002dtype=text%2Fplain
 packages/extra/sdl/sdl_image.pas svn_mime_002dtype=text%2Fplain
 packages/extra/sdl/sdl_mixer.pas svn_mime_002dtype=text%2Fplain
+packages/extra/sdl/sdl_mixer_nosmpeg.pas svn_mime_002dtype=text%2Fplain
 packages/extra/sdl/sdl_net.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/sdl/sdl_sound.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/sdl/sdl_ttf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
