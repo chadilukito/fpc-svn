@@ -6201,6 +6201,7 @@ tests/test/opt/treg1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/treg2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/treg3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/treg4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/opt/tretopt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/t4cc1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/t4cc2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tabstrcl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
