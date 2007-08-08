@@ -4832,9 +4832,11 @@ rtl/powerpc/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/strlen.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/strpas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/powerpc64/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/powerpc64/powerpc64.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
