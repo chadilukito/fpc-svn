@@ -4459,6 +4459,8 @@ rtl/linux/termio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/termios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/unixsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/unixsockets.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/unixsocketsh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4973,6 +4975,7 @@ rtl/unix/timezone.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/ttyname.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unix.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/unix/unixsockets.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unixtype.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unixutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unxdeclh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
