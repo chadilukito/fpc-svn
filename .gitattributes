@@ -3469,6 +3469,7 @@ packages/extra/univint/UnicodeUtilities.pas svn_mime_002dtype=text%2Fplain svn_e
 packages/extra/univint/UniversalAccess.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/univint/Video.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/univint/WorldScript.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/univint/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/univint/fenv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/univint/fp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/univint/vBLAS.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
