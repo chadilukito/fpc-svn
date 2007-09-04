@@ -1811,6 +1811,7 @@ packages/extra/aspell/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/extra/aspell/aspell.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/aspell/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/aspell/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/aspell/scheck.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/bfd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/bfd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/bfd/bfd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
