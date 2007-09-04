@@ -1806,6 +1806,11 @@ packages/extra/amunits/utilunits/tagsarray.pas svn_mime_002dtype=text%2Fplain sv
 packages/extra/amunits/utilunits/timerutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/amunits/utilunits/vartags.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/amunits/utilunits/wbargs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/aspell/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/aspell/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/aspell/aspell.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/aspell/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/aspell/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/bfd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/bfd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/bfd/bfd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
