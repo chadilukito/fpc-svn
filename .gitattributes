@@ -6615,6 +6615,7 @@ tests/test/units/system/teststk.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 tests/test/units/system/testux.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/tincdec.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/tint.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/system/tintstr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/tio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/tiorte.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/tjmp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
