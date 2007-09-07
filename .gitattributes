@@ -4085,7 +4085,6 @@ rtl/beos/i386/dllprt.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/i386/func.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/i386/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/osmacro.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/beos/osposixh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/ossysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/ostypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/ptypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4095,8 +4094,6 @@ rtl/beos/suuid.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/sysconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/beos/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/beos/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4110,8 +4107,6 @@ rtl/beos/unixsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/beos/unxsysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/beos/unxsysch.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/bunxfunch.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/bunxsysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/i386/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
