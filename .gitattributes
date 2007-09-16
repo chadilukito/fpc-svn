@@ -6011,6 +6011,7 @@ tests/test/cg/taddreal2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 tests/test/cg/taddset.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/taddset2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/taddset3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cg/taddset4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tadint64.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tassign1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tassign2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
