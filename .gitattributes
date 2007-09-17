@@ -3938,6 +3938,15 @@ packages/fcl-image/src/pixtools.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/fcl-image/src/pngcomn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/pscanvas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/targacmn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-json/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-json/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-json/src/fpjson.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-json/src/jsonparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-json/src/jsonscanner.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-json/tests/testjson.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-json/tests/testjson.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-json/tests/testjsondata.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-json/tests/testjsonparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/src/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
