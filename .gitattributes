@@ -3940,6 +3940,8 @@ packages/fcl-image/src/pscanvas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/fcl-image/src/targacmn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-json/demo/parsedemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-json/demo/parsedemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/demo/simpledemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/demo/simpledemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/src/fpjson.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
