@@ -6718,6 +6718,7 @@ tests/utils/dbtests.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/digest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/dotest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/fail.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/utils/fptime.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/libtar.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/macos/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/prepup.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
