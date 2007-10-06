@@ -7945,6 +7945,7 @@ tests/webtbs/tw9672.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw9695.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw9704.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw9766.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw9827.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/ub1873.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/ub1883.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/uw0555.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
