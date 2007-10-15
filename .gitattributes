@@ -6438,6 +6438,7 @@ tests/test/theap.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/theapthread.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/thintdir.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/timplprog.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tindex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinivar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinlin64.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinline1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
