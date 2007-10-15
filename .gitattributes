@@ -4861,6 +4861,7 @@ rtl/powerpc/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/powerpc/powerpc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
