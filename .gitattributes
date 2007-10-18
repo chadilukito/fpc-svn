@@ -6597,7 +6597,6 @@ tests/test/tstring8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstrreal1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstrreal2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tsubdecl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/test/tugeneric7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunaligned1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunit1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunit2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6626,6 +6625,7 @@ tests/test/ugeneric10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ugeneric14.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ugeneric3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ugeneric4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/ugeneric7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uimpluni1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uimpluni2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uinline4a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
