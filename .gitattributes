@@ -4326,7 +4326,6 @@ rtl/inc/except.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/fexpand.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/file.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/filerec.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/inc/float128.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/generic.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/genmath.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/genset.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4379,6 +4378,7 @@ rtl/inc/threadh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/threadvr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/typefile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/ucomplex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/ufloat128.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/varerror.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/variant.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/varianth.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
