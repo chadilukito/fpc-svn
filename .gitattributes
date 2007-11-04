@@ -6448,6 +6448,7 @@ tests/test/tindex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinivar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinlin64.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinline1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tinline10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinline2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinline3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinline4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
