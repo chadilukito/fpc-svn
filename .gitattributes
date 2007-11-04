@@ -3922,6 +3922,7 @@ packages/fcl-passrc/src/pscanner.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/fcl-passrc/src/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-process/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/src/amiga/pipes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/src/amiga/process.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/src/beos/pipes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
