@@ -3715,6 +3715,7 @@ packages/fcl-db/src/export/fpsimplejsonexport.pp svn_mime_002dtype=text%2Fplain 
 packages/fcl-db/src/export/fpsimplexmlexport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/export/fpsqlexport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/export/fpstdexports.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/export/fptexexport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/fields.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
