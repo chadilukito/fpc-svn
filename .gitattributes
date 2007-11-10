@@ -4207,6 +4207,8 @@ rtl/darwin/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 rtl/darwin/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/darwin/x86_64/sig_cpu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/darwin/x86_64/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/check.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
