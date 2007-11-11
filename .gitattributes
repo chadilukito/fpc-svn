@@ -2059,12 +2059,6 @@ packages/extra/graph/win32/wincrt.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/extra/graph/win32/winmouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/gtk/conv/fixexmcdecl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/gtk/conv/fixgdk.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/gtk/conv/fixgdkcdecl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/gtk/conv/fixglibcdecl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/gtk/conv/fixgtk.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/gtk/conv/fixgtkcdecl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/examples/clist.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
