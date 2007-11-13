@@ -3682,6 +3682,7 @@ packages/fcl-base/src/inc/inicol.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/fcl-base/src/inc/inifiles.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/inc/iostream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/inc/libtar.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/src/inc/maskutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/inc/pooledmm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/inc/rtfdata.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/inc/rtfpars.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
