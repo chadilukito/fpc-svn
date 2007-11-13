@@ -3794,6 +3794,8 @@ packages/fcl-base/tests/xmldump.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/fcl-db/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/Dataset.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/base/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/base/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/base/bufdataset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/base/bufdataset_parser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/base/database.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
