@@ -8394,6 +8394,7 @@ utils/rmcvsdir.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/rstconv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/sim_pasc/Answers svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/sim_pasc/ChangeLog svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/sim_pasc/HOWTO-FPC.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/sim_pasc/LICENSE.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/sim_pasc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/sim_pasc/READ.ME svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
