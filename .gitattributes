@@ -4017,12 +4017,14 @@ packages/fcl-image/src/fppixlcanv.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/fcl-image/src/fpquantizer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpreadbmp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpreadjpeg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/src/fpreadpcx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpreadpng.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpreadpnm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpreadtga.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpreadxpm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpwritebmp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpwritejpeg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/src/fpwritepcx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpwritepng.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpwritepnm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpwritetga.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4031,6 +4033,7 @@ packages/fcl-image/src/freetype.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/fcl-image/src/freetypeh.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/ftfont.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/imgconv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/src/pcxcomn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/pixtools.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/pngcomn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/pscanvas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
