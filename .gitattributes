@@ -5574,6 +5574,8 @@ tests/tbf/tb0200.pp svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 tests/tbf/tb0201.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/tb0202.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/tb0203.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/tbf/tb0204.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/tbf/tb0204a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/ub0115.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/ub0149.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/ub0158a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
