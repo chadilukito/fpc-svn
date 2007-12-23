@@ -6655,6 +6655,7 @@ tests/test/tint2str2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tint641.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tint642.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tint643.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tint644.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinterface1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinterface2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinterface3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
