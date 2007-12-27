@@ -4267,6 +4267,7 @@ rtl/amiga/timerd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_e
 rtl/amiga/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/arm.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/arm/divide.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 rtl/arm/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
