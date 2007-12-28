@@ -4261,7 +4261,6 @@ rtl/amiga/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_
 rtl/amiga/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 rtl/amiga/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 rtl/amiga/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
-rtl/amiga/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 rtl/amiga/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 rtl/amiga/timerd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 rtl/amiga/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4374,7 +4373,6 @@ rtl/embedded/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/embedded/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/emx/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/emx/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/emx/crt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4438,7 +4436,6 @@ rtl/gba/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/gba/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4468,7 +4465,6 @@ rtl/go32v2/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/go32v2/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/go32v2/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/go32v2/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/go32v2/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/go32v2/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/go32v2/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/go32v2/v2prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4726,7 +4722,6 @@ rtl/macos/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/macos/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4760,7 +4755,6 @@ rtl/morphos/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/timer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/timerd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5194,7 +5188,6 @@ rtl/unix/syscall.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/unix/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysunixh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/terminfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
