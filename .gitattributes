@@ -4233,6 +4233,24 @@ packages/paszlib/tests/example.pas svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/paszlib/tests/minigzip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/tests/miniunz.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/tests/minizip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/activex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/buildwinutilsbase.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/comconst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/commctrl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/comobj.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/flatsb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/mmsystem.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/ole2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/oleserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/richedit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/shellapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/shfolder.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/shlobj.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/winver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
