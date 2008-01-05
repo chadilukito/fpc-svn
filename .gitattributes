@@ -1369,8 +1369,11 @@ packages/base/sqlite/sqlite3db.pas svn_mimetype=text%2Fx-pascal svn_mime_002dtyp
 packages/base/sqlite/sqlite3dyn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/sqlite/sqlitedb.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/sqlite/test.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/winunits/JwaVista.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/winunits/JwaWinSta.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/base/winunits/ModuleLoader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/activex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/buildjwa.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/winunits/comconst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
