@@ -4012,13 +4012,10 @@ packages/winunits-jedi/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/winunits-jedi/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/winunits-jedi/src/JwaVista.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/winunits-jedi/src/JwaWinSta.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/ModuleLoader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/buildjwa.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jedi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jediapilib.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/winunits-jedi/src/jwaObjsel.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwaaccctrl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwaaclapi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwaaclui.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4074,7 +4071,7 @@ packages/winunits-jedi/src/jwafaxmmc.pas svn_mime_002dtype=text%2Fplain svn_eol_
 packages/winunits-jedi/src/jwafaxroute.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwagpedit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwahherror.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/winunits-jedi/src/jwahtmlGuid.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-jedi/src/jwahtmlguid.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwahtmlhelp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwaiaccess.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwaiadmext.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4138,6 +4135,7 @@ packages/winunits-jedi/src/jwantldap.pas svn_mime_002dtype=text%2Fplain svn_eol_
 packages/winunits-jedi/src/jwantquery.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwantsecapi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwantstatus.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-jedi/src/jwaobjsel.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwapatchapi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwapatchwiz.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwapbt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4183,6 +4181,7 @@ packages/winunits-jedi/src/jwatmschema.pas svn_mime_002dtype=text%2Fplain svn_eo
 packages/winunits-jedi/src/jwatraffic.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwauserenv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwauxtheme.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-jedi/src/jwavista.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwawbemcli.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwawinable.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwawinbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4209,6 +4208,7 @@ packages/winunits-jedi/src/jwawinresrc.pas svn_mime_002dtype=text%2Fplain svn_eo
 packages/winunits-jedi/src/jwawinsafer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwawinsock.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwawinsock2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-jedi/src/jwawinsta.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwawinsvc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwawinternl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwawintype.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
