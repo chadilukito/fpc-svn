@@ -2441,6 +2441,156 @@ packages/extra/libgd/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/extra/libgd/gd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/libgd/gdtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/libgd/gdtestcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/dswifi/dswifi7.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/dswifi/dswifi7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/dswifi/dswifi9.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/dswifi/dswifi9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/dswifi/dswifi_version.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/dswifi/netdb.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/dswifi/netinet/in.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/dswifi/sgIP_errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/dswifi/sys/socket.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/16bit_color_bmp/data/drunkenlogo.git svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/16bit_color_bmp/data/drunkenlogo.png svn_mime_002dtype=image%2Fpng
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/16bit_color_bmp/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/256_color_bmp/data/drunkenlogo.git svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/256_color_bmp/data/drunkenlogo.png svn_mime_002dtype=image%2Fpng
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/256_color_bmp/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/BG_Rotation/drunkenlogo.bin.o svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/BG_Rotation/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/BG_Rotation/palette.bin.o svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/Complex_2D/data/ball.pcx svn_mime_002dtype=image%2Fpcx
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/Complex_2D/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/Double_Buffer/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/Sprite_Bitmap/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/ansi_console/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/custom_font/data/font.bmp svn_mime_002dtype=image%2Fbmp
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/custom_font/data/font.git svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/custom_font/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/hello_world/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/rotscale_text/data/font.bmp svn_mime_002dtype=image%2Fbmp
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/rotscale_text/data/font.git svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/2D/rotscale_text/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/BoxTest/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Display_List/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Display_List_2/data/teapot.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Display_List_2/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Env_Mapping/data/cafe.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Env_Mapping/data/teapot.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Env_Mapping/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Ortho/data/drunkenlogo.pcx svn_mime_002dtype=image%2Fpcx
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Ortho/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture1_RGB16_pal.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture1_RGB16_tex.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture2_RGB16_pal.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture2_RGB16_tex.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture3_RGB16_pal.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture3_RGB16_tex.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture4_RGB16_pal.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture4_RGB16_tex.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture5_RGB16_pal.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture5_RGB16_tex.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture6_RGB4_pal.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture6_RGB4_tex.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture7_RGB4_pal.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture7_RGB4_tex.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture8_RGB32_A3_pal.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture8_RGB32_A3_tex.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture9_RGB32_A3_pal.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture9_RGB32_A3_tex.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Picking/data/cone.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Picking/data/cylinder.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Picking/data/sphere.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Picking/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Simple_Quad/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Simple_Tri/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Textured_Cube/data/texture.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Textured_Cube/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Textured_Quad/data/texture.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Textured_Quad/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Toon_Shading/data/statue.bin svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Toon_Shading/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson01/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson02/main1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson03/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson04/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson05/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson06/drunkenlogo.pcx.o svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson06/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson07/drunkenlogo.pcx.o svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson07/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson08/drunkenlogo.pcx.o svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson08/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson09/Star.pcx.o svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson09/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson11/drunkenlogo.pcx.o svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson11/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/debugging/exceptionTest/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/input/TouchTest/balldata.bin.o svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/input/TouchTest/ballpalette.bin.o svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/input/TouchTest/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/sound/SimpleSound/blaster.raw.o svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/sound/SimpleSound/ion.raw.o svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/devkitPro/sound/SimpleSound/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/devkitPro/sound/SimpleSound/saberoff.raw.o svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/dswifi/main7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/dswifi/main9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/libfat/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/libfat/test1.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/libmikmod/data/module.bin.o svn_mime_002dtype=application%2Foctet-stream
+packages/extra/libndsfpc/examples/libmikmod/main7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/examples/libmikmod/main9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/fat/fat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/fat/fat.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/fat/gbfs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/fat/gbfs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/libmikmod/inc/mikmod.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/libmikmod/mikmod7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/libmikmod/mikmod9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm7/audio.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm7/clock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm7/serial.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm7/touch.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm9/background.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm9/boxtest.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm9/cache.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm9/console.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm9/exceptions.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm9/image.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm9/input.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm9/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm9/ndsmotion.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm9/pcx.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm9/postest.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm9/rumble.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm9/sound.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm9/sprite.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm9/trig_lut.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm9/video.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/arm9/videoGL.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/bios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/card.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/dma.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/helper.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/interrupts.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/ipc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/jtypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/memory.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/nds.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/ndsinclude.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/registers_alt.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/reload.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/system.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds/timers.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/libndsfpc/nds9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/libpng/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/libpng/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/libpng/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
