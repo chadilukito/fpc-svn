@@ -4107,6 +4107,12 @@ packages/hash/src/unixcrypt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/hash/src/uuid.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/paszlib/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/paszlib/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/paszlib/examples/example.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/paszlib/examples/minigzip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/paszlib/examples/miniunz.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/paszlib/examples/minizip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/src/adler.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4129,12 +4135,6 @@ packages/paszlib/src/zipper.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/paszlib/src/ziputils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/src/zstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/src/zuncompr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/paszlib/tests/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/paszlib/tests/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/paszlib/tests/example.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/paszlib/tests/minigzip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/paszlib/tests/miniunz.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/paszlib/tests/minizip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
