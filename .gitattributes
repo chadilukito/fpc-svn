@@ -4097,14 +4097,14 @@ packages/fpmkunit/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/fpmkunit/src/fpmkunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/hash/examples/md5.ref svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/hash/examples/mdtest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/src/crc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/src/md5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/src/ntlm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/src/unixcrypt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/src/uuid.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/hash/tests/md5.ref svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/hash/tests/mdtest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
