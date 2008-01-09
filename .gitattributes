@@ -5515,7 +5515,6 @@ tests/bench/shootout/src/mandelbrot.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 tests/bench/shootout/src/message.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/meteorshower.pp svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 tests/bench/shootout/src/n_body.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/bench/shootout/src/nbody.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/nsieve.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/partialsums.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/recursive.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
