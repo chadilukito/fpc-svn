@@ -4739,6 +4739,7 @@ rtl/linux/arm/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/arm/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/arm/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/arm/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/arm/ucprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/bunxsysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/fpcylix.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
