@@ -4664,6 +4664,7 @@ rtl/inc/dynarrh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/dynlibs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/elfres32.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/except.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/exeinfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/fexpand.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/file.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/filerec.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
