@@ -3834,6 +3834,7 @@ packages/fcl-fpcunit/src/DUnitCompatibleInterface.inc svn_mime_002dtype=text%2Fp
 packages/fcl-fpcunit/src/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/demo/consolerunner/suiteconfig.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/demo/consolerunner/testrunner.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-fpcunit/src/digesttestreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/example_output/results.pdf svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-fpcunit/src/example_output/results.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/example_xsl/fpcunit.css svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
