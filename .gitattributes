@@ -1508,6 +1508,8 @@ packages/extra/bzip2/pasbzip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/extra/cairo/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/cairo/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/cairo/cairo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/cairo/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/extra/cairo/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/cdrom/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/cdrom/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/cdrom/cdrom.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
