@@ -4061,6 +4061,7 @@ packages/fcl-xml/tests/xmlts.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpmkunit/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpmkunit/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpmkunit/examples/ppu2fpmake.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpmkunit/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpmkunit/src/fpmkunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fv/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
