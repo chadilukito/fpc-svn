@@ -3930,8 +3930,6 @@ packages/fcl-xml/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 packages/fcl-xml/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/dom.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/dom_html.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-xml/src/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-xml/src/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/htmldefs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/htmlelements.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/htmlwriter.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
