@@ -3525,8 +3525,6 @@ packages/fcl-async/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/fcl-async/src/fpasync.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-async/src/libasync.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-async/src/libasynch.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-async/src/unix/asyncio.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-async/src/unix/asyncioh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-async/src/unix/libasync.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
