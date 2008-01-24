@@ -4053,6 +4053,7 @@ packages/pasjpeg/examples/wrbmp.pas svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/pasjpeg/examples/wrjpgcom.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pasjpeg/examples/wrppm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pasjpeg/examples/wrtarga.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pasjpeg/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pasjpeg/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pasjpeg/src/buildpasjpeg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pasjpeg/src/jcapimin.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
