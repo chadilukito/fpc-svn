@@ -1514,8 +1514,6 @@ packages/extra/fpgtk/fpgtkext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/extra/fpgtk/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/fpgtk/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/fpgtk/pgtk/pgtk.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gdbm/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gdbm/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gdbm/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
