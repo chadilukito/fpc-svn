@@ -4154,6 +4154,12 @@ packages/unzip/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/src/unzip.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/src/unzipdll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/src/ziptypes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/users/examples/testpass.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/users/examples/testuser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/users/grp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/users/pwd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/users/shadow.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/users/src/users.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/uuid/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/uuid/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/uuid/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
