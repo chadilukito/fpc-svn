@@ -3997,6 +3997,7 @@ packages/oracle/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/oracle/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oracle/examples/oraclew.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oracle/examples/test01.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/oracle/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oracle/src/nzerror.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oracle/src/nzt.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oracle/src/oci.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4158,6 +4159,7 @@ packages/regexpr/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/regexpr/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/regexpr/src/regexpr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/regexpr/tests/testreg1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/sqlite/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sqlite/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sqlite/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sqlite/src/sqlite.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
