@@ -3974,6 +3974,7 @@ packages/hash/src/uuid.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 packages/ibase/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ibase/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ibase/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ibase/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ibase/scripts/mkdb svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ibase/scripts/mkdb.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ibase/scripts/mkdb.sqd svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
