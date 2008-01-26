@@ -3913,6 +3913,25 @@ packages/odbc/src/odbcsql.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/odbc/src/odbcsqldyn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/odbc/tests/testodbc.mdb svn_mime_002dtype=application%2Foctet-stream
 packages/odbc/tests/testodbc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/examples/bounce.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/examples/glutdemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/examples/glxtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/examples/morph3d.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/examples/radblur.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/glunits.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/readme svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/src/gl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/src/glext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/src/glu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/src/glut.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/src/glx.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/src/tinygl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/src/tinyglh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oracle/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oracle/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oracle/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
