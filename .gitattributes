@@ -4149,6 +4149,10 @@ packages/sqlite/src/sqlitedb.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/sqlite/tests/test.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sqlite/tests/testapiv3x.README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sqlite/tests/testapiv3x.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/unixutil/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/unixutil/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/unixutil/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/unixutil/src/unixutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
