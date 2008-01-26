@@ -3291,12 +3291,8 @@ packages/extra/unixutil/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/extra/unixutil/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/unixutil/unixutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/unzip/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/unzip/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/unzip/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/unzip/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/unzip/unzip.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/unzip/unzipdll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/unzip/ziptypes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/users/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/users/grp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/users/pwd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4140,6 +4136,11 @@ packages/paszlib/src/zipper.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/paszlib/src/ziputils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/src/zstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/src/zuncompr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/unzip/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/unzip/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/unzip/src/unzip.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/unzip/src/unzipdll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/unzip/src/ziptypes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
