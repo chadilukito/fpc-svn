@@ -3605,6 +3605,16 @@ packages/imagemagick/src/quantize.inc svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/imagemagick/src/semaphore.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/imagemagick/src/statistic.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/imagemagick/src/type.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ldap/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ldap/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ldap/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ldap/src/lber.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ldap/src/lber_typesh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ldap/src/lberh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ldap/src/ldap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ldap/src/ldap_featuresh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ldap/src/ldap_schemah.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ldap/src/ldaph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libc/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
