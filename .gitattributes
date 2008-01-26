@@ -3979,6 +3979,7 @@ packages/hash/src/ntlm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 packages/hash/src/unixcrypt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/src/uuid.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/mysql/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/scripts/mkdb svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/scripts/rmdb svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/src/my4_sys.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
