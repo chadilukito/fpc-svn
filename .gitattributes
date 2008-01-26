@@ -4141,6 +4141,11 @@ packages/paszlib/src/zipper.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/paszlib/src/ziputils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/src/zstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/src/zuncompr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/regexpr/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/regexpr/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/regexpr/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/regexpr/src/regexpr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/regexpr/tests/testreg1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/src/unzip.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
