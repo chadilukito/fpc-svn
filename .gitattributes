@@ -848,7 +848,6 @@ packages/base/imagemagick/wand/magick_image.inc svn_mime_002dtype=text%2Fplain s
 packages/base/imagemagick/wand/magick_wand.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/imagemagick/wand/pixel_iterator.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/imagemagick/wand/pixel_wand.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/libc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/mysql/ver322/mysql.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/mysql/ver322/mysql_com.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/mysql/ver322/mysql_version.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
