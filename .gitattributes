@@ -3510,6 +3510,7 @@ packages/gtk1/examples/clist.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/gtk1/examples/editform.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk1/examples/entry.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk1/examples/filesel.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk1/examples/gtkgldemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk1/examples/list.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk1/examples/notebook.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk1/examples/paned.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3656,7 +3657,6 @@ packages/gtk1/gtk/gtkwidget.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/gtk1/gtk/gtkwindow.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk1/gtkgl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk1/gtkgl/gtkglarea.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gtk1/gtkgl/gtkgldemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/examples/md5.ref svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
