@@ -879,12 +879,6 @@ packages/base/pthreads/pthrbeos.inc svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/base/pthreads/pthrbsd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/pthreads/pthreads.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/pthreads/pthrlinux.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/regexpr/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/regexpr/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/regexpr/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/regexpr/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/regexpr/regexpr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/regexpr/testreg1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/sqlite/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/sqlite/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/sqlite/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
