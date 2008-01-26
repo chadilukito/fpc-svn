@@ -3274,6 +3274,7 @@ packages/gtk2/examples/scribble_simple/Makefile svn_mime_002dtype=text%2Fplain s
 packages/gtk2/examples/scribble_simple/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/examples/scribble_simple/scribble_simple.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/gtk2forlazarus.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/atk/atk.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/atk/atk.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/atk/atkaction.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
