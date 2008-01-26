@@ -846,6 +846,10 @@ packages/dbus/src/dbus-threads.inc svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/dbus/src/dbus-types.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/dbus/src/dbus.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/dbus/src/dbus_arch_deps.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/dts/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/dts/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/dts/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/dts/src/dts.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/a52/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3869,6 +3873,14 @@ packages/libpng/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libpng/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libpng/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libpng/src/png.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/mad/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/mad/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/mad/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/mad/src/mad.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/modplug/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/modplug/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/modplug/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/modplug/src/modplug.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
