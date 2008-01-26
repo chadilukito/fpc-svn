@@ -3473,6 +3473,7 @@ packages/fv/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/fv/examples/platform.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fv/examples/testapp.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fv/examples/testapp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fv/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fv/src/app.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fv/src/asciitab.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fv/src/buildfv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
