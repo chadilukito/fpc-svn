@@ -4159,6 +4159,14 @@ packages/unzip/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/src/unzip.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/src/unzipdll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/src/ziptypes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/uuid/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/uuid/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/uuid/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/uuid/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/uuid/src/libuuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/uuid/src/macuuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/uuid/tests/testlibuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/uuid/tests/testuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
