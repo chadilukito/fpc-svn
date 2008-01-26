@@ -848,6 +848,7 @@ packages/cairo/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/cairo/src/cairo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cdrom/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cdrom/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cdrom/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cdrom/examples/getdiscid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cdrom/examples/showcds.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cdrom/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
