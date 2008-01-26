@@ -3341,10 +3341,8 @@ packages/extra/x11/xutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/extra/x11/xv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/x11/xvlib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/zlib/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/zlib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/zlib/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/zlib/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/zlib/zlib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-async/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-async/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-async/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4393,6 +4391,9 @@ packages/winunits-jedi/src/jwawsrm.pas svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/winunits-jedi/src/jwawsvns.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwawtsapi32.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwazmouse.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/zlib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/zlib/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/zlib/src/zlib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
