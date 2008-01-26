@@ -4154,6 +4154,14 @@ packages/postgres/src/postgres3dyn.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/postgres/src/postgres3types.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/postgres/tests/testpg1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/postgres/tests/testpg2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pthreads/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pthreads/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pthreads/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pthreads/src/pthrbeos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pthreads/src/pthrbsd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pthreads/src/pthreads.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pthreads/src/pthrlinux.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pthreads/src/pthrsnos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/regexpr/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/regexpr/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/regexpr/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
