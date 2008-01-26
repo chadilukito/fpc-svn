@@ -1286,9 +1286,7 @@ packages/extra/graph/unix/graph16.inc svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/extra/graph/win32/graph.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/graph/win32/wincrt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/graph/win32/winmouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/gtk/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/gtk/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/examples/clist.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/examples/editform.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1317,8 +1315,6 @@ packages/extra/gtk/examples/tutorial/tut6_2.pp svn_mime_002dtype=text%2Fplain sv
 packages/extra/gtk/examples/tutorial/tut6_3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/examples/tutorial/tut6_4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/examples/tutorial/tut8_5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/gtk/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/gtk/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/gdk/gdk.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/gdk/gdkkeysyms.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/gdk/gdkmain.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1440,7 +1436,6 @@ packages/extra/gtk/gtk/gtkvscrollbar.pp svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/extra/gtk/gtk/gtkvseparator.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/gtk/gtkwidget.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/gtk/gtkwindow.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/gtk/gtkgl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/gtkgl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/gtkgl/gtkglarea.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/gtkgl/gtkgldemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
