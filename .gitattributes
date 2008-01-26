@@ -3962,6 +3962,7 @@ packages/mysql/tests/mysqls.c svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/mysql/tests/mysqls.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/tests/testdb3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/tests/testdb4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/examples/db_demo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/examples/edit_demo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3989,8 +3990,10 @@ packages/odbc/src/odbcsql.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/odbc/src/odbcsqldyn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/odbc/tests/testodbc.mdb svn_mime_002dtype=application%2Foctet-stream
 packages/odbc/tests/testodbc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/oracle/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oracle/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oracle/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/oracle/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oracle/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oracle/examples/oraclew.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oracle/examples/test01.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4166,6 +4169,7 @@ packages/sqlite/src/sqlitedb.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/sqlite/tests/test.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sqlite/tests/testapiv3x.README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sqlite/tests/testapiv3x.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/unzip/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/src/unzip.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4423,6 +4427,7 @@ packages/winunits-jedi/src/jwawsrm.pas svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/winunits-jedi/src/jwawsvns.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwawtsapi32.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwazmouse.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/zlib/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/zlib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/zlib/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/zlib/src/zlib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
