@@ -1115,7 +1115,6 @@ packages/extra/forms/fd2pascal.pp svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/extra/forms/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/forms/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/forms/xforms.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/fpgtk/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/ggi/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/ggi/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/ggi/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1433,14 +1432,6 @@ packages/extra/lua/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 packages/extra/lua/lauxlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/lua/lua.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/lua/lualib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/newt/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/newt/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/newt/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/newt/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/newt/newt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/newt/newt1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/newt/newt2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/newt/newt3.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/numlib/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/numlib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/numlib/det.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3889,7 +3880,7 @@ packages/ncurses/src/pxpic.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/ncurses/tests/testn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/newt/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/newt/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/newt/examples/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/newt/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/newt/examples/newt1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/newt/examples/newt2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/newt/examples/newt3.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
