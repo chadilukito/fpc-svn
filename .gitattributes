@@ -3543,6 +3543,11 @@ packages/imagemagick/src/quantize.inc svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/imagemagick/src/semaphore.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/imagemagick/src/statistic.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/imagemagick/src/type.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/imlib/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/imlib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/imlib/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/imlib/src/gdk_imlib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/imlib/src/imlib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ldap/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ldap/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ldap/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
