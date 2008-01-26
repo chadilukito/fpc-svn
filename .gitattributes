@@ -3442,7 +3442,6 @@ packages/fcl-net/src/servlets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/fcl-net/src/ssockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/src/unix/resolve.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/src/win/resolve.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-net/src/wince/resolve.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/src/xmlrpc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
