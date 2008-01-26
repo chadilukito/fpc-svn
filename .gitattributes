@@ -3983,6 +3983,7 @@ packages/ibase/src/ibase60.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/ibase/src/ibase60dyn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ibase/tests/testib40.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ibase/tests/testib60.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/mysql/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/scripts/mkdb svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
