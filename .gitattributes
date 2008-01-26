@@ -3999,6 +3999,15 @@ packages/ncurses/src/panel.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/ncurses/src/pxpic.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/src/pxpic.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/tests/testn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/odbc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/odbc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/odbc/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/odbc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/odbc/src/odbcsql.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/odbc/src/odbcsql.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/odbc/src/odbcsqldyn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/odbc/tests/testodbc.mdb svn_mime_002dtype=application%2Foctet-stream
+packages/odbc/tests/testodbc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oracle/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oracle/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oracle/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
