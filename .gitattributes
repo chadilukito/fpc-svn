@@ -893,7 +893,6 @@ packages/dts/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/dts/src/dts.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/a52/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/amunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/amunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/amunits/demos/asltest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1043,8 +1042,6 @@ packages/extra/amunits/utilunits/tagsarray.pas svn_mime_002dtype=text%2Fplain sv
 packages/extra/amunits/utilunits/timerutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/amunits/utilunits/vartags.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/amunits/utilunits/wbargs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/aspell/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/bfd/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/cdrom/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/cdrom/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/cdrom/cdrom.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1438,8 +1435,6 @@ packages/extra/gtk/gtk/gtkwindow.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/extra/gtk/gtkgl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/gtkgl/gtkglarea.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/gtkgl/gtkgldemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/gtk2/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/gtk2/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/imlib/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/imlib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/imlib/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
