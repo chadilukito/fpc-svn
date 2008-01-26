@@ -2821,12 +2821,13 @@ packages/fcl-xml/tests/template.xml svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/fcl-xml/tests/xmlts.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpgtk/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpgtk/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpgtk/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpgtk/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpgtk/examples/lister.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpgtk/examples/testgtk.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpgtk/examples/testgtk.ppr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpgtk/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpgtk/src/def/objectdef.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fpgtk/src/demo/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fpgtk/src/demo/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fpgtk/src/demo/lister.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fpgtk/src/demo/testgtk.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpgtk/src/editor/buttonrow.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpgtk/src/editor/finddlgs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpgtk/src/editor/gtkdef.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
