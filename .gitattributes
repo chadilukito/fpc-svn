@@ -858,10 +858,6 @@ packages/base/mysql/ver323/mysqls.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/base/mysql/ver40/mysql.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/mysql/ver40/mysql_com.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/mysql/ver40/mysql_version.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/oracle/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/oracle/example/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/oracle/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/base/oracle/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/postgres/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/postgres/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/base/postgres/dllist.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
