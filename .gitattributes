@@ -1304,7 +1304,6 @@ packages/extra/gtk/examples/statusbar.pp svn_mime_002dtype=text%2Fplain svn_eol_
 packages/extra/gtk/examples/tictactoe.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/examples/toolbar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/examples/ttt_test.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/gtk/examples/tutorial/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/examples/tutorial/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/examples/tutorial/tut2_1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gtk/examples/tutorial/tut3_3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
