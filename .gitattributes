@@ -1362,10 +1362,6 @@ packages/extra/lua/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 packages/extra/lua/lauxlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/lua/lua.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/lua/lualib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/oggvorbis/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/oggvorbis/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/oggvorbis/ogg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/oggvorbis/vorbis.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/openssl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/openssl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/openssl/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3839,8 +3835,8 @@ packages/odbc/tests/testodbc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/oggvorbis/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oggvorbis/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oggvorbis/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/oggvorbis/ogg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/oggvorbis/vorbis.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/oggvorbis/src/ogg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/oggvorbis/src/vorbis.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/openal/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/openal/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/openal/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
