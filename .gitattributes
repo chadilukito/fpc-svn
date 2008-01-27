@@ -1638,15 +1638,6 @@ packages/extra/ptc/x11/x11modesi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_0
 packages/extra/ptc/x11/x11windowdisplayd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 packages/extra/ptc/x11/x11windowdisplayi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 packages/extra/ptc/x11/xunikey.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/rexx/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/rexx/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/rexx/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/rexx/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/rexx/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/rexx/rexxsaa.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/rexx/test/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/rexx/test/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/rexx/test/callrexx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/sdl/Makefile svn_eol_002dstyle=native
 packages/extra/sdl/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/sdl/jedi-sdl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4054,6 +4045,15 @@ packages/regexpr/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/regexpr/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/regexpr/src/regexpr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/regexpr/tests/testreg1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rexx/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rexx/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rexx/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rexx/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rexx/examples/backward.fnc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rexx/examples/callrexx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rexx/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rexx/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rexx/src/rexxsaa.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sqlite/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sqlite/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sqlite/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
