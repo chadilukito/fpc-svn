@@ -8529,6 +8529,7 @@ utils/fpcm/fpcmdic.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/fpcmmain.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/fpcmpkg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/fpcmwr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcm/printmakefilefpcrequirements.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcres/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcres/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
