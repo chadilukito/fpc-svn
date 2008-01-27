@@ -1061,122 +1061,6 @@ packages/dts/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/dts/src/dts.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/ptc/Makefile svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native
-packages/extra/ptc/Makefile.fpc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native
-packages/extra/ptc/aread.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/areai.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/baseconsoled.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/baseconsolei.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/basesurfaced.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/basesurfacei.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/c_api svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native
-packages/extra/ptc/cleard.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/cleari.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/clipperd.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/clipperi.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/colord.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/colori.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/consoled.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/consolei.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/copyd.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/copyi.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/coreimplementation.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/coreinterface.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/demos svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native
-packages/extra/ptc/demos/mojo.raw svn_mime_002dtype=application%2Foctet-stream
-packages/extra/ptc/docs svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native
-packages/extra/ptc/dos svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native
-packages/extra/ptc/errord.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/errori.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/eventd.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/eventi.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/examples svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native
-packages/extra/ptc/examples/image.tga svn_mime_002dtype=application%2Foctet-stream
-packages/extra/ptc/examples/stretch.tga svn_mime_002dtype=application%2Foctet-stream
-packages/extra/ptc/formatd.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/formati.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/keyd.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/keyeventd.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/keyeventi.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/keyi.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/log.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/moded.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/modei.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/mouseeventd.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/mouseeventi.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/paletted.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/palettei.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/ptc.pp svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native
-packages/extra/ptc/ptcpas.cfg svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/ptc/surfaced.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/surfacei.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/timerd.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/timeri.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/base/cursor.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/base/event.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/base/eventd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/base/hook.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/base/hookd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/base/kbd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/base/kbdd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/base/monitor.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/base/monitord.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/base/moused.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/base/mousei.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/base/ptcres.res svn_mime_002dtype=application%2Foctet-stream
-packages/extra/ptc/win32/base/window.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/base/windowd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/base/windows.ico svn_mime_002dtype=application%2Foctet-stream
-packages/extra/ptc/win32/directx/check.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/directx/directxconsole.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/directx/directxconsoled.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/directx/display.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/directx/displayd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/directx/hook.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/directx/hookd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/directx/library.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/directx/libraryd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/directx/primary.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/directx/primaryd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/directx/translate.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/gdi/gdiconsoled.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/gdi/gdiconsolei.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/gdi/win32dibd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/win32/gdi/win32dibi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/wince/base/wincekeyboardd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/wince/base/wincekeyboardi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/wince/base/wincemoused.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/wince/base/wincemousei.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/wince/base/wincewindowd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/wince/base/wincewindowi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/wince/gapi/p_gx.pp svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/wince/gapi/wincegapiconsoled.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/wince/gapi/wincegapiconsolei.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/wince/gdi/wincebitmapinfod.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/wince/gdi/wincebitmapinfoi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/wince/gdi/wincegdiconsoled.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/wince/gdi/wincegdiconsolei.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/wince/includes.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/check.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/extensions.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/includes.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/x11consoled.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/x11consolei.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/x11dga1displayd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/x11dga1displayi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/x11dga2displayd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/x11dga2displayi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/x11dgadisplayd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/x11dgadisplayi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/x11displayd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/x11displayi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/x11imaged.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/x11imagei.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/x11modesd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/x11modesi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/x11windowdisplayd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/x11windowdisplayi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/ptc/x11/xunikey.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 packages/fcl-async/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-async/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-async/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3677,6 +3561,151 @@ packages/postgres/src/postgres3dyn.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/postgres/src/postgres3types.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/postgres/tests/testpg1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/postgres/tests/testpg2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/Makefile svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/Makefile.fpc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/docs svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native
+packages/ptc/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/area.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/buffer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/clear.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/clip.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/con_info.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/console.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/fire.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/flower.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/hicolor.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/image.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/image.tga svnc_mime_002dtype=binary svn_mime_002dtype=application%2Foctet-stream
+packages/ptc/examples/keyboard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/keybrd2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/land.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/lights.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/modes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/mojo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/mojo.raw svnc_mime_002dtype=binary svn_mime_002dtype=raw%2Fbinary
+packages/ptc/examples/palette.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/pixel.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/random.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/save.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/stretch.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/stretch.tga svnc_mime_002dtype=binary svn_mime_002dtype=application%2Foctet-stream
+packages/ptc/examples/texwarp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/timer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/tunnel.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/tunnel3d.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/tunnel3d.raw svnc_mime_002dtype=binary svn_mime_002dtype=raw%2Fbinary
+packages/ptc/src/aread.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/areai.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/baseconsoled.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/baseconsolei.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/basesurfaced.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/basesurfacei.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/c_api svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native
+packages/ptc/src/cleard.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/cleari.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/clipperd.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/clipperi.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/colord.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/colori.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/consoled.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/consolei.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/copyd.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/copyi.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/coreimplementation.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/coreinterface.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/dos svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native
+packages/ptc/src/errord.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/errori.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/eventd.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/eventi.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/formatd.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/formati.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/keyd.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/keyeventd.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/keyeventi.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/keyi.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/log.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/moded.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/modei.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/mouseeventd.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/mouseeventi.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/paletted.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/palettei.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/ptc.pp svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/src/ptcpas.cfg svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/src/surfaced.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/surfacei.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/timerd.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/timeri.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/base/cursor.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/base/event.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/base/eventd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/base/hook.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/base/hookd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/base/kbd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/base/kbdd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/base/monitor.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/base/monitord.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/base/moused.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/base/mousei.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/base/ptcres.res svn_mime_002dtype=application%2Foctet-stream
+packages/ptc/src/win32/base/window.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/base/windowd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/base/windows.ico svn_mime_002dtype=application%2Foctet-stream
+packages/ptc/src/win32/directx/check.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/directx/directxconsole.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/directx/directxconsoled.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/directx/display.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/directx/displayd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/directx/hook.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/directx/hookd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/directx/library.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/directx/libraryd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/directx/primary.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/directx/primaryd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/directx/translate.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/gdi/gdiconsoled.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/gdi/gdiconsolei.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/gdi/win32dibd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/win32/gdi/win32dibi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/wince/base/wincekeyboardd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/wince/base/wincekeyboardi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/wince/base/wincemoused.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/wince/base/wincemousei.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/wince/base/wincewindowd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/wince/base/wincewindowi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/wince/gapi/p_gx.pp svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/wince/gapi/wincegapiconsoled.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/wince/gapi/wincegapiconsolei.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/wince/gdi/wincebitmapinfod.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/wince/gdi/wincebitmapinfoi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/wince/gdi/wincegdiconsoled.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/wince/gdi/wincegdiconsolei.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/wince/includes.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/check.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/extensions.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/includes.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/x11consoled.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/x11consolei.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/x11dga1displayd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/x11dga1displayi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/x11dga2displayd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/x11dga2displayi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/x11dgadisplayd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/x11dgadisplayi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/x11displayd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/x11displayi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/x11imaged.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/x11imagei.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/x11modesd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/x11modesi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/x11windowdisplayd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/x11windowdisplayi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/src/x11/xunikey.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+packages/ptc/tests/convtest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/tests/endian.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/tests/view.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pthreads/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pthreads/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pthreads/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
