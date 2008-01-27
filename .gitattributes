@@ -1174,25 +1174,6 @@ packages/extra/gnome1/zvt/zvt/libzvt.pp svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/extra/gnome1/zvt/zvt/lists.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gnome1/zvt/zvt/vt.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/gnome1/zvt/zvt/vtx.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/os2units/clkdll/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/os2units/clkdll/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/os2units/clkdll/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/os2units/ftpapi/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/os2units/ftpapi/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/os2units/ftpapi/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/os2units/hwvideo/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/os2units/hwvideo/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/os2units/hwvideo/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/os2units/lvm/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/os2units/lvm/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/os2units/lvm/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/os2units/lvm/tests/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/os2units/lvm/tests/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/os2units/mmtk/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/os2units/mmtk/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/os2units/mmtk/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/os2units/mmtk/tests/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/os2units/mmtk/tests/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/ptc/Makefile svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native
 packages/extra/ptc/Makefile.fpc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native
 packages/extra/ptc/aread.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
