@@ -1947,12 +1947,6 @@ packages/extra/univint/fp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/extra/univint/vBLAS.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/univint/vDSP.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/univint/xattr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/utmp/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/utmp/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/utmp/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/utmp/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/utmp/testutmp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/utmp/utmp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-async/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-async/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-async/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
