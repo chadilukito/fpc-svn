@@ -1347,13 +1347,6 @@ packages/extra/libndsfpc/nds/system.inc svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/extra/libndsfpc/nds/timers.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/libndsfpc/nds7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/libndsfpc/nds9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/openssl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/openssl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/openssl/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/openssl/examples/test1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/openssl/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/openssl/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/openssl/openssl.pas svn_mime_002dtype=text%2Fplain
 packages/extra/os2units/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/os2units/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/os2units/clkdll/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3838,6 +3831,12 @@ packages/opengl/src/glut.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/opengl/src/glx.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengl/src/tinygl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengl/src/tinyglh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/openssl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/openssl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/openssl/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/openssl/examples/test1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/openssl/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/openssl/src/openssl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oracle/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oracle/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/oracle/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
