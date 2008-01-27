@@ -1626,11 +1626,6 @@ packages/extra/ptc/x11/x11modesi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_0
 packages/extra/ptc/x11/x11windowdisplayd.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 packages/extra/ptc/x11/x11windowdisplayi.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 packages/extra/ptc/x11/xunikey.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-packages/extra/sndfile/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/sndfile/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/sndfile/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/sndfile/sfplay.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/sndfile/sndfile.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/univint/ABActions.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/univint/ABAddressBook.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/extra/univint/ABGlobals.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4060,6 +4055,13 @@ packages/sdl/src/sdl_net.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 packages/sdl/src/sdl_ttf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sdl/src/sdlutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sdl/src/smpeg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/sndfile/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/sndfile/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/sndfile/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/sndfile/examples/sfplay.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/sndfile/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/sndfile/scripts/testc.c svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/sndfile/src/sndfile.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sqlite/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sqlite/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sqlite/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
