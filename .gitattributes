@@ -1419,6 +1419,9 @@ packages/fcl-db/src/memds/testcp.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/fcl-db/src/memds/testld.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/memds/testopen.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/memds/testpop.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/paradox/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/paradox/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/paradox/paradox.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sdf/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sdf/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sdf/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
