@@ -1060,8 +1060,6 @@ packages/dts/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/dts/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/dts/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/dts/src/dts.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/extra/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-async/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-async/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-async/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
