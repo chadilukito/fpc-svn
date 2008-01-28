@@ -847,6 +847,8 @@ packages/bfd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 packages/bfd/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/bfd/src/bfd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/bzip2/LICENSE svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/bzip2/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/bzip2/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/bzip2/examples/pasbzip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/bzip2/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/bzip2/src/bzip2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
