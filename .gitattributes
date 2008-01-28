@@ -1069,6 +1069,7 @@ packages/fcl-db/src/base/database.inc svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/fcl-db/src/base/dataset.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/base/datasource.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/base/db.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/base/dbcoll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/base/dbconst.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/base/dbwhtml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/base/dsparams.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
