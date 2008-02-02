@@ -4143,8 +4143,10 @@ packages/unzip/src/ziptypes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/users/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/users/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/users/examples/testpass.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/users/examples/testpass2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/users/examples/testuser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/users/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/users/src/crypth.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/users/src/grp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/users/src/pwd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/users/src/shadow.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
