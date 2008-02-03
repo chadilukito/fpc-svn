@@ -1,4 +1,4 @@
-/ svnc_svnmerge_002dintegrated svnc_fisheye_002eaccess=allow
+/ svnc_svnmerge_002dintegrated=%2Fbranches%2Favr%3A1-10180 svnc_fisheye_002eaccess=allow
 /Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /compiler svnc_svnmerge_002dintegrated
@@ -73,6 +73,28 @@ compiler/arm/rarmstd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/rarmsup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/assemble.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/avrreg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
+compiler/avr/cgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/cpunode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/cpupara.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/cpupi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/cputarg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/ravrcon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/ravrdwa.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/ravrnor.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/ravrnum.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/ravrrni.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/ravrsri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/ravrsta.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/ravrstd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/ravrsup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/browcol.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/catch.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cclasses.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -510,6 +532,7 @@ compiler/utils/gppc386.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 compiler/utils/mk68kreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkarmins.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkarmreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/utils/mkavrreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkmpsreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkppcreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkspreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
