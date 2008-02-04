@@ -74,6 +74,7 @@ compiler/arm/rarmsup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/assemble.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/agavrgas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -85,6 +86,9 @@ compiler/avr/cpunode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/cpupara.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/cpupi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/cputarg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/raavr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/raavrgas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/ravrcon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/ravrdwa.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/ravrnor.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
