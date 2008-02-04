@@ -3850,6 +3850,7 @@ packages/univint/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/univint/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/examples/controldemo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/ABActions.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/ABAddressBook.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/ABGlobals.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
