@@ -4588,6 +4588,7 @@ rtl/amiga/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/arm.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/divide.inc svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 rtl/arm/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/arm/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4795,6 +4796,7 @@ rtl/i386/cpu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/fastmove.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/i386.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/i386/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5023,6 +5025,7 @@ rtl/linux/x86_64/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 rtl/linux/x86_64/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/lowmath.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/m68k.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/m68k/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5415,6 +5418,7 @@ rtl/solaris/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/sparc/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5627,6 +5631,7 @@ rtl/wince/wininc/tapi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 rtl/wince/winsock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/winsock2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/x86_64/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
