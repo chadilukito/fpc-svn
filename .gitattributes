@@ -1302,10 +1302,11 @@ packages/fcl-fpcunit/src/xmlreporter.pas svn_mime_002dtype=text%2Fplain svn_eol_
 packages/fcl-fpcunit/src/xmltestreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/examples/drawing.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/examples/imgconv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/bmpcomn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/clipping.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-image/src/drawing.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/ellipses.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/extinterpolation.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpbrush.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1345,7 +1346,6 @@ packages/fcl-image/src/fpwritexpm.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/fcl-image/src/freetype.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/freetypeh.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/ftfont.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-image/src/imgconv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/pcxcomn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/pixtools.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/pngcomn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
