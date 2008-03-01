@@ -6977,6 +6977,7 @@ tests/test/thintdir.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/timplements1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/timplements2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/timplements3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/timplements4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/timplprog.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tindex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinivar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
