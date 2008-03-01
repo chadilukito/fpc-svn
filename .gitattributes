@@ -7014,6 +7014,7 @@ tests/test/tmacpas3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmacpas4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmacpas5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmacprocvar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tmainnam.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmath1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmcbool2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmmx1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7174,6 +7175,7 @@ tests/test/uimpluni2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uinline4a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uinline4b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/umacpas1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/umainnam.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/classes/tmakeobjinst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/crt/tcrt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/crt/tctrlc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
