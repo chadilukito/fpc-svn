@@ -6568,6 +6568,7 @@ tests/test/cg/ptest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/taddbool.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/taddcard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/taddcurr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cg/taddint.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/taddlong.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/taddr1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/taddr2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
