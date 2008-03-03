@@ -4828,6 +4828,7 @@ rtl/inc/compproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/crt.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/crth.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/ctypes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/currh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/dos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/dosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/dynarr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
