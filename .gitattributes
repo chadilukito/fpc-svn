@@ -1262,6 +1262,7 @@ packages/fcl-db/tests/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/fcl-db/tests/database.ini.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/memdstoolsunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/testbasics.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/tests/testdatasources.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/testfieldtypes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
