@@ -5310,6 +5310,8 @@ rtl/objpas/classes/lists.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 rtl/objpas/classes/parser.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/classes/persist.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/classes/reader.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/objpas/classes/resref.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/objpas/classes/sllist.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/classes/streams.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/classes/stringl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/classes/twriter.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
