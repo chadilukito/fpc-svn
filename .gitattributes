@@ -3143,6 +3143,7 @@ packages/ncurses/examples/ocrt_demo.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/ncurses/examples/screen_demo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/src/eti.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/src/form.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/src/menu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/src/ncrt.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/src/ncrt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3151,7 +3152,18 @@ packages/ncurses/src/ocrt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 packages/ncurses/src/panel.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/src/pxpic.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/src/pxpic.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/tests/cotest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/tests/t1form.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/tests/t1menu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/tests/t2form.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/tests/t2menu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/tests/t3form.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/tests/tbackground.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/tests/tclock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/tests/testn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/tests/tevent.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/tests/tmouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/tests/tnlshello.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/newt/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/newt/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/newt/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
