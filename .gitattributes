@@ -5594,6 +5594,7 @@ rtl/unix/bunxh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/bunxovl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/bunxovlh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/unix/clocale.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/cthreads.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/ctypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
