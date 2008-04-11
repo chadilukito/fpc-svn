@@ -4741,6 +4741,7 @@ rtl/beos/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/bunxfunch.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/bunxsysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/bsd/clocale.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/i386/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/i386/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/ipcbsd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
