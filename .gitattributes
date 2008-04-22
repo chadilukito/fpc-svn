@@ -7086,6 +7086,7 @@ tests/test/timplements3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 tests/test/timplements4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/timplements4a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/timplements4b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/timplements7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/timplprog.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tindex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinivar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
