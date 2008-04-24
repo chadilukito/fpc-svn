@@ -7376,6 +7376,7 @@ tests/test/units/sysutils/extractquote.pp svn_mime_002dtype=text%2Fplain svn_eol
 tests/test/units/sysutils/tastrcmp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/tfile1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/tfilename.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/sysutils/tlocale.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/tsscanf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/tstrtobool.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uprec6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
