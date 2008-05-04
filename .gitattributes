@@ -3143,7 +3143,23 @@ packages/ncurses/examples/edit_demo.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/ncurses/examples/firework.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/examples/menu_demo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/examples/ocrt_demo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/examples/ru/messages.mo svn_mime_002dtype=application%2Foctet-stream
 packages/ncurses/examples/screen_demo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/examples/t1form.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/examples/t1menu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/examples/t1panel.pp svnc_t1form_002epp=t1menu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/examples/t2form.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/examples/t2menu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/examples/t2panel.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/examples/t3form.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/examples/tbackground.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/examples/tclock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/examples/tevent.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/examples/tmouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/examples/tnlshello.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/examples/tnlshello_ru_UTF8.pot svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/examples/tpad.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/examples/twindow.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/src/eti.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/src/form.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
