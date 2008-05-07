@@ -4322,6 +4322,7 @@ packages/winceunits/src/aygshell.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/winceunits/src/buildwinceunits.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/commctrl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/commdlg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winceunits/src/gpsapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/iphlpapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/notify.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/oleaut32.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4329,6 +4330,7 @@ packages/winceunits/src/power.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/winceunits/src/shellapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/simmgr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/tapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winceunits/src/todaycmn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
