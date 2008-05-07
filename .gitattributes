@@ -4324,6 +4324,7 @@ packages/winceunits/src/cesync.pp svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/winceunits/src/commctrl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/commdlg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/gpsapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winceunits/src/gx.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/iphlpapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/notify.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/oleaut32.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5754,7 +5755,6 @@ rtl/wince/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/dynlibs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/wince/gx.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/messages.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
