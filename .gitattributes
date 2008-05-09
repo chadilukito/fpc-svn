@@ -4326,6 +4326,7 @@ packages/winceunits/src/commctrl.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/winceunits/src/commdlg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/gpsapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/gx.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winceunits/src/htmlctrl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/iphlpapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/msgqueue.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/notify.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
