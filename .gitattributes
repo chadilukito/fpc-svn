@@ -5363,7 +5363,6 @@ rtl/objpas/classes/constss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 rtl/objpas/classes/cregist.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/classes/dm.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/classes/filer.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/objpas/classes/filerec.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/classes/intf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/classes/lists.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/classes/parser.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
