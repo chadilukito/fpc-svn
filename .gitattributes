@@ -4330,7 +4330,7 @@ packages/winceunits/src/htmlctrl.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/winceunits/src/iphlpapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/msgqueue.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/notify.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/winceunits/src/oleaut32.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winceunits/src/oleauto.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/pm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/power.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/rapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
