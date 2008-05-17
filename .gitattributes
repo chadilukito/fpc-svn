@@ -1657,30 +1657,6 @@ packages/fv/src/unixsmsg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 packages/fv/src/validate.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fv/src/views.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fv/src/w32smsg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/lgpl.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/libGBA4fpc.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/src/bios_asm.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/src/core_asm.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/src/def.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/src/gba_bg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/src/gba_bios.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/src/gba_blend.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/src/gba_core.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/src/gba_dma.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/src/gba_fade.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/src/gba_input.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/src/gba_irq.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/src/gba_mosaic.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/src/gba_regs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/src/gba_sio.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/src/gba_sprites.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/src/gba_timer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/src/gba_types.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/src/gba_video.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/gbaunits/src/gba_window.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbint/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbint/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbint/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2925,6 +2901,55 @@ packages/libcurl/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 packages/libcurl/src/libcurl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libcurl/tests/testcurl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libcurl/tests/teststream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/devkitPro/audio/PlayBoyScout/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/devkitPro/audio/PlayBoyScout/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/devkitPro/audio/PlayBoyScout/PlayBoyScout.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libgbafpc/examples/devkitPro/audio/PlayBoyScout/data/ScoutSplash.pcx svn_mime_002dtype=image%2Fpcx
+packages/libgbafpc/examples/devkitPro/audio/PlayBoyScout/data/tune.bgf svn_mime_002dtype=application%2Foctet-stream
+packages/libgbafpc/examples/devkitPro/graphics/PCXView/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/devkitPro/graphics/PCXView/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/devkitPro/graphics/PCXView/data/ScoutSplash.pcx svn_mime_002dtype=image%2Fpcx
+packages/libgbafpc/examples/devkitPro/graphics/PCXView/data/splash.pcx svn_mime_002dtype=image%2Fpcx
+packages/libgbafpc/examples/devkitPro/graphics/PCXView/pcx_view.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libgbafpc/examples/devkitPro/graphics/SimpleBGScroll/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/devkitPro/graphics/SimpleBGScroll/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/devkitPro/graphics/SimpleBGScroll/SimpleBGScroll.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libgbafpc/examples/devkitPro/graphics/SimpleBGScroll/data/r6502_portfont.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libgbafpc/examples/devkitPro/graphics/ansi_console/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/devkitPro/graphics/ansi_console/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/devkitPro/graphics/ansi_console/console.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libgbafpc/examples/devkitPro/template/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/devkitPro/template/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/devkitPro/template/template.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libgbafpc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/BoyScout.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/core_asm.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/fade.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/gba.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/gba_affine.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/gba_base.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/gba_compression.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/gba_console.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/gba_dma.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/gba_input.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/gba_interrupt.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/gba_multiboot.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/gba_sio.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/gba_sound.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/gba_sprites.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/gba_systemcalls.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/gba_timers.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/gba_types.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/gba_video.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/helper.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/mappy.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/mbv2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/pcx.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgd/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
