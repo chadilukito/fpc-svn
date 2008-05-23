@@ -7098,6 +7098,7 @@ tests/test/opt/tretopt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/opt/tspace.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-registry/tregistry1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/hash/tmdtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/packages/webtbs/tw10045.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/webtbs/tw1808.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/webtbs/tw3820.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/win-base/tdispvar1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
