@@ -1964,6 +1964,7 @@ packages/gtk1/src/gtk/gtkvscrollbar.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/gtk1/src/gtk/gtkvseparator.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk1/src/gtk/gtkwidget.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk1/src/gtk/gtkwindow.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk1/src/gtkgl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk1/src/gtkgl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk1/src/gtkgl/gtkglarea.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4970,6 +4971,7 @@ rtl/go32v2/v2prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/go32v2/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/go32v2/vesamode.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/go32v2/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/haiku/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/baseunix.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/bethreads.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9089,6 +9091,7 @@ utils/h2pas/lexlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/options.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/scan.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/yacclib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/mksymbian/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/postw32.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/ppdep.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/ptop.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
