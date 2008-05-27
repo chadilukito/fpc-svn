@@ -3466,6 +3466,7 @@ packages/oracle/src/oro_interface.inc svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/oracle/src/ort.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/os2units/examples/clktest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/examples/ftptest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/examples/lvmtest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/examples/mciapi1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3474,7 +3475,6 @@ packages/os2units/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/os2units/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/src/buildall.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/src/clkdll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/os2units/src/clktest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/src/dive.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/src/ftpapi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/src/hwvideo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
