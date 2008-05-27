@@ -3466,6 +3466,8 @@ packages/oracle/src/oro_interface.inc svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/oracle/src/ort.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/os2units/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/os2units/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/examples/clktest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/examples/ftptest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/examples/lvmtest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
