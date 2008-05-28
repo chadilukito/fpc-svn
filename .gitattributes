@@ -9029,6 +9029,7 @@ utils/fpdoc/fpde/xpms.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpdoc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/intl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/intl/dglobals.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/intl/dglobals.sk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/intl/dwriter.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/intl/fpdoc.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/intl/fpdocmk.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
