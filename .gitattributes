@@ -4098,6 +4098,7 @@ packages/univint/src/CGDirectDisplay.pas svn_mime_002dtype=text%2Fplain svn_eol_
 packages/univint/src/CGDirectPalette.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CGDisplayConfiguration.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CGDisplayFade.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CGDisplayFades.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CGErrors.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CGEvent.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CGEventSource.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4110,6 +4111,7 @@ packages/univint/src/CGImage.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/univint/src/CGImageDestination.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CGImageProperties.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CGImageSource.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CGLTypes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CGLayer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CGPDFArray.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CGPDFContentStream.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4137,6 +4139,15 @@ packages/univint/src/CMMComponent.pas svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/univint/src/CMPRComponent.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CMScriptingPlugin.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CMTypes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CVBase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CVBuffer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CVDisplayLink.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CVHostTime.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CVImageBuffer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CVPixelBuffer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CVPixelBufferPool.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CVPixelFormatDescription.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CVReturns.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CarbonEvents.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CarbonEventsCore.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CodeFragments.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4163,7 +4174,6 @@ packages/univint/src/DriverGestalt.pas svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/univint/src/DriverSynchronization.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/Endian.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/Events.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/univint/src/FPCMacOSAll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/FileTypesAndCreators.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/Files.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/FindByContent.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4213,6 +4223,7 @@ packages/univint/src/MacHelp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/univint/src/MacLocales.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/MacMemory.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/MacOS.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/MacOSAll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/MacOSXPosix.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/MacTextEditor.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/MacTypes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4235,6 +4246,7 @@ packages/univint/src/OSA.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 packages/univint/src/OSAComp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/OSAGeneric.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/OSUtils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/ObjCRuntime.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/OpenTransport.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/OpenTransportProtocol.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/OpenTransportProviders.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
