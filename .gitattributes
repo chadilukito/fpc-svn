@@ -4915,12 +4915,16 @@ rtl/freebsd/i386/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 rtl/freebsd/i386/gprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/i386/identpatch.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/i386/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/freebsd/i386/si_crt.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/freebsd/i386/si_prc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/i386/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/i386/x86.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/i386/x86h.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/pmutext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/pthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/ptypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/freebsd/si_crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/freebsd/si_intf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/signal.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/sysctlh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
