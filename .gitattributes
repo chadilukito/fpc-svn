@@ -703,6 +703,7 @@ ide/wvphelp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/wwinhelp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 installer/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 installer/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+installer/install.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 installer/install.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 installer/insthelp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 installer/makelink.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
