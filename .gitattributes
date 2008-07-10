@@ -1119,6 +1119,8 @@ packages/fcl-db/src/base/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/fcl-db/src/base/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/codegen/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/codegen/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/codegen/buildddcg.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/codegen/buildddcg.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/codegen/fpcgcreatedbf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/codegen/fpcgdbcoll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/codegen/fpcgsqlconst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
