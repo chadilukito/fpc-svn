@@ -2617,6 +2617,14 @@ packages/ibase/src/ibase60.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/ibase/src/ibase60dyn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ibase/tests/testib40.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ibase/tests/testib60.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/iconvenc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/iconvenc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/iconvenc/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/iconvenc/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/iconvenc/examples/iconvtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/iconvenc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/iconvenc/manifest.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/iconvenc/src/iconvenc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/imagemagick/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/imagemagick/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/imagemagick/examples/image.png svn_mime_002dtype=image%2Fpng
