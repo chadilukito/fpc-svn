@@ -109,7 +109,6 @@ compiler/cg64f32.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cgbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cgobj.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cgutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/charset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cmsgs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/comphook.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/compiler.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
