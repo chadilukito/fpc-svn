@@ -5868,6 +5868,7 @@ rtl/win/winsock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/winsock2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win32/buildrtl.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/buildrtl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/gprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
