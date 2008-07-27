@@ -7407,6 +7407,7 @@ tests/test/trangeob.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trecreg2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trecreg4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tresstr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/trox1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trstr1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trstr2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trstr3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
