@@ -485,6 +485,7 @@ compiler/systems/i_haiku.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/systems/i_linux.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_macos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_morph.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/systems/i_nds.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_nwl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_nwm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_os2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -507,7 +508,7 @@ compiler/systems/t_haiku.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/systems/t_linux.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_macos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_morph.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/systems/t_nds.pas svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
+compiler/systems/t_nds.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_nwl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_nwm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_os2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -521,11 +522,14 @@ compiler/tgobj.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/tokens.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/utils/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/utils/dummyas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fixlog.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fixmsg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fixnasm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fixtab.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fpc.cft svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/utils/fpc.mpw svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fpc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fpccfg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fpcfg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -548,9 +552,11 @@ compiler/utils/mkx86ins.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/utils/mkx86reg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/msg2inc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/msgdif.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/utils/msgused.pl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/ppudump.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/ppufiles.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/ppumove.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/utils/samplecfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/usubst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/verbose.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/version.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
