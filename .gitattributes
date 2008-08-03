@@ -2368,8 +2368,16 @@ packages/gtk2/src/gtk2x11/include/xsettings-client.inc svn_mime_002dtype=text%2F
 packages/gtk2/src/gtk2x11/include/xsettings-common.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk2x11/scripts/gdkx11_h2pas.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtkext/gtk2ext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/gtkext/gtkscalebutton.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/gtkext/gtkscalebuttonh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtkext/gtkstatusicon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtkext/gtkstatusiconh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/gtkext/gtktextiter.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/gtkext/gtktextiterh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/gtkext/gtktextmark.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/gtkext/gtktextmarkh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/gtkext/gtkvolumebutton.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/gtkext/gtkvolumebuttonh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtkglext/gdkglconfig.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtkglext/gdkglcontext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtkglext/gdkgldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
