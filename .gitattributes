@@ -3199,6 +3199,8 @@ packages/libxml/csrc/xmlwriter.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/libxml/csrc/xpath.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/csrc/xpathInternals.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/csrc/xpointer.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libxml/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libxml/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/examples/exutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/examples/reader1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/examples/reader2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
