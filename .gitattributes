@@ -2161,6 +2161,7 @@ packages/gtk2/src/gtk+/gdk/gdkregion.inc svn_mime_002dtype=text%2Fplain svn_eol_
 packages/gtk2/src/gtk+/gdk/gdkrgb.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gdk/gdkscreen.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gdk/gdkselection.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/gtk+/gdk/gdkspawn.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gdk/gdktypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gdk/gdkvisual.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gdk/gdkwindow.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
