@@ -2293,6 +2293,7 @@ packages/gtk2/src/gtk+/gtk/gtkscrolledwindow.inc svn_mime_002dtype=text%2Fplain 
 packages/gtk2/src/gtk+/gtk/gtkselection.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkseparator.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkseparatormenuitem.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/gtk+/gtk/gtkseparatortoolitem.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtksettings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtksignal.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtksizegroup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
