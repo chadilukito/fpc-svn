@@ -2089,6 +2089,7 @@ packages/gtk2/src/glib/gerror.inc svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/gtk2/src/glib/gfileutils.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/glib/ghash.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/glib/ghook.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/glib/gincludes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/glib/giochannel.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/glib/glib2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/glib/glibconfig.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2102,6 +2103,7 @@ packages/gtk2/src/glib/gmessages.inc svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/gtk2/src/glib/gmodule.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/glib/gnode.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/glib/gobject.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/glib/goption.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/glib/gparam.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/glib/gparamspecs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/glib/gpattern.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
