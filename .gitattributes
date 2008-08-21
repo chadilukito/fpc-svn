@@ -2171,6 +2171,7 @@ packages/gtk2/src/gtk+/gdk/gdkvisual.inc svn_mime_002dtype=text%2Fplain svn_eol_
 packages/gtk2/src/gtk+/gdk/gdkwindow.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/fnmatch.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtk2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/gtk+/gtk/gtkaboutdialog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkaccelgroup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkaccellabel.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkaccelmap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2192,8 +2193,10 @@ packages/gtk2/src/gtk+/gtk/gtkcelllayout.inc svn_mime_002dtype=text%2Fplain svn_
 packages/gtk2/src/gtk+/gtk/gtkcellrenderer.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkcellrenderercombo.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkcellrendererpixbuf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/gtk+/gtk/gtkcellrendererprogress.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkcellrenderertext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkcellrenderertoggle.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/gtk+/gtk/gtkcellview.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkcheckbutton.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkcheckmenuitem.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkclipboard.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2218,6 +2221,7 @@ packages/gtk2/src/gtk+/gtk/gtkenums.inc svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/gtk2/src/gtk+/gtk/gtkeventbox.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkexpander.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkfilechooser.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/gtk+/gtk/gtkfilechooserbutton.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkfilechooserdefault.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkfilechooserdialog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkfilechooserembed.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2269,6 +2273,7 @@ packages/gtk2/src/gtk+/gtk/gtkmenu.inc svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/gtk2/src/gtk+/gtk/gtkmenubar.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkmenuitem.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkmenushell.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/gtk+/gtk/gtkmenutoolbutton.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkmessagedialog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtkmisc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gtk/gtknotebook.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
