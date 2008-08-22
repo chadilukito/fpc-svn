@@ -3219,6 +3219,7 @@ packages/libxml/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/libxml/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/examples/exutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/examples/io1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libxml/examples/io2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/examples/reader1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/examples/reader2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/examples/test1.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
