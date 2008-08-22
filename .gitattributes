@@ -3224,6 +3224,8 @@ packages/libxml/examples/reader1.pas svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/libxml/examples/reader2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/examples/test1.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/examples/test2.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libxml/examples/tree1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libxml/examples/tree2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/HTMLparser.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/HTMLtree.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
