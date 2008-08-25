@@ -9274,6 +9274,8 @@ utils/fpdoc/dw_txt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/dw_xml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/dwlinear.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/dwriter.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/fpclasschart.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/fpclasschart.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpde/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpde/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpde/fpde.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
