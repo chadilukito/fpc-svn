@@ -9288,6 +9288,7 @@ utils/fpdoc/fpde/frmoptions.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 utils/fpdoc/fpde/frmtable.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpde/pgeditor.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpde/xpms.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/fpdoc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpdoc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/intl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/intl/dglobals.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
