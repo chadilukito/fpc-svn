@@ -5946,6 +5946,7 @@ rtl/win/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win/syswin.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
