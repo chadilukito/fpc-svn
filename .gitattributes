@@ -103,6 +103,7 @@ compiler/avr/ravrsup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/browcol.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/catch.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ccharset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cclasses.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cfidwarf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cfileutl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5245,13 +5246,17 @@ rtl/inc/threadvr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/typefile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/ucomplex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/ufloat128.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/ustringh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/ustrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/varerror.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/variant.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/varianth.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/variants.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/video.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/videoh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/wstring22h.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/wstringh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/wustring22.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/wustrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5267,6 +5272,8 @@ rtl/linux/arm/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 rtl/linux/arm/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/arm/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/arm/ucprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/buildrtl.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/buildrtl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/bunxsysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/fpcylix.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7536,6 +7543,7 @@ tests/test/tsetsize.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstack.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstprocv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstring1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tstring10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstring2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstring3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstring4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7548,6 +7556,12 @@ tests/test/tstrreal1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstrreal2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tsubdecl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunaligned1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tunistr1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tunistr2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tunistr4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tunistr5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tunistr6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tunistr7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunit1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunit2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunit3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
