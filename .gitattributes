@@ -5034,6 +5034,8 @@ rtl/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/bsdport.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/freebsd/buildrtl.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/freebsd/buildrtl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/console.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/i386/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
