@@ -6045,6 +6045,7 @@ tests/bench/shootout/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 tests/bench/shootout/fpascal2.diff svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/io/binarytrees-output.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/io/knucleotide-output.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/bench/shootout/io/mandelbrot-200.pbm svn_mime_002dtype=image%2Fx-portable-bitmap
 tests/bench/shootout/io/recursive-output.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/io/regexdna-input.txt svn_mime_002dtype=application%2Foctet-stream
 tests/bench/shootout/io/spectralnorm-output.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
