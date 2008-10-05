@@ -912,6 +912,7 @@ packages/cdrom/src/cdromioctl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/cdrom/src/cdromlin.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cdrom/src/cdromw32.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cdrom/src/discid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cdrom/src/fpcddb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cdrom/src/lincd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cdrom/src/major.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cdrom/src/scsidefs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
