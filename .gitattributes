@@ -686,6 +686,7 @@ ide/test2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/vesa.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/wansi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/wcedit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+ide/wchmhwrap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/wconsole.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/wconsts.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/wconstse.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
