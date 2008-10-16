@@ -4486,12 +4486,18 @@ packages/winceunits/src/buildwinceunits.pp svn_mime_002dtype=text%2Fplain svn_eo
 packages/winceunits/src/cesync.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/commctrl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/commdlg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winceunits/src/connmgr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/cpl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winceunits/src/devload.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winceunits/src/devmgmt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/gpsapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/gx.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/htmlctrl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/iphlpapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/keybd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winceunits/src/mmreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winceunits/src/mmsystem.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winceunits/src/msacm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/msgqueue.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/nled.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/notify.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4511,6 +4517,7 @@ packages/winceunits/src/tapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/winceunits/src/todaycmn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/windbase.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/windbase_edb.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winceunits/src/wininet.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/winioctl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/ws2bth.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
