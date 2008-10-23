@@ -1057,10 +1057,8 @@ packages/fcl-base/examples/tstelgtk.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-base/examples/txmlreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/xmldump.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-base/src/amiga/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/avl_tree.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/base64.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-base/src/beos/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/blowfish.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/bufstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/cachecls.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1072,19 +1070,14 @@ packages/fcl-base/src/felog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/fcl-base/src/fptimer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/gettext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/go32v2/custapp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-base/src/go32v2/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-base/src/haiku/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/idea.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/inicol.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/inifiles.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/iostream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/libtar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/maskutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-base/src/morphos/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/netware/custapp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-base/src/netware/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/netwlibc/custapp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-base/src/netwlibc/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/os2/custapp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/os2/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/pooledmm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1104,7 +1097,6 @@ packages/fcl-base/src/win/daemonapp.inc svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/fcl-base/src/win/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/win/fclel.res svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-base/src/win/fileinfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-base/src/wince/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/wince/fileinfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/wtex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
