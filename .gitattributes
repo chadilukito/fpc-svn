@@ -7604,6 +7604,10 @@ tests/test/tunroll1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tutf81.pp svn_mime_002dtype=text%2Fplain%3Bcharset%3Dutf-8 svn_eol_002dstyle=native
 tests/test/tutf82.pp svn_mime_002dtype=text%2Fplain%3Bcharset%3Dutf-8 svn_eol_002dstyle=native
 tests/test/tvarset1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tweaklib1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tweaklib2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tweaklib3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tweaklib4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/twide1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/twide2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/twide3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
