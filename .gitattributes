@@ -7317,6 +7317,7 @@ tests/test/packages/webtbs/tw11570.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 tests/test/packages/webtbs/tw1808.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/webtbs/tw3820.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/win-base/tdispvar1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/packages/zlib/tzlib1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/t4cc1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/t4cc2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tabstrcl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
