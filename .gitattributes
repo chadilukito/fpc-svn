@@ -2120,6 +2120,7 @@ packages/gtk2/src/glib/grel.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/gtk2/src/glib/gscanner.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/glib/gshell.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/glib/gsignal.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/glib/gslice.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/gtk2/src/glib/gslist.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/glib/gsourceclosure.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/glib/gspawn.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
