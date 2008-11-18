@@ -1640,6 +1640,8 @@ packages/fpgtk/src/fpgtk.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/fpgtk/src/fpgtkext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpgtk/src/pgtk/pgtk.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpmake_add.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpmake_proc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpmkunit/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpmkunit/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpmkunit/examples/ppu2fpmake.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
