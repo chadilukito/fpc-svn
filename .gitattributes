@@ -4982,6 +4982,7 @@ rtl/bsd/x86_64/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 rtl/bsd/x86_64/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/darwin/arm/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/console.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/extres_multiarch.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
