@@ -7307,6 +7307,12 @@ tests/test/opt/treg3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/treg4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tretopt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tspace.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/packages/fcl-db/assertions.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/packages/fcl-db/database.ini svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/packages/fcl-db/dbftoolsunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/packages/fcl-db/tdb1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/packages/fcl-db/tdb2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/packages/fcl-db/toolsunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-registry/tregistry1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/hash/tmdtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/webtbs/tw10045.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
