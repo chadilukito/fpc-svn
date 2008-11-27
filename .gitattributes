@@ -883,6 +883,8 @@ packages/aspell/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 packages/aspell/examples/example.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/aspell/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/aspell/src/aspell.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/aspell/src/aspelldyn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/aspell/src/aspelltypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/aspell/src/spellcheck.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/bfd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/bfd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
