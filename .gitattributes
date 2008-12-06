@@ -1650,6 +1650,7 @@ packages/fv/src/amismsg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/fv/src/app.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fv/src/asciitab.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fv/src/buildfv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fv/src/colorsel.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fv/src/colortxt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fv/src/dialogs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fv/src/drivers.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
