@@ -1301,7 +1301,15 @@ packages/fcl-fpcunit/src/example_output/results.pdf svn_mime_002dtype=applicatio
 packages/fcl-fpcunit/src/example_output/results.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/example_xsl/fpcunit.css svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/example_xsl/fpcunit.xsl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-fpcunit/src/example_xsl/images/lastlink.gif svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-fpcunit/src/example_xsl/images/link.gif svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-fpcunit/src/example_xsl/images/minus.gif svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-fpcunit/src/example_xsl/images/plus.gif svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-fpcunit/src/example_xsl/images/testcase.gif svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-fpcunit/src/example_xsl/images/testsuite.gif svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-fpcunit/src/example_xsl/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-fpcunit/src/example_xsl/scripts/fpcunit.css svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-fpcunit/src/example_xsl/scripts/treeview.js svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/exampletests/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/exampletests/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/exampletests/fpcunittests.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
