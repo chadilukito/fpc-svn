@@ -306,11 +306,13 @@ compiler/oglx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ogmap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/optbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/optcse.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/optdead.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/optdfa.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/options.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/optloop.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/opttail.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/optutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/optvirt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/owar.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/owbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/parabase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -569,6 +571,9 @@ compiler/vis/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/vis/cpunode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/vis/cpupara.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/widestr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/wpo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/wpobase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/wpoinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/agx86att.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/agx86int.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7318,6 +7323,11 @@ tests/test/opt/treg3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/treg4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tretopt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tspace.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/opt/twpo1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/opt/twpo2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/opt/twpo3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/opt/twpo4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/opt/uwpo2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-base/tgettext1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-db/assertions.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-db/dbftoolsunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
