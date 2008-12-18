@@ -1343,6 +1343,8 @@ packages/fcl-fpcunit/src/xmlreporter.pas svn_mime_002dtype=text%2Fplain svn_eol_
 packages/fcl-fpcunit/src/xmltestreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/drawing.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/imgconv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
