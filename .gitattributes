@@ -3311,6 +3311,8 @@ packages/mysql/src/mysql50.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/mysql/src/mysql50dyn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/examples/db_demo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/examples/edit_demo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/examples/firework.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3327,6 +3329,7 @@ packages/ncurses/examples/t2panel.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/ncurses/examples/t3form.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/examples/tbackground.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/examples/tclock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ncurses/examples/testn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/examples/tevent.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/examples/tmouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/examples/tnlshello.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3352,7 +3355,6 @@ packages/ncurses/tests/t2menu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/ncurses/tests/t3form.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/tests/tbackground.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/tests/tclock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/ncurses/tests/testn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/tests/tevent.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/tests/tmouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/tests/tnlshello.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
