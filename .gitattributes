@@ -3878,6 +3878,10 @@ packages/pcap/src/pcap.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 packages/postgres/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/postgres/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/postgres/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/postgres/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/postgres/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/postgres/examples/testpg1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/postgres/examples/testpg2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/postgres/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/postgres/scripts/mkdb svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/postgres/scripts/rmdb svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3888,8 +3892,6 @@ packages/postgres/src/postgres.pp svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/postgres/src/postgres3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/postgres/src/postgres3dyn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/postgres/src/postgres3types.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/postgres/tests/testpg1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/postgres/tests/testpg2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/Makefile svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/Makefile.fpc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/docs svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native
