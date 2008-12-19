@@ -3361,6 +3361,8 @@ packages/ncurses/tests/tnlshello.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/newt/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/newt/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/newt/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/newt/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/newt/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/newt/examples/newt1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/newt/examples/newt2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/newt/examples/newt3.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
