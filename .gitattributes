@@ -2663,6 +2663,10 @@ packages/httpd22/src/util_time.inc svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/ibase/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ibase/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ibase/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ibase/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ibase/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ibase/examples/testib40.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ibase/examples/testib60.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ibase/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ibase/scripts/mkdb svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ibase/scripts/mkdb.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2671,8 +2675,6 @@ packages/ibase/src/ibase40.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/ibase/src/ibase60.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ibase/src/ibase60.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ibase/src/ibase60dyn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/ibase/tests/testib40.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/ibase/tests/testib60.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/iconvenc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/iconvenc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/iconvenc/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
