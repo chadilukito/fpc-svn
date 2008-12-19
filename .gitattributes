@@ -2976,10 +2976,12 @@ packages/libc/src/xlocaleh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/libc/src/xopen_limh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libcurl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libcurl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libcurl/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libcurl/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libcurl/examples/testcurl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libcurl/examples/teststream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libcurl/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libcurl/src/libcurl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libcurl/tests/testcurl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libcurl/tests/teststream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
