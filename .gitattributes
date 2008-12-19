@@ -1710,6 +1710,7 @@ packages/gdbint/src/gdbver_nogdb.inc svn_mimetype=text%2Fx-pascal svn_mime_002dt
 packages/gdbm/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbm/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbm/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gdbm/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbm/examples/testgdbm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbm/examples/testgdbm2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbm/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
