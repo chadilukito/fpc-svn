@@ -1711,12 +1711,15 @@ packages/gdbm/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbm/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbm/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbm/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gdbm/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbm/examples/testgdbm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbm/examples/testgdbm2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbm/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbm/src/gdbm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ggi/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ggi/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ggi/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ggi/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ggi/examples/ggi1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ggi/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ggi/src/ggi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
