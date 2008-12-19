@@ -3034,10 +3034,12 @@ packages/libgbafpc/src/gba/pcx.inc svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/libgd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgd/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgd/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgd/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgd/examples/gdtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgd/examples/gdtestcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgd/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgd/src/gd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libgd/tests/gdtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libgd/tests/gdtestcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/devkitPro/Graphics/2D/16bit_color_bmp/data/drunkenlogo.git svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
