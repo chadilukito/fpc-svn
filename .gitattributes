@@ -2475,6 +2475,8 @@ packages/gtk2/src/pango/pangoincludes.inc svn_mime_002dtype=text%2Fplain svn_eol
 packages/gtk2/src/pango/pangoutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/hash/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/hash/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/examples/md5.ref svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/examples/mdtest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
