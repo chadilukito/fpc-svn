@@ -4496,6 +4496,8 @@ packages/unzip/src/unzipdll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/unzip/src/ziptypes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/users/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/users/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/users/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/users/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/users/examples/testpass.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/users/examples/testpass2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/users/examples/testuser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
