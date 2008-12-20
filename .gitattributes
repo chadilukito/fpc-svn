@@ -4509,6 +4509,8 @@ packages/users/src/shadow.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 packages/users/src/users.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/utmp/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/utmp/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/utmp/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/utmp/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/utmp/examples/testutmp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/utmp/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/utmp/src/utmp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
