@@ -4517,11 +4517,13 @@ packages/utmp/src/utmp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 packages/uuid/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/uuid/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/uuid/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/uuid/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/uuid/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/uuid/examples/testlibuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/uuid/examples/testuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/uuid/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/uuid/src/libuuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/uuid/src/macuuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/uuid/tests/testlibuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/uuid/tests/testuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/aygshell.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
