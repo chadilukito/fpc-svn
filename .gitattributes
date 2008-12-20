@@ -4113,12 +4113,14 @@ packages/sqlite/tests/testapiv3x.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/svgalib/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/svgalib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/svgalib/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/svgalib/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/svgalib/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/svgalib/examples/testvga.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/svgalib/examples/vgatest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/svgalib/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/svgalib/src/svgalib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/svgalib/src/vgamouse.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/svgalib/src/vgamouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/svgalib/tests/testvga.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/svgalib/tests/vgatest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/symbolic/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/symbolic/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/symbolic/doc/optimization.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
