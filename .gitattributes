@@ -330,6 +330,7 @@ compiler/pexpr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pinline.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pmodules.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/agppcmpw.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/powerpc/agppcvasm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/aoptcpuc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
