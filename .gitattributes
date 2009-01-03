@@ -3577,6 +3577,7 @@ packages/opengl/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/opengl/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengl/examples/bounce.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengl/examples/glutdemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/examples/glutdemova.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengl/examples/glxtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengl/examples/morph3d.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengl/examples/radblur.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
