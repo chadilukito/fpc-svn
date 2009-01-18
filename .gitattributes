@@ -5554,6 +5554,8 @@ rtl/morphos/videodata.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 rtl/nds/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/cprt07.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/cprt09.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/nds.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/ndsh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/prt07.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/prt09.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/sysheap.inc svnc_mime_002dtype=text%2Fx-pascal svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
