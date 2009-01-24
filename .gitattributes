@@ -3047,8 +3047,7 @@ packages/libgd/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/libgd/examples/gdtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgd/examples/gdtestcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgd/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libgd/src/gd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libgd/src/libgd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgd/src/gd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/devkitPro/Graphics/2D/16bit_color_bmp/data/drunkenlogo.git svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
