@@ -3232,7 +3232,6 @@ packages/libxml/src/encoding.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/libxml/src/entities.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/globals.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/hash.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libxml/src/libxml2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/list.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/nanoftp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/nanohttp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3248,6 +3247,7 @@ packages/libxml/src/uri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/libxml/src/valid.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/xinclude.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/xlink.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libxml/src/xml2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/xmlIO.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/xmlautomata.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/xmlerror.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
