@@ -5224,6 +5224,7 @@ rtl/haiku/i386/dllprt.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 rtl/haiku/i386/func.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/i386/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/i386/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/haiku/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/osmacro.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/ossysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/ostypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5243,7 +5244,6 @@ rtl/haiku/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/termio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/termios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/haiku/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/unixsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
