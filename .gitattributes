@@ -3247,11 +3247,12 @@ packages/libxml/src/uri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/libxml/src/valid.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/xinclude.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/xlink.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libxml/src/xml2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/xml2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libxml/src/xml2dyn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/xmlIO.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/xmlautomata.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/xmlerror.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libxml/src/xmlexports.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/xmlmemory.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/xmlmodule.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/xmlreader.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
