@@ -6166,6 +6166,7 @@ tests/bench/shootout/src/chameneos.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 tests/bench/shootout/src/fannkuch.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/fasta.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/hello.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/bench/shootout/src/knucleotide.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/knucleotide.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/mandelbrot.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/shootout/src/message.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
