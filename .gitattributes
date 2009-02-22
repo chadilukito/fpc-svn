@@ -7419,6 +7419,7 @@ tests/test/packages/fcl-db/tdb2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 tests/test/packages/fcl-db/tdb3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-db/tdb4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-db/tdb5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/packages/fcl-db/tdb6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-db/toolsunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-registry/tregistry1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-xml/thtmlwriter.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
