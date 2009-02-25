@@ -9679,3 +9679,5 @@ utils/tply/yaccmsgs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/yaccpars.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/yaccsem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/yacctabl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/tply/yylex.cod svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/tply/yyparse.cod svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
