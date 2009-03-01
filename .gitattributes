@@ -4575,9 +4575,11 @@ packages/winceunits/src/connmgr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/winceunits/src/cpl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/devload.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/devmgmt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winceunits/src/extapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/gpsapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/gx.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/htmlctrl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winceunits/src/imm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/iphlpapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/keybd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/mmreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
