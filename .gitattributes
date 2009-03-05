@@ -1410,6 +1410,7 @@ packages/fcl-image/src/pixtools.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/fcl-image/src/pngcomn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/pscanvas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/targacmn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/src/xwdfile.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/examples/confdemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
