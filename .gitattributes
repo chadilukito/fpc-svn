@@ -1358,6 +1358,7 @@ packages/fcl-image/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/fcl-image/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/drawing.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/imgconv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/examples/xwdtobmp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/bmpcomn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/clipping.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1393,6 +1394,7 @@ packages/fcl-image/src/fpreadpsd.pas svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/fcl-image/src/fpreadtga.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpreadtiff.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpreadxpm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/src/fpreadxwd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fptiffcmn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpwritebmp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpwritejpeg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
