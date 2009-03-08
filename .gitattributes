@@ -7059,6 +7059,12 @@ tests/test/cg/obj/go32v2/i386/ctest.o svn_mime_002dtype=application%2Foctet-stre
 tests/test/cg/obj/go32v2/i386/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/go32v2/i386/tcext4.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/go32v2/i386/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/haiku svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+tests/test/cg/obj/haiku/i386 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+tests/test/cg/obj/haiku/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/haiku/i386/tcext3.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/haiku/i386/tcext4.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/haiku/i386/tcext5.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/arm-eabi/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/arm-eabi/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/arm-eabi/tcext4.o svn_mime_002dtype=application%2Foctet-stream
