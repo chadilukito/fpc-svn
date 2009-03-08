@@ -284,6 +284,7 @@ compiler/ncginl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgmem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ncgobjc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgopt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgrtti.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -296,6 +297,7 @@ compiler/nld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/nmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/nmem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/nobj.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/nobjc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/node.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/nopt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/nset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5337,6 +5339,8 @@ rtl/inc/mmatimp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/mouse.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/mouseh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/mvecimp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/objc1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/objc1h.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/objects.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/objpas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/objpash.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7712,6 +7716,8 @@ tests/test/trtti2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trtti3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trtti4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trtti5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tsel1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tsel2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tset1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tset2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tset2a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
