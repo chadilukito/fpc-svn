@@ -7678,6 +7678,7 @@ tests/test/tprec20.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec21.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec22.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec23.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tprec24.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
