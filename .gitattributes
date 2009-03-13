@@ -7469,6 +7469,11 @@ tests/test/packages/zlib/tzlib1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 tests/test/t4cc1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/t4cc2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tabstrcl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tabsvr1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tabsvr2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tabsvr3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tabsvr4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tabsvr5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/taddstr1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/talign.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/talign1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
