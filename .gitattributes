@@ -5079,7 +5079,6 @@ rtl/bsd/powerpc/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 rtl/bsd/powerpc/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/suuid.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/bsd/sysbsd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/sysctl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
