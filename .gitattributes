@@ -1640,6 +1640,7 @@ packages/fcl-xml/tests/domunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/fcl-xml/tests/template.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/tests/testgen.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/tests/xmlts.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-xml/tests/xpathts.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fftw/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fftw/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fftw/examples/example.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
