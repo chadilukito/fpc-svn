@@ -1601,6 +1601,7 @@ packages/fcl-web/src/fastcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/fcl-web/src/fpapache.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/fpcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/fpdatasetform.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/src/fpfcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/fphtml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/fphttp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/fptemplate.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
