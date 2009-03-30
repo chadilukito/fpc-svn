@@ -1276,6 +1276,7 @@ packages/fcl-db/src/sqldb/mysql/mysqlconn.inc svn_mime_002dtype=text%2Fplain svn
 packages/fcl-db/src/sqldb/odbc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/odbc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/odbc/odbcconn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/sqldb/oracle/oracleconnection.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/postgres/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/postgres/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/postgres/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
