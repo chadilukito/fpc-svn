@@ -2189,6 +2189,7 @@ packages/gtk2/src/glib/gwin32.inc svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/gtk2/src/gtk+/gdk-pixbuf/gdk-pixbuf-loader.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gdk-pixbuf/gdk2pixbuf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gdk/gdk2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/gtk+/gdk/gdkcairo.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gdk/gdkcolor.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gdk/gdkcursor.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/gtk+/gdk/gdkdisplay.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
