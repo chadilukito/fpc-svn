@@ -2711,6 +2711,8 @@ packages/iconvenc/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/iconvenc/examples/iconvtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/iconvenc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/iconvenc/src/iconvenc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/iconvenc/src/iconvenc_dyn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/iconvenc/src/iconvert.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/imagemagick/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/imagemagick/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/imagemagick/examples/image.png svn_mime_002dtype=image%2Fpng
