@@ -7657,6 +7657,7 @@ tests/test/tmsg3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmsg4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmt1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tobjc2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobject1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobject2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobject3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
