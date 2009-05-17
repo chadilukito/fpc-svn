@@ -302,6 +302,8 @@ compiler/nopt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/nset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/nstate.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/nutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/objcgutl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/objcutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ogbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ogcoff.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ogelf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5358,7 +5360,7 @@ rtl/inc/mouse.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/mouseh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/mvecimp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/objc1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/inc/objc1h.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/objcbase.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/objects.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/objpas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/objpash.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7654,6 +7656,7 @@ tests/test/tmsg2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmsg3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmsg4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmt1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tobjc1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobject1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobject2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobject3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
