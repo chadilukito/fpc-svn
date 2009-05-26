@@ -4657,6 +4657,7 @@ packages/winunits-base/src/richedit.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/winunits-base/src/shellapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/shfolder.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/shlobj.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/tmschema.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/uxtheme.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/wininet.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/winver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
