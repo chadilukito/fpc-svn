@@ -5055,6 +5055,7 @@ packages/winunits-base/src/dwmapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/winunits-base/src/flatsb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/imagehlp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/mmsystem.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/multimon.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/ole2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/oleserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/richedit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
