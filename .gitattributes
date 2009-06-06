@@ -8099,6 +8099,7 @@ tests/test/tparray22.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray23.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray24.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray25.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tparray26.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
