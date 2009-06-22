@@ -6016,15 +6016,27 @@ rtl/morphos/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/videodata.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/cprt07.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/cprt09.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/nds.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/ndsbios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/ndsbiosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/ndsh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/prt07.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/prt09.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/sysheap.inc svnc_mime_002dtype=text%2Fx-pascal svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-rtl/nds/system.pp svn_mimetype=text%2Fx-pascal svn_eol_002dstyle=native
+rtl/nds/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/systhrd.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+rtl/nds/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
