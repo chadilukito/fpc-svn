@@ -5546,6 +5546,7 @@ rtl/darwin/x86_64/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 rtl/embedded/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/arm svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+rtl/embedded/arm/at91sam7x256.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/arm/lpc21x4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/check.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
