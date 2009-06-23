@@ -6872,6 +6872,7 @@ tests/tbf/tb0211a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/tb0212.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/tb0213.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/tb0214.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/tbf/tb0214a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/tb0215.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/tb0215a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/tb0215b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
