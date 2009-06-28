@@ -1,4 +1,4 @@
-/ svnc_svnmerge_002dintegrated svnc_fisheye_002eaccess=allow svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+/ svnc_svnmerge_002dintegrated=%2Ftrunk%3A1-13217 svnc_fisheye_002eaccess=allow svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 /Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /compiler svnc_svnmerge_002dintegrated
@@ -1640,7 +1640,7 @@ packages/fcl-xml/src/xmlutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/fcl-xml/src/xmlwrite.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/xpath.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/tests/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-xml/tests/README_DOM svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-xml/tests/README_DOM.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/tests/api.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/tests/domunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/tests/template.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3018,6 +3018,16 @@ packages/libgbafpc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/libgbafpc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/audio svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libgbafpc/examples/audio/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/audio/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/audio/PlayBoyScout svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libgbafpc/examples/audio/PlayBoyScout/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/audio/PlayBoyScout/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/audio/PlayBoyScout/PlayBoyScout.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libgbafpc/examples/audio/PlayBoyScout/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libgbafpc/examples/audio/PlayBoyScout/data/ScoutSplash.pcx svn_mime_002dtype=application%2Foctet-stream
+packages/libgbafpc/examples/audio/PlayBoyScout/data/tune.bgf svn_mime_002dtype=application%2Foctet-stream
 packages/libgbafpc/examples/devkitPro/audio/PlayBoyScout/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/examples/devkitPro/audio/PlayBoyScout/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/examples/devkitPro/audio/PlayBoyScout/PlayBoyScout.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
@@ -3038,10 +3048,38 @@ packages/libgbafpc/examples/devkitPro/graphics/ansi_console/console.pp svn_mime_
 packages/libgbafpc/examples/devkitPro/template/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/examples/devkitPro/template/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/examples/devkitPro/template/template.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libgbafpc/examples/graphics svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libgbafpc/examples/graphics/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/graphics/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/graphics/PCXView svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libgbafpc/examples/graphics/PCXView/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/graphics/PCXView/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/graphics/PCXView/PcxView.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libgbafpc/examples/graphics/PCXView/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libgbafpc/examples/graphics/PCXView/data/ScoutSplash.pcx svn_mime_002dtype=application%2Foctet-stream
+packages/libgbafpc/examples/graphics/PCXView/data/splash.pcx svn_mime_002dtype=application%2Foctet-stream
+packages/libgbafpc/examples/graphics/SimpleBGScroll svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libgbafpc/examples/graphics/SimpleBGScroll/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/graphics/SimpleBGScroll/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/graphics/SimpleBGScroll/SimpleBGScroll.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libgbafpc/examples/graphics/SimpleBGScroll/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libgbafpc/examples/graphics/SimpleBGScroll/data/r6502_portfont.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libgbafpc/examples/graphics/SimpleBGScroll/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/graphics/ansi_console svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libgbafpc/examples/graphics/ansi_console/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/graphics/ansi_console/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/graphics/ansi_console/console.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libgbafpc/examples/template svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libgbafpc/examples/template/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/template/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/examples/template/template.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libgbafpc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/src/gba.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/src/gba/BoyScout.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/src/gba/core_asm.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/disc.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/disc_io.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/dldi.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libgbafpc/src/gba/fade.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/src/gba/gba.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/src/gba/gba_affine.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3049,6 +3087,7 @@ packages/libgbafpc/src/gba/gba_base.inc svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/libgbafpc/src/gba/gba_compression.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/src/gba/gba_console.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/src/gba/gba_dma.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/gba_helper.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libgbafpc/src/gba/gba_input.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/src/gba/gba_interrupt.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/src/gba/gba_multiboot.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3074,132 +3113,489 @@ packages/libgd/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgd/src/gd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/2D/16bit_color_bmp/data/drunkenlogo.git svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/2D/16bit_color_bmp/data/drunkenlogo.png svn_mime_002dtype=image%2Fpng
-packages/libndsfpc/examples/devkitPro/Graphics/2D/16bit_color_bmp/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/2D/256_color_bmp/data/drunkenlogo.git svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/2D/256_color_bmp/data/drunkenlogo.png svn_mime_002dtype=image%2Fpng
-packages/libndsfpc/examples/devkitPro/Graphics/2D/256_color_bmp/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/2D/BG_Rotation/drunkenlogo.bin.o svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/2D/BG_Rotation/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/2D/BG_Rotation/palette.bin.o svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/2D/Complex_2D/data/ball.pcx svn_mime_002dtype=image%2Fpcx
-packages/libndsfpc/examples/devkitPro/Graphics/2D/Complex_2D/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/2D/Double_Buffer/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/2D/Sprite_Bitmap/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/2D/ansi_console/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/2D/custom_font/data/font.bmp svn_mime_002dtype=image%2Fbmp
-packages/libndsfpc/examples/devkitPro/Graphics/2D/custom_font/data/font.git svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/2D/custom_font/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/2D/hello_world/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/2D/rotscale_text/data/font.bmp svn_mime_002dtype=image%2Fbmp
-packages/libndsfpc/examples/devkitPro/Graphics/2D/rotscale_text/data/font.git svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/2D/rotscale_text/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/BoxTest/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Display_List/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Display_List_2/data/teapot.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Display_List_2/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Env_Mapping/data/cafe.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Env_Mapping/data/teapot.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Env_Mapping/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Ortho/data/drunkenlogo.pcx svn_mime_002dtype=image%2Fpcx
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Ortho/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture1_RGB16_pal.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture1_RGB16_tex.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture2_RGB16_pal.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture2_RGB16_tex.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture3_RGB16_pal.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture3_RGB16_tex.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture4_RGB16_pal.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture4_RGB16_tex.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture5_RGB16_pal.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture5_RGB16_tex.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture6_RGB4_pal.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture6_RGB4_tex.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture7_RGB4_pal.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture7_RGB4_tex.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture8_RGB32_A3_pal.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture8_RGB32_A3_tex.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture9_RGB32_A3_pal.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/data/texture9_RGB32_A3_tex.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Paletted_Cube/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Picking/data/cone.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Picking/data/cylinder.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Picking/data/sphere.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Picking/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Simple_Quad/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Simple_Tri/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Textured_Cube/data/texture.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Textured_Cube/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Textured_Quad/data/texture.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Textured_Quad/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Toon_Shading/data/statue.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/Misc/Toon_Shading/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson01/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson02/main1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson03/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson04/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson05/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson06/drunkenlogo.pcx.o svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson06/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson07/drunkenlogo.pcx.o svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson07/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson08/drunkenlogo.pcx.o svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson08/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson09/Star.pcx.o svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson09/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson11/drunkenlogo.pcx.o svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/Graphics/3D/nehe/lesson11/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/debugging/exceptionTest/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/input/TouchTest/balldata.bin.o svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/input/TouchTest/ballpalette.bin.o svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/input/TouchTest/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/sound/SimpleSound/blaster.raw.o svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/sound/SimpleSound/ion.raw.o svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/devkitPro/sound/SimpleSound/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/devkitPro/sound/SimpleSound/saberoff.raw.o svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/dswifi/main7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/dswifi/main9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/libfat/main.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/libfat/test1.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/libmikmod/data/module.bin.o svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/libmikmod/main7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/libmikmod/main9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/RealTimeClock svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/RealTimeClock/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/RealTimeClock/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/RealTimeClock/Watch svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/RealTimeClock/Watch/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/RealTimeClock/Watch/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/RealTimeClock/Watch/watch.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/audio/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/audio/maxmod/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/audio_modes svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/audio/maxmod/audio_modes/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/audio_modes/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/audio_modes/audio svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/audio/maxmod/audio_modes/audio/keyg-subtonal.xm svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/audio/maxmod/audio_modes/audio/purple_motion-inspiration.s3m svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/audio/maxmod/audio_modes/audio/rez-monday.mod svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/audio/maxmod/audio_modes/audio_modes.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/basic_sound svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/audio/maxmod/basic_sound/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/basic_sound/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/basic_sound/audio svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/audio/maxmod/basic_sound/audio/Ambulance.wav svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/audio/maxmod/basic_sound/audio/Boom.wav svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/audio/maxmod/basic_sound/audio/FlatOutLies.mod svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/audio/maxmod/basic_sound/basic_sound.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/reverb svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/audio/maxmod/reverb/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/reverb/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/reverb/audio svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/audio/maxmod/reverb/audio/tempest-zen_bowling.mod svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/audio/maxmod/reverb/reverb.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/song_events_example svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/audio/maxmod/song_events_example/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/song_events_example/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/song_events_example/gfx svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/audio/maxmod/song_events_example/gfx/ball.grit svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/song_events_example/gfx/ball.png svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/audio/maxmod/song_events_example/music svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/audio/maxmod/song_events_example/music/example.it svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/audio/maxmod/song_events_example/song_events_example.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/song_events_example2 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/audio/maxmod/song_events_example2/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/song_events_example2/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/song_events_example2/audio svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/audio/maxmod/song_events_example2/audio/example2.it svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/audio/maxmod/song_events_example2/song_events_example2.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/micrecord svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/audio/micrecord/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/micrecord/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/micrecord/micrecord.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/card svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/card/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/card/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/card/eeprom svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/card/eeprom/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/card/eeprom/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/card/eeprom/eeprom.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/debugging svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/debugging/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/debugging/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/debugging/exceptionTest svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/debugging/exceptionTest/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/debugging/exceptionTest/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/debugging/exceptionTest/exceptionTest.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/ds_motion svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/ds_motion/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/ds_motion/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/ds_motion/dsMotion.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/dswifi/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/dswifi/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/dswifi/ap_search svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/dswifi/ap_search/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/dswifi/ap_search/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/dswifi/ap_search/apSearch.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/dswifi/autoconnect svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/dswifi/autoconnect/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/dswifi/autoconnect/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/dswifi/autoconnect/autoconnect.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/dswifi/httpget svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/dswifi/httpget/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/dswifi/httpget/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/dswifi/httpget/httpget.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/filesystem/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/embedded_gbfs svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/filesystem/embedded_gbfs/GBFS svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/filesystem/embedded_gbfs/GBFS/Mud.pcx svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/filesystem/embedded_gbfs/GBFS/World.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/embedded_gbfs/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/embedded_gbfs/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/embedded_gbfs/embedded_gbfs.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/libfat svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/filesystem/libfat/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/libfat/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/libfat/access_dir svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/filesystem/libfat/access_dir/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/libfat/access_dir/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/libfat/access_dir/access_dir.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/libfat/access_file svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/filesystem/libfat/access_file/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/libfat/access_file/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/libfat/access_file/access_file.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/libfat/access_file/test1.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/libfat/libfatdir svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/filesystem/libfat/libfatdir/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/libfat/libfatdir/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/libfat/libfatdir/libfatdir.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/3D_Both_Screens svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/3D_Both_Screens/3DBothScreens.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/3D_Both_Screens/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/3D_Both_Screens/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/BoxTest svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/BoxTest/BoxTest.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/BoxTest/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/BoxTest/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Display_List svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Display_List/DisplayList.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Display_List/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Display_List/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Display_List_2 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Display_List_2/DisplayList2.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Display_List_2/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Display_List_2/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Display_List_2/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Display_List_2/data/teapot.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Env_Mapping svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Env_Mapping/EnvMapping.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Env_Mapping/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Env_Mapping/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Env_Mapping/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Env_Mapping/data/cafe.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Env_Mapping/data/teapot.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Mixed_Text_3D svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Mixed_Text_3D/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Mixed_Text_3D/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Mixed_Text_3D/MixedText3D.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Ortho svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Ortho/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Ortho/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Ortho/Ortho.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Ortho/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Ortho/data/drunkenlogo.pcx svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/PalettedCube.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture1_RGB16_pal.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture1_RGB16_tex.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture2_RGB16_pal.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture2_RGB16_tex.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture3_RGB16_pal.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture3_RGB16_tex.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture4_RGB16_pal.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture4_RGB16_tex.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture5_RGB16_pal.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture5_RGB16_tex.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture6_RGB4_pal.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture6_RGB4_tex.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture7_RGB4_pal.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture7_RGB4_tex.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture8_RGB32_A3_pal.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture8_RGB32_A3_tex.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture9_RGB32_A3_pal.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture9_RGB32_A3_tex.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Picking svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Picking/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Picking/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Picking/Picking.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Picking/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Picking/data/cone.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Picking/data/cylinder.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Picking/data/sphere.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Simple_Quad svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Simple_Quad/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Simple_Quad/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Simple_Quad/SimpleQuad.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Simple_Tri svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Simple_Tri/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Simple_Tri/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Simple_Tri/SimpleTri.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Textured_Cube svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Textured_Cube/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Textured_Cube/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Textured_Cube/TexturedCube.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Textured_Cube/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Textured_Cube/data/texture.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Textured_Quad svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Textured_Quad/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Textured_Quad/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Textured_Quad/TexturedQuad.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Textured_Quad/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Textured_Quad/data/texture.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Toon_Shading svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Toon_Shading/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Toon_Shading/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Toon_Shading/ToonShading.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/Toon_Shading/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/Toon_Shading/data/statue.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/nehe svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson01 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/lesson01/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson01/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson01/lesson01.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson02 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/lesson02/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson02/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson02/lesson02.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson03 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/lesson03/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson03/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson03/lesson03.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson04 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/lesson04/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson04/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson04/lesson04.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson05 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/lesson05/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson05/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson05/lesson05.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson06 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/lesson06/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson06/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson06/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/lesson06/data/drunkenlogo.pcx svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/nehe/lesson06/lesson06.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson07 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/lesson07/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson07/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson07/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/lesson07/data/drunkenlogo.pcx svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/nehe/lesson07/lesson07.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson08 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/lesson08/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson08/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson08/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/lesson08/data/drunkenlogo.pcx svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/nehe/lesson08/lesson08.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson09 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/lesson09/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson09/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson09/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/lesson09/data/Star.pcx svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/nehe/lesson09/lesson09.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson10 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/lesson10/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson10/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson10/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/lesson10/data/Mud.pcx svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/nehe/lesson10/data/World.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson10/lesson10.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson10b svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/lesson10b/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson10b/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson10b/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/lesson10b/data/Mud.pcx svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/nehe/lesson10b/data/World.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson10b/lesson10b.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson11 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/lesson11/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson11/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson11/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/3D/nehe/lesson11/data/drunkenlogo.pcx svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/nehe/lesson11/lesson11.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Backgrounds/16bit_color_bmp svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Backgrounds/16bit_color_bmp/16bitColorBmp.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/16bit_color_bmp/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/16bit_color_bmp/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/16bit_color_bmp/gfx svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Backgrounds/16bit_color_bmp/gfx/drunkenlogo.grit svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/16bit_color_bmp/gfx/drunkenlogo.png svn_mime_002dtype=image%2Fpng
+packages/libndsfpc/examples/graphics/Backgrounds/256_color_bmp svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Backgrounds/256_color_bmp/256ColorBmp.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/256_color_bmp/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/256_color_bmp/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/256_color_bmp/gfx svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Backgrounds/256_color_bmp/gfx/drunkenlogo.grit svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/256_color_bmp/gfx/drunkenlogo.png svn_mime_002dtype=image%2Fpng
+packages/libndsfpc/examples/graphics/Backgrounds/Double_Buffer svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Backgrounds/Double_Buffer/DoubleBuffer.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/Double_Buffer/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/Double_Buffer/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/all_in_one svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Backgrounds/all_in_one/Advanced.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/all_in_one/BackgroundAllInOne.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/all_in_one/Basic.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/all_in_one/Handmade.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/all_in_one/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/all_in_one/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/all_in_one/Multilayer.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/all_in_one/RotBackgrounds.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/all_in_one/Scrolling.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/all_in_one/TextBackgrounds.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/all_in_one/asm svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Backgrounds/all_in_one/asm/Multilayer.s svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/all_in_one/asm/RotBackgrounds.s svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/all_in_one/asm/TextBackgrounds.s svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/all_in_one/gfx svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Backgrounds/all_in_one/gfx/layers.pew svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/Backgrounds/all_in_one/gfx/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/all_in_one/gfx/tiles.png svn_mime_002dtype=image%2Fpng
+packages/libndsfpc/examples/graphics/Backgrounds/rotation svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Backgrounds/rotation/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/rotation/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/rotation/Rotation.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Backgrounds/rotation/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Backgrounds/rotation/data/drunkenlogo.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/Backgrounds/rotation/data/palette.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Printing svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Printing/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Printing/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Printing/ansi_console svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Printing/ansi_console/AnsiConsole.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Printing/ansi_console/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Printing/ansi_console/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Printing/console_windows svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Printing/console_windows/ConsoleWindows.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Printing/console_windows/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Printing/console_windows/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Printing/custom_font svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Printing/custom_font/CustomFont.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Printing/custom_font/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Printing/custom_font/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Printing/custom_font/gfx svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Printing/custom_font/gfx/font.bmp svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/Printing/custom_font/gfx/font.grit svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Printing/print_both_screens svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Printing/print_both_screens/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Printing/print_both_screens/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Printing/print_both_screens/printBothScreens.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Printing/rotscale_text svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Printing/rotscale_text/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Printing/rotscale_text/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Printing/rotscale_text/RotscaleText.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Printing/rotscale_text/gfx svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Printing/rotscale_text/gfx/font.bmp svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/Printing/rotscale_text/gfx/font.grit svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Sprites/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/allocation_test svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Sprites/allocation_test/AllocationTest.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/allocation_test/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/allocation_test/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/animate_simple svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Sprites/animate_simple/AnimateSimple.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/animate_simple/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/animate_simple/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/animate_simple/sprites svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Sprites/animate_simple/sprites/man.png svn_mime_002dtype=image%2Fpng
+packages/libndsfpc/examples/graphics/Sprites/animate_simple/sprites/sprite.grit svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/animate_simple/sprites/woman.png svn_mime_002dtype=image%2Fpng
+packages/libndsfpc/examples/graphics/Sprites/bitmap_sprites svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Sprites/bitmap_sprites/BitmapSprites.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/bitmap_sprites/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/bitmap_sprites/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/fire_and_sprites svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Sprites/fire_and_sprites/FireAndSprites.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/fire_and_sprites/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/fire_and_sprites/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/fire_and_sprites/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Sprites/fire_and_sprites/data/ball.pcx svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/Sprites/simple svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Sprites/simple/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/simple/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/simple/Simple.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/sprite_extended_palettes svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Sprites/sprite_extended_palettes/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/sprite_extended_palettes/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/sprite_extended_palettes/SpriteExtendedPalettes.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/sprite_rotate svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Sprites/sprite_rotate/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/sprite_rotate/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Sprites/sprite_rotate/SpriteRotate.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/hello_world svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/hello_world/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/hello_world/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/hello_world/helloWorld.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/input svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/input/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/Touch_Pad svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/input/Touch_Pad/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/Touch_Pad/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/Touch_Pad/touch_area svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/input/Touch_Pad/touch_area/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/Touch_Pad/touch_area/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/Touch_Pad/touch_area/touchArea.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/Touch_Pad/touch_look svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/input/Touch_Pad/touch_look/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/Touch_Pad/touch_look/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/Touch_Pad/touch_look/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/input/Touch_Pad/touch_look/data/Mud.pcx svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/input/Touch_Pad/touch_look/data/World.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/Touch_Pad/touch_look/touchLook.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/Touch_Pad/touch_test svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/input/Touch_Pad/touch_test/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/Touch_Pad/touch_test/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/Touch_Pad/touch_test/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/input/Touch_Pad/touch_test/data/balldata.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/input/Touch_Pad/touch_test/data/ballpalette.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/input/Touch_Pad/touch_test/touchTest.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/keyboard svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/input/keyboard/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/keyboard/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/keyboard/keyboard_async svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/input/keyboard/keyboard_async/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/keyboard/keyboard_async/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/keyboard/keyboard_async/keyboardAsync.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/keyboard/keyboard_stdin svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/input/keyboard/keyboard_stdin/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/keyboard/keyboard_stdin/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/input/keyboard/keyboard_stdin/keyboardStdin.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/src/dswifi/dswifi7.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/dswifi/dswifi7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/src/dswifi/dswifi9.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/dswifi/dswifi9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/src/dswifi/dswifi_version.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/src/dswifi/netdb.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/src/dswifi/netinet/in.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/src/dswifi/sgIP_errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/src/dswifi/sys/socket.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/src/dswifi/inc svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/src/dswifi/inc/dswifi7.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/dswifi/inc/dswifi9.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/dswifi/inc/dswifi_version.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/dswifi/inc/netdb.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/dswifi/inc/netinet svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/src/dswifi/inc/netinet/in.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/dswifi/inc/sgIP_errno.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/dswifi/inc/sys svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/src/dswifi/inc/sys/socket.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/fat/fat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/fat/fat.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/src/fat/fathelper.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/fat/filesystem.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/fat/filesystem.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/fat/gbfs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/fat/gbfs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/src/libmikmod/inc/mikmod.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/src/libmikmod/mikmod7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/src/libmikmod/mikmod9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/src/maxmod svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/src/maxmod/inc svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/src/maxmod/inc/maxmod.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/maxmod/inc/maxmod7.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/maxmod/inc/maxmod9.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/maxmod/inc/mm_mas.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/maxmod/inc/mm_msl.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/maxmod/inc/mm_types.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/maxmod/maxmod7.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/maxmod/maxmod9.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm7/audio.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm7/clock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/arm7/input.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm7/serial.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm7/touch.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/background.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/boxtest.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/cache.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/console.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/arm9/decompress.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/arm9/dldi.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/exceptions.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/image.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/input.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/arm9/keyboard.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/ndsmotion.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/pcx.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/postest.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/rumble.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/arm9/sassert.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/sound.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/sprite.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/trig_lut.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3207,18 +3603,25 @@ packages/libndsfpc/src/nds/arm9/video.inc svn_mime_002dtype=text%2Fplain svn_eol
 packages/libndsfpc/src/nds/arm9/videoGL.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/bios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/card.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/debug.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/disc_io.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/dma.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/dynamicArray.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/fifocommon.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/fifomessages.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/helper.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/interrupts.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/ipc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/jtypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/linkedlist.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/memory.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/nds.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/ndsinclude.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/ndstypes.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/registers_alt.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/src/nds/reload.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/system.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/timers.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/touch.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libpng/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4658,6 +5061,8 @@ packages/winunits-base/src/richedit.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/winunits-base/src/shellapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/shfolder.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/shlobj.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/tmschema.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/uxtheme.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/wininet.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/winver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/tests/OOHelper.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5220,6 +5625,7 @@ rtl/gba/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/gba/systhrd.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 rtl/gba/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5615,6 +6021,7 @@ rtl/nds/prt07.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/prt09.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/sysheap.inc svnc_mime_002dtype=text%2Fx-pascal svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 rtl/nds/system.pp svn_mimetype=text%2Fx-pascal svn_eol_002dstyle=native
+rtl/nds/systhrd.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 rtl/netbsd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8046,6 +8453,7 @@ tests/webtbf/tw1316.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw1328.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw13563a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw1365.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbf/tw13815.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw1395.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw1407.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw1432.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8592,9 +9000,13 @@ tests/webtbs/tw13628b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw13639.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1364.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1365.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw13696.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw13696.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1374.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1375.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1376.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw13763.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw13820.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1398.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1401.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1407.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
