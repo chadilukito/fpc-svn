@@ -1,4 +1,4 @@
-/ svnc_svnmerge_002dintegrated=%2Ftrunk%3A1-13217 svnc_fisheye_002eaccess=allow svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+/ svnc_svnmerge_002dintegrated=%2Ftrunk%3A1-13348 svnc_fisheye_002eaccess=allow svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 /Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /compiler svnc_svnmerge_002dintegrated
@@ -5053,9 +5053,12 @@ packages/winunits-base/src/comconst.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/winunits-base/src/commctrl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/commdlg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/comobj.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/dwmapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/flatsb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/htmlhelp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/imagehlp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/mmsystem.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/multimon.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/ole2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/oleserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/richedit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5545,6 +5548,7 @@ rtl/darwin/x86_64/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 rtl/embedded/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/arm svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+rtl/embedded/arm/at91sam7x256.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/arm/lpc21x4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/check.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6014,15 +6018,27 @@ rtl/morphos/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/videodata.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/cprt07.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/cprt09.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/nds.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/ndsbios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/ndsbiosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/ndsh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/prt07.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/prt09.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/sysheap.inc svnc_mime_002dtype=text%2Fx-pascal svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-rtl/nds/system.pp svn_mimetype=text%2Fx-pascal svn_eol_002dstyle=native
+rtl/nds/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/systhrd.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+rtl/nds/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6858,12 +6874,14 @@ tests/tbf/tb0211a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/tb0212.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/tb0213.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/tb0214.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/tbf/tb0214a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/tb0215.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/tb0215a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/tb0215b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/tb0215c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/tb0215d.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/tb0215e.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/tbf/tb0216.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/ub0115.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/ub0149.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/ub0158a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6979,7 +6997,6 @@ tests/tbs/tb0110.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb0111.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb0112.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb0113.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/tbs/tb0114.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb0115.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb0116.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb0117.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7883,6 +7900,8 @@ tests/test/opt/twpo2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/twpo3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/twpo4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/twpo5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/opt/twpo6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/opt/twpo7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/uwpo2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-base/tascii85.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-base/tgettext1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8103,6 +8122,7 @@ tests/test/tparray22.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray23.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray24.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray25.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tparray26.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8456,6 +8476,8 @@ tests/webtbf/tw13563a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw1365.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw13815.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw1395.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbf/tw13956.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbf/tw13992.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw1407.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw1432.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw1467.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8815,6 +8837,7 @@ tests/webtbs/tw1068.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw10681.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw10684.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1071.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw10717.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw10727.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1073.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw10736.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9007,9 +9030,19 @@ tests/webtbs/tw1374.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1375.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1376.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw13763.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw13813.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw13820.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw13872.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw13890.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw13948.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1398.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw13984.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw13992a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1401.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw14019.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw14020.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw14020a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw14040.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1407.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1408.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1409.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
