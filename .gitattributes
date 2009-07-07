@@ -2502,6 +2502,7 @@ packages/gtk2/src/pango/pango-types.inc svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/gtk2/src/pango/pango.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/pango/pangoincludes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/pango/pangoutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/pangocairo/pangocairo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
