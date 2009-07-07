@@ -2491,6 +2491,7 @@ packages/gtk2/src/pango/pango-engine.inc svn_mime_002dtype=text%2Fplain svn_eol_
 packages/gtk2/src/pango/pango-font.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/pango/pango-fontmap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/pango/pango-fontset.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gtk2/src/pango/pango-glyph-item.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/pango/pango-glyph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/pango/pango-item.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gtk2/src/pango/pango-layout.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
