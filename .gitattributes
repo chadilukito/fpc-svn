@@ -984,6 +984,10 @@ packages/dts/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/dts/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/dts/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/dts/src/dts.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fastcgi/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fastcgi/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fastcgi/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fastcgi/src/fastcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-async/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-async/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-async/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1598,7 +1602,6 @@ packages/fcl-web/src/custcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/fcl-web/src/custfcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/custweb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/ezcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-web/src/fastcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/fpapache.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/fpcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/fpdatasetform.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
