@@ -1685,10 +1685,13 @@ packages/fpmkunit/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/fpmkunit/examples/ppu2fpmake.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpmkunit/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpmkunit/src/fpmkunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpvectorial/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpvectorial/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpvectorial/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpvectorial/src/avisocncgcodereader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpvectorial/src/avisocncgcodewriter.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpvectorial/src/avisozlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpvectorial/src/fpvectbuildunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpvectorial/src/fpvectorial.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpvectorial/src/fpvtocanvas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpvectorial/src/pdfvectorialreader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
