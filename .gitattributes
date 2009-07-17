@@ -6208,6 +6208,8 @@ rtl/objpas/sysutils/sysstr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 rtl/objpas/sysutils/sysstrh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/systhrdh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/sysuintf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/objpas/sysutils/sysuni.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/objpas/sysutils/sysunih.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/sysuthrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/sysutilh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/sysutils.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
