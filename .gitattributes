@@ -908,7 +908,10 @@ packages/bzip2/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/bzip2/examples/pasbzip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/bzip2/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/bzip2/src/bzip2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/bzip2/src/bzip2comn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/bzip2/src/bzip2i386.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/bzip2/src/bzip2si386.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/bzip2/src/bzip2stream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cairo/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cairo/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cairo/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
