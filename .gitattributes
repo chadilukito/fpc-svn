@@ -90,6 +90,7 @@ compiler/avr/cpupi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/cputarg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/navradd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/navrcnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/navrmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/raavr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/raavrgas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
