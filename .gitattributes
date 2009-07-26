@@ -4005,7 +4005,6 @@ packages/numlib/tests/timer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/numlib/tests/turte.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/objcrtl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/objcrtl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/objcrtl/Package.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/objcrtl/examples/objcrtltest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/objcrtl/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/objcrtl/src/objcrtl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
