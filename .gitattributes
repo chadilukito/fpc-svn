@@ -8324,6 +8324,7 @@ tests/test/units/fpcunit/testclasses.lpr svn_mime_002dtype=text%2Fplain svn_eol_
 tests/test/units/fpcunit/testcomps.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/fpcunit/tstrutils.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/fpcunit/tstrutils.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/math/tdivmod.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/math/tmask.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/math/tmask.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/math/tmask2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
