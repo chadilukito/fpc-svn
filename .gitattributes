@@ -4703,14 +4703,18 @@ packages/univint/src/CFData.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/univint/src/CFDate.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFDateFormatter.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFDictionary.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CFError.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFFTPStream.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CFHTTPAuthentication.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFHTTPMessage.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFHTTPStream.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFHost.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFLocale.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFMachPort.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFMessagePort.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CFNetDiagnostics.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFNetServices.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CFNetworkErrorss.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFNotificationCenter.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFNumber.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFNumberFormatter.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4817,6 +4821,7 @@ packages/univint/src/Drag.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/univint/src/DrawSprocket.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/DriverFamilyMatching.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/DriverGestalt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/DriverServices.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/DriverSynchronization.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/Endian.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/Events.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4947,6 +4952,7 @@ packages/univint/src/TextCommon.pas svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/univint/src/TextEdit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/TextEncodingConverter.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/TextEncodingPlugin.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/TextInputSources.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/TextServices.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/TextUtils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/Threads.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
