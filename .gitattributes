@@ -4722,6 +4722,7 @@ packages/univint/src/CFPlugIn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/univint/src/CFPlugInCOM.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFPreferences.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFPropertyList.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CFProxySupport.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFRunLoop.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFSet.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFSocket.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
