@@ -10276,13 +10276,6 @@ utils/sim_pasc/token.c svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/sim_pasc/token.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/sim_pasc/tokenarray.c svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/sim_pasc/tokenarray.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-utils/simulator/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-utils/simulator/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-utils/simulator/alphasim.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-utils/simulator/fastmm64.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-utils/simulator/mm64.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-utils/simulator/simbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-utils/simulator/simlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/svn2cl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/svn2cvs/svn2cvs.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/svn2cvs/svn2cvs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
