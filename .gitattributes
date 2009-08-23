@@ -3050,26 +3050,6 @@ packages/libgbafpc/examples/audio/PlayBoyScout/PlayBoyScout.pp svn_mime_002dtype
 packages/libgbafpc/examples/audio/PlayBoyScout/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/libgbafpc/examples/audio/PlayBoyScout/data/ScoutSplash.pcx svn_mime_002dtype=application%2Foctet-stream
 packages/libgbafpc/examples/audio/PlayBoyScout/data/tune.bgf svn_mime_002dtype=application%2Foctet-stream
-packages/libgbafpc/examples/devkitPro/audio/PlayBoyScout/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libgbafpc/examples/devkitPro/audio/PlayBoyScout/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libgbafpc/examples/devkitPro/audio/PlayBoyScout/PlayBoyScout.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
-packages/libgbafpc/examples/devkitPro/audio/PlayBoyScout/data/ScoutSplash.pcx svn_mime_002dtype=image%2Fpcx
-packages/libgbafpc/examples/devkitPro/audio/PlayBoyScout/data/tune.bgf svn_mime_002dtype=application%2Foctet-stream
-packages/libgbafpc/examples/devkitPro/graphics/PCXView/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libgbafpc/examples/devkitPro/graphics/PCXView/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libgbafpc/examples/devkitPro/graphics/PCXView/data/ScoutSplash.pcx svn_mime_002dtype=image%2Fpcx
-packages/libgbafpc/examples/devkitPro/graphics/PCXView/data/splash.pcx svn_mime_002dtype=image%2Fpcx
-packages/libgbafpc/examples/devkitPro/graphics/PCXView/pcx_view.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
-packages/libgbafpc/examples/devkitPro/graphics/SimpleBGScroll/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libgbafpc/examples/devkitPro/graphics/SimpleBGScroll/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libgbafpc/examples/devkitPro/graphics/SimpleBGScroll/SimpleBGScroll.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
-packages/libgbafpc/examples/devkitPro/graphics/SimpleBGScroll/data/r6502_portfont.bin svn_mime_002dtype=application%2Foctet-stream
-packages/libgbafpc/examples/devkitPro/graphics/ansi_console/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libgbafpc/examples/devkitPro/graphics/ansi_console/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libgbafpc/examples/devkitPro/graphics/ansi_console/console.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
-packages/libgbafpc/examples/devkitPro/template/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libgbafpc/examples/devkitPro/template/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libgbafpc/examples/devkitPro/template/template.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libgbafpc/examples/graphics svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/libgbafpc/examples/graphics/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/examples/graphics/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6062,6 +6042,8 @@ rtl/nds/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/cprt07.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/cprt09.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/libc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/libch.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/nds.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/ndsbios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/ndsbiosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
