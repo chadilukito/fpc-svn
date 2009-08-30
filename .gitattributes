@@ -1,4 +1,4 @@
-/ svnc_svnmerge_002dintegrated=%2Ftrunk%3A1-13596 svnc_fisheye_002eaccess=allow svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+/ svnc_svnmerge_002dintegrated=%2Ftrunk%3A1-13620 svnc_fisheye_002eaccess=allow svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 /Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /compiler svnc_svnmerge_002dintegrated
@@ -8561,6 +8561,12 @@ tests/webtbf/tw1365.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw13815.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw1395.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw13956.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbf/tw13971a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbf/tw13971b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbf/tw13971c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbf/tw13971d.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbf/tw13971e.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbf/tw13971f.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw13992.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw1407.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw14104a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9159,6 +9165,7 @@ tests/webtbs/tw14307.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1433.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw14363.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw14403.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw14418.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1445.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1450.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1451.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
