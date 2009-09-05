@@ -5078,6 +5078,8 @@ packages/winunits-base/src/wininet.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/winunits-base/src/winver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/tests/OOHelper.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/tests/OOTest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/tests/hhex.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/winunits-base/tests/hhex2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/winunits-base/tests/testcom1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/tests/testcom2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/tests/testver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
