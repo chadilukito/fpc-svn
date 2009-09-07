@@ -1773,6 +1773,24 @@ packages/ggi/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ggi/src/ggi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ggi/src/ggi2d.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ggi/src/gii.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gmp/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gmp/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gmp/examples svnc_Makefile=Makefile.fpc
+packages/gmp/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gmp/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gmp/examples/gmp_accept_test.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gmp/examples/gmp_test_impl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gmp/examples/gmp_test_intf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gmp/examples/gmp_testcase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gmp/examples/pidigits_example.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gmp/examples/pidigits_example2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gmp/examples/printf_example.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gmp/examples/printf_example2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gmp/examples/scanf_example.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gmp/examples/scanf_example2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gmp/readme svnc_Makefile=Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gmp/src svnc_Makefile=Makefile.fpc
+packages/gmp/src/gmp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gnome1/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gnome1/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gnome1/examples/gconfcallback1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
