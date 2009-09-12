@@ -1,4 +1,4 @@
-/ svnc_svnmerge_002dintegrated=%2Ftrunk%3A1-13688 svnc_fisheye_002eaccess=allow svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+/ svnc_svnmerge_002dintegrated=%2Ftrunk%3A1-13697 svnc_fisheye_002eaccess=allow svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 /Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /compiler svnc_svnmerge_002dintegrated
