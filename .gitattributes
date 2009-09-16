@@ -2553,6 +2553,7 @@ packages/hash/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/src/crc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/src/md5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/src/ntlm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/hash/src/sha1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/src/unixcrypt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/src/uuid.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hermes/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7984,6 +7985,7 @@ tests/test/packages/fcl-db/tdb6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 tests/test/packages/fcl-db/toolsunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-registry/tregistry1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-xml/thtmlwriter.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/packages/hash/sha1test.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/hash/tmdtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/webtbs/tw10045.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/webtbs/tw11142.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
