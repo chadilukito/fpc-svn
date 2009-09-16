@@ -2549,6 +2549,7 @@ packages/hash/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/hash/examples/crctest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/examples/md5.ref svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/examples/mdtest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/hash/examples/sha1test.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/src/crc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hash/src/md5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
