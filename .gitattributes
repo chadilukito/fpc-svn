@@ -8271,6 +8271,7 @@ tests/test/opt/twpo5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/twpo6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/twpo7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/uwpo2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/packages/cocoaint/tobjcnh1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-base/tascii85.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-base/tgettext1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-db/assertions.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
