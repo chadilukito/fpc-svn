@@ -966,7 +966,9 @@ packages/chm/src/paslzxcomp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/cocoaint/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/CocoaAll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/src/Foundation.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/InlineFunctions.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/src/IvarSize.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/NSDelegatesAll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/UndefinedClasses.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/UndefinedTypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1257,7 +1259,10 @@ packages/cocoaint/src/foundation/NSXMLNode.inc svn_mime_002dtype=text%2Fplain sv
 packages/cocoaint/src/foundation/NSXMLNodeOptions.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/foundation/NSXMLParser.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/foundation/NSZone.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/cocoaint/utils/Instructions.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/src/iPhoneAll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/src/uikit/UIKit.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/utils/Make[!!-~]Cocoa[!!-~]Headers.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/utils/Make[!!-~]iPhone[!!-~]Headers.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/objp_parser.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/parser.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/pascocoa_parser.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
