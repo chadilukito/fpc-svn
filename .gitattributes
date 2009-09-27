@@ -8864,6 +8864,7 @@ tests/test/units/sysutils/tfloattostr.pp svn_mime_002dtype=text%2Fplain svn_eol_
 tests/test/units/sysutils/tlocale.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/tsscanf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/tstrtobool.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/uobjc7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uobjcl1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uprec6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uprec7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
