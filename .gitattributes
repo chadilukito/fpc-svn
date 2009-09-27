@@ -6110,8 +6110,10 @@ rtl/inc/mmatimp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/mouse.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/mouseh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/mvecimp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/inc/objc1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/objc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/objc1.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/objcbase.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/objcnf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/objects.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/objpas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/objpash.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
