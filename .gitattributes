@@ -5097,6 +5097,7 @@ packages/winunits-base/src/shlobj.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/winunits-base/src/tmschema.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/uxtheme.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/wininet.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/winutils.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/winunits-base/src/winver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/tests/OOHelper.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/tests/OOTest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
