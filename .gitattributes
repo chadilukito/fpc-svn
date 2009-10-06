@@ -10330,11 +10330,12 @@ utils/h2pas/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/converu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/h2pas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-utils/h2pas/h2pas.y svnc_mime_002dtype=text%2Fplain svnc_eol_002dstyle=native
+utils/h2pas/h2pas.y svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/h2paspp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/h2plexlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/h2poptions.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/h2pyacclib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/h2pas/scan.l svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/scan.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/mksymbian/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/postw32.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
