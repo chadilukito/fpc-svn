@@ -267,7 +267,7 @@ compiler/msg/errorpli.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 compiler/msg/errorptd.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msg/errorptw.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msg/errorr.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/msg/errorrw.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/msg/errorru.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msg/errorues.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msgidx.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msgtxt.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
