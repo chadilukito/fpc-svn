@@ -5083,6 +5083,7 @@ packages/winunits-base/src/comconst.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/winunits-base/src/commctrl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/commdlg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/comobj.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/comserv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/dwmapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/flatsb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/htmlhelp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
