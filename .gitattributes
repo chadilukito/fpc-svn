@@ -5124,13 +5124,6 @@ packages/winunits-base/tests/hhex2.pp svn_mime_002dtype=text%2Fpascal svn_eol_00
 packages/winunits-base/tests/testcom1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/tests/testcom2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/tests/testver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/winunits-com svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
-packages/winunits-com/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/winunits-com/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/winunits-com/examples svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
-packages/winunits-com/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-packages/winunits-com/src svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
-packages/winunits-com/src/buildwinunitscom.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/winunits-jedi/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
