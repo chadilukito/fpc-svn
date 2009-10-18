@@ -8024,6 +8024,7 @@ tests/test/packages/win-base/tdispvar1.pp svn_mime_002dtype=text%2Fplain svn_eol
 tests/test/packages/zlib/tzlib1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/t4cc1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/t4cc2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tabstract1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tabstrcl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tabsvr1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tabsvr2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8334,6 +8335,10 @@ tests/test/trtti2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trtti3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trtti4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trtti5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tsealed1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tsealed2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tsealed3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tsealed4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tsel1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tsel2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tset1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
