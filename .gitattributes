@@ -1334,8 +1334,6 @@ packages/fcl-extra/src/win svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/fcl-extra/src/win/ServiceManager.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-extra/src/win/daemonapp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-extra/src/wince svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
-packages/fcl-extra/units svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
-packages/fcl-extra/units/i386-win32 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/fcl-fpcunit/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
