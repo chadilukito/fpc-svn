@@ -8143,6 +8143,8 @@ tests/test/texception7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/texception8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/texception9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tfillchr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tfinal1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tfinal2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tfpu1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tfpu2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tfpu3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
