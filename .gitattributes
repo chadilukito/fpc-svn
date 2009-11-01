@@ -5449,6 +5449,16 @@ packages/zlib/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/zlib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/zlib/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/zlib/src/zlib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/zorba/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/zorba/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/zorba/Package.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/zorba/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/zorba/src/zorba.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/zorba/src/zorba.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/zorba/src/zorba_error.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/zorba/src/zorba_options.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/zorba/src/zorba_static_context_consts.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/zorba/src/zorbadyn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/COPYING.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
