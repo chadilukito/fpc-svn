@@ -8130,6 +8130,7 @@ tests/test/tcmp0.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tendian1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tenum1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tenum2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tenumerators1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/testcmem.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/testda1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/testfpuc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8159,6 +8160,17 @@ tests/test/texception9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/tfillchr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tfinal1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tfinal2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tforin1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tforin10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tforin11.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tforin2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tforin3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tforin4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tforin5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tforin6.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tforin7.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tforin8.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tforin9.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tfpu1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tfpu2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tfpu3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
