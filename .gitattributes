@@ -1764,6 +1764,7 @@ packages/fv/src/views.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 packages/fv/src/w32smsg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbint/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbint/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gdbint/examples/mingw.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbint/examples/symify.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbint/examples/testgdb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbint/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
