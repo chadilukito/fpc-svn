@@ -8164,6 +8164,12 @@ tests/test/tfinal2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tforin1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tforin10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tforin11.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tforin12.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tforin13.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tforin14.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tforin15.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tforin16.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tforin17.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tforin2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tforin3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tforin4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
