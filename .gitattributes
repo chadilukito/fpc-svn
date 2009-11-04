@@ -8175,6 +8175,7 @@ tests/test/tforin19.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tforin2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tforin20.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tforin21.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tforin22.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tforin3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tforin4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tforin5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
