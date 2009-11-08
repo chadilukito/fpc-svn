@@ -2204,6 +2204,11 @@ packages/fpvectorial/src/pdfvectorialreader.pas svn_mime_002dtype=text%2Fplain s
 packages/fpvectorial/src/pdfvrlexico.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpvectorial/src/pdfvrsemantico.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpvectorial/src/pdfvrsintatico.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fuse/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fuse/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fuse/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fuse/src/fuse.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fuse/tests/fusetest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fv/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fv/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fv/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
