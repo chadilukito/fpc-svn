@@ -2256,6 +2256,7 @@ packages/gdbint/examples/mingw.pas svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/gdbint/examples/symify.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbint/examples/testgdb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbint/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gdbint/gen-gdblib-inc.sh svn_mime_002dtype=text%2Fplain svn_eol_002dtype=native svn_eol_002dstyle=native
 packages/gdbint/src/freadlin.pp svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 packages/gdbint/src/gdbcon.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbint/src/gdbint.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
