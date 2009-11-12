@@ -7032,7 +7032,7 @@ rtl/solaris/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/errnostr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/i386/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/i386/sighndh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/solaris/i386/start.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=native
+rtl/solaris/i386/start.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/osmacro.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/ostypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
