@@ -126,6 +126,7 @@ compiler/cp850.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cp866.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cp8859_1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cp8859_5.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/crefs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cresstr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cstreams.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6206,6 +6207,8 @@ rtl/embedded/arm/at91sam7x256.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 rtl/embedded/arm/lpc21x4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/arm/stm32f103.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/check.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/empty.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/rtl.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7066,7 +7069,7 @@ rtl/sparc/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/symbian/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/symbian/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/symbian/buildrtl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/symbian/symbian.pas svn_mime_002dtype=text%2Fplain
+rtl/symbian/symbian.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/symbian/symbianinc/e32def.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/symbian/symbianinc/e32err.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/symbian/symbianinc/e32std.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7076,8 +7079,8 @@ rtl/symbian/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/symbian/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/symbian/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/symbian/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/symbian/uiq.pas svn_mime_002dtype=text%2Fplain
-rtl/symbian/uiqclasses.pas svn_mime_002dtype=text%2Fplain
+rtl/symbian/uiq.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/symbian/uiqclasses.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/symbian/uiqinc/qikapplication.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/symbian/uiqinc/qikapplicationoo.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/8859-1.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -11056,6 +11059,15 @@ utils/h2pas/h2pyacclib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 utils/h2pas/scan.l svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/scan.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/mksymbian/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/mksymbian/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/mksymbian/cfgfile.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/mksymbian/cmdline.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/mksymbian/compiler.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/mksymbian/constants.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/mksymbian/mksymbian.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/mksymbian/mksymbian.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/mksymbian/projectparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/mksymbian/sdkutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/postw32.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/ppdep.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/ptop.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
