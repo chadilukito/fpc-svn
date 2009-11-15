@@ -8184,23 +8184,28 @@ tests/test/cg/obj/beos/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/beos/i386/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/beos/i386/tcext4.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/beos/i386/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/cpptcl1.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/obj/ctest.c svnc_eol_002dstyle=native svn_eol_002dstyle=native
 tests/test/cg/obj/darwin/arm/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/arm/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/arm/tcext4.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/arm/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/darwin/i386/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/i386/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/i386/tcext4.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/i386/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/darwin/powerpc/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/powerpc/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/powerpc/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/powerpc/tcext4.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/powerpc/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/darwin/powerpc64/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/powerpc64/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/powerpc64/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/powerpc64/tcext4.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/powerpc64/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/darwin/x86_64/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/x86_64/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/x86_64/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/darwin/x86_64/tcext4.o svn_mime_002dtype=application%2Foctet-stream
@@ -8231,6 +8236,7 @@ tests/test/cg/obj/linux/arm/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/arm/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/arm/tcext4.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/arm/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/i386/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/i386/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/i386/tcext4.o svn_mime_002dtype=application%2Foctet-stream
@@ -8363,6 +8369,7 @@ tests/test/cg/tcnvset.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcnvstr1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcnvstr2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcnvstr3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cg/tcppcl1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tderef.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tdivz1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tdivz2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
