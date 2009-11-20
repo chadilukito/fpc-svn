@@ -233,15 +233,21 @@ compiler/m68k/ra68k.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/ra68kmot.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/mips/cgcpu.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+compiler/mips/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/mips/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/mips/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/mips/cgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/mips/cpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/mips/cpupara.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-compiler/mips/cpupi.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+compiler/mips/cpunode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/mips/cpupara.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/mips/cpupi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/mipsreg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
+compiler/mips/ncpuadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/opcode.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/mips/rgcpu.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+compiler/mips/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/rmipscon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/rmipsdwf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/rmipsgas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
