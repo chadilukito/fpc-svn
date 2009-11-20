@@ -243,9 +243,15 @@ compiler/mips/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 compiler/mips/cpunode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/cpupara.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/cpupi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/mips/cputarg.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/mips/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/mipsreg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
 compiler/mips/ncpuadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/mips/ncpucall.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+compiler/mips/ncpucnv.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+compiler/mips/ncpuinln.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+compiler/mips/ncpumat.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+compiler/mips/ncpuset.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/mips/opcode.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/rmipscon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -262,6 +268,7 @@ compiler/mips/rmipssri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/mips/rmipssta.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/rmipsstd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/rmipssup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/mips/strinst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msg/errorct.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msg/errord.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msg/errorda.msg svn_mime_002dtype=text%2Fplain svn_keywords=Rev+Date svn_eol_002dstyle=native
