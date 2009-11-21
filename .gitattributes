@@ -5529,6 +5529,9 @@ packages/univint/src/Processes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/univint/src/QDCMCommon.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/QDOffscreen.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/QDPictToCGContext.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/QLBase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/QLGenerator.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/QLThumbnailImage.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/QTML.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/QTSMovie.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/QTStreamingComponents.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
