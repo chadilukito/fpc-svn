@@ -7072,6 +7072,9 @@ rtl/solaris/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 rtl/solaris/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/solaris/x86_64/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/solaris/x86_64/sighndh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/solaris/x86_64/start.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
