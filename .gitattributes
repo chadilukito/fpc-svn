@@ -8930,6 +8930,10 @@ tests/test/tobjc29.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc29a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc29b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tobjc30.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tobjc30a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tobjc30b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tobjc30c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc4a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9267,6 +9271,7 @@ tests/test/uobjc24.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uobjc26.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uobjc27a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uobjc27b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/uobjc30c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uobjc7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uobjcl1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uprec6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
