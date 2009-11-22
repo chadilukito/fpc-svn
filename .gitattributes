@@ -6658,6 +6658,14 @@ rtl/macos/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mips/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mips/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mips/mipsel.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mips/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mips/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mips/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mips/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mips/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/aboxlib.pas svn_mime_002dtype=text%2Fplain
