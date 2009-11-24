@@ -6556,6 +6556,13 @@ rtl/linux/m68k/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/m68k/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/m68k/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/m68k/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/mips/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/mips/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/mips/sighndh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/mips/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/mips/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/mips/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/mips/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/oldlinux.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/osmacro.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
