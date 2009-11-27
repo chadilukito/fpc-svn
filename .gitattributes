@@ -6557,6 +6557,7 @@ rtl/linux/m68k/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 rtl/linux/m68k/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/m68k/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mips/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/mips/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mips/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mips/sighndh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mips/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6667,6 +6668,7 @@ rtl/macos/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mips/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/mipsel.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
