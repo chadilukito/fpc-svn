@@ -8423,7 +8423,6 @@ tests/test/cg/tfor.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tformfnc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tfuncret.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tin.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/test/cg/tincdec.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tincexc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tinitdon.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tis.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8455,6 +8454,7 @@ tests/test/cg/treadwrt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/cg/tshlshr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tstr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tsubst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cg/ttincdec.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/ttryexc1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/ttryfin1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/ttryfin2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8992,8 +8992,6 @@ tests/test/tover1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tover2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tover3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tpackrec.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/test/tpara1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/test/tpara2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray11.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9115,6 +9113,8 @@ tests/test/tstrreal2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstrreal3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tsubdecl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tsymlibrary1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/ttpara1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/ttpara2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunaligned1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunistr1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunistr2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
