@@ -6304,6 +6304,8 @@ rtl/gba/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/gbabios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/gbabiosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/gba/libc.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+rtl/gba/libch.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 rtl/gba/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
