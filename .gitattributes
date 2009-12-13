@@ -9916,6 +9916,7 @@ tests/webtbs/tw12137.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw12151.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw12186.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw12202.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw12207.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw12214.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1222.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw12224.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
