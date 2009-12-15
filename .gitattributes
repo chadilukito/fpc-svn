@@ -284,8 +284,8 @@ compiler/msg/errorid.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msg/errorn.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msg/errorpl.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msg/errorpli.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/msg/errorptd.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/msg/errorptw.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/msg/errorpt.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/msg/errorptu.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msg/errorr.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msg/errorru.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msg/errorues.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
