@@ -8675,6 +8675,8 @@ tests/test/opt/tcmov.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tcse1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tcse2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tcse3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/opt/tdfa1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/opt/tdfa2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/opt/tgotoreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/treg1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/treg2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
