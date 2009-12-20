@@ -1311,6 +1311,7 @@ packages/cocoaint/src/foundation/NSZone.inc svn_mime_002dtype=text%2Fplain svn_e
 packages/cocoaint/src/iPhoneAll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/patches/NSBundle.patch svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/uikit/UIKit.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/src/uikit/UndefinedClasses.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/webkit/DOMAbstractView.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/webkit/DOMAttr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/webkit/DOMCDATASection.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1463,6 +1464,10 @@ packages/cocoaint/utils/Make[!!-~]Cocoa[!!-~]Headers.txt svn_mime_002dtype=text%
 packages/cocoaint/utils/Make[!!-~]iPhone[!!-~]Headers.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/Using[!!-~]Installer[!!-~]Script.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/install_objp.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/utils/iphone/iPhone[!!-~]Parser.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/utils/iphone/objp_parser.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/utils/iphone/parser.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/utils/iphone/pascocoa_parser.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/objp_parser.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/parser.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/pascocoa_parser.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
