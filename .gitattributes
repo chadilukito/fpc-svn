@@ -5691,6 +5691,7 @@ packages/winceunits/src/pm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/winceunits/src/power.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/projects.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/rapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winceunits/src/rapitypes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/ras.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/raserror.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/ril.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
