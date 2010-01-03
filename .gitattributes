@@ -4577,6 +4577,15 @@ packages/openal/src/alch.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 packages/openal/src/alexth.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/openal/src/alh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/openal/src/openal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opencl svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/opencl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opencl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opencl/examples svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/opencl/examples/basicsample.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/opencl/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/opencl/src svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/opencl/src/cl.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/opencl/src/cl_gl.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/opengl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengl/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
