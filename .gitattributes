@@ -1616,6 +1616,7 @@ packages/fcl-web/src/fphttp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/fcl-web/src/fptemplate.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/fpweb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/httpdefs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/src/webpage.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/websession.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/webutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
