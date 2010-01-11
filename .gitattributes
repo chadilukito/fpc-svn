@@ -8831,6 +8831,8 @@ tests/test/tcg1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcint64.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tclass1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tclass10.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tclass11a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tclass11b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclass2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tclass3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tclass4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
