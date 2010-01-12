@@ -233,6 +233,8 @@ compiler/m68k/r68ksup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 compiler/m68k/ra68k.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/ra68kmot.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/macho.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/machoutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -329,6 +331,7 @@ compiler/ogbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ogcoff.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ogelf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/oglx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ogmacho.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ogmap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/optbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/optcse.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
