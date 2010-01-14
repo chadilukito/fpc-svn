@@ -8840,6 +8840,7 @@ tests/test/tclass12a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclass12b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclass12c.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclass13.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tclass14a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclass2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tclass3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tclass4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
