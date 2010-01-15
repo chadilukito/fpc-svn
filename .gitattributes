@@ -8210,6 +8210,7 @@ tests/test/tobject1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobject2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobject3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobject4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tobject5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/toperator1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/toperator2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/toperator3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
