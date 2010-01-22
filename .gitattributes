@@ -9246,6 +9246,7 @@ tests/test/ugeneric14.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ugeneric3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ugeneric4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ugeneric7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/uhintdir.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uimpluni1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uimpluni2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uinline4a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
