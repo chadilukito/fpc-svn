@@ -8857,6 +8857,7 @@ tests/test/tcmp0.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tdel1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tdispinterface1a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tdispinterface1b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tdispinterface2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tendian1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tenum1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tenum2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
