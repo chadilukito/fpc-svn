@@ -9310,6 +9310,7 @@ tests/test/units/sharemem/test1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 tests/test/units/softfpu/sfttst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/strings/tstrcopy.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/strings/tstrings1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/strutils/posextest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/interlocked1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/tabs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/talign.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
