@@ -325,6 +325,7 @@ compiler/nopt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/nset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/nstate.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/nutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/objcdef.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/objcgutl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/objcutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ogbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9049,6 +9050,9 @@ tests/test/tobjc30a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc30b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc30c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc31.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tobjc32.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tobjc32a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tobjc32b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc4a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
