@@ -4197,6 +4197,16 @@ packages/librsvg/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 packages/librsvg/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/librsvg/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/librsvg/src/rsvg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libsee/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libsee/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libsee/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libsee/examples/mod_stream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libsee/examples/teststream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libsee/examples/testwrite.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libsee/examples/tlibsee.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libsee/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libsee/src/libsee.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libsee/src/libseewrap.c svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
