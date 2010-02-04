@@ -4215,6 +4215,8 @@ packages/librsvg/src/rsvg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/libsee/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libsee/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libsee/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libsee/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libsee/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libsee/examples/mod_stream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libsee/examples/teststream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libsee/examples/testwrite.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
