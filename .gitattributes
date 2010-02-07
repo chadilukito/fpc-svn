@@ -4616,6 +4616,7 @@ packages/opencl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opencl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opencl/examples svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/opencl/examples/basicsample.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/opencl/examples/clinfo.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/opencl/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/opencl/src svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/opencl/src/cl.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
