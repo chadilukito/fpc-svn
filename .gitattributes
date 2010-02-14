@@ -8428,6 +8428,7 @@ tests/test/cg/taddr1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/taddr2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/taddreal1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/taddreal2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cg/taddreal3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/taddset.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/taddset2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/taddset3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
