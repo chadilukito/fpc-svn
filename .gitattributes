@@ -9246,6 +9246,10 @@ tests/test/tsymlibrary1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nat
 tests/test/ttpara1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ttpara2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ttypedarray1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/ttypedrecord1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/ttypedrecord2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/ttypedrecord3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/ttypedrecord4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunaligned1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunistr1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunistr2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
