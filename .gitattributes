@@ -4574,6 +4574,13 @@ packages/numlib/tests/test.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/numlib/tests/test.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/numlib/tests/timer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/numlib/tests/turte.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/nvapi svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/nvapi/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/nvapi/examples svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/nvapi/examples/nvapitest.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/nvapi/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/nvapi/src svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/nvapi/src/nvapi.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/objcrtl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/objcrtl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/objcrtl/examples/objcrtltest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
