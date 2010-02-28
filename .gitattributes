@@ -4575,6 +4575,7 @@ packages/numlib/tests/test.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/numlib/tests/timer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/numlib/tests/turte.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/nvapi svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/nvapi/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/nvapi/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/nvapi/examples svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/nvapi/examples/nvapitest.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
