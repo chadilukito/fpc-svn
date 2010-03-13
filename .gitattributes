@@ -11255,6 +11255,8 @@ utils/fpdoc/intl/makeskel.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 utils/fpdoc/makeskel.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/makeskel.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/sh_pas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/testunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/testunit.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/unitdiff.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpmc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpmc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
