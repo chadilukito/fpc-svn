@@ -4916,6 +4916,7 @@ packages/paszlib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/paszlib/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/examples/example.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/paszlib/examples/extractodt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/examples/minigzip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/examples/miniunz.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/examples/minizip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
