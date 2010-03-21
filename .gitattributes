@@ -1530,6 +1530,7 @@ packages/fcl-base/examples/b64test2.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-base/examples/base64decodingtestcase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/cachetest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/cfgtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/examples/crittest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/daemon.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/daemon.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/dbugsrv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
