@@ -8910,6 +8910,9 @@ tests/test/tdispinterface2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 tests/test/tendian1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tenum1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tenum2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tenum3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tenum4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tenum5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tenumerators1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/testcmem.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/testda1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
