@@ -9230,6 +9230,8 @@ tests/test/tsealed1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tsealed2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tsealed3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tsealed4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tsealed5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tsealed6.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tsel1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tsel2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tset1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
