@@ -1616,6 +1616,7 @@ packages/fcl-base/src/custapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/fcl-base/src/dummy/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/eventlog.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/fpexprpars.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/src/fptemplate.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/fptimer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/gettext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/go32v2/custapp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2161,7 +2162,6 @@ packages/fcl-web/src/fpdatasetform.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/fcl-web/src/fpfcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/fphtml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/fphttp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-web/src/fptemplate.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/fpweb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/httpdefs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/webpage.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
