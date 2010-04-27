@@ -11238,6 +11238,8 @@ utils/fpcm/printmakefilefpcrequirements.sh svn_mime_002dtype=text%2Fplain svn_eo
 utils/fpcm/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcmkcfg/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcmkcfg/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcmkcfg/default.cft svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcmkcfg/default.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcmkcfg/fpc.cft svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcmkcfg/fpccfg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcmkcfg/fpcfg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -11245,6 +11247,8 @@ utils/fpcmkcfg/fpcmkcfg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 utils/fpcmkcfg/fpinc.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcmkcfg/fpinc.ini svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcmkcfg/fpini.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcmkcfg/fppkg.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcmkcfg/fppkg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcres/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcres/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcres/closablefilestream.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
