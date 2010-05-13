@@ -1953,7 +1953,7 @@ packages/fcl-image/src/xwdfile.pp svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/fcl-js/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/README.TXT svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-js/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-js/fpmake_disabled.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/src/jsbase.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/src/jsparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/src/jsscanner.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2250,7 +2250,7 @@ packages/fpvectorial/src/pdfvrsemantico.pas svn_mime_002dtype=text%2Fplain svn_e
 packages/fpvectorial/src/pdfvrsintatico.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fuse/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fuse/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fuse/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fuse/fpmake_disabled.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fuse/src/fuse.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fuse/tests/fusetest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fv/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3111,7 +3111,7 @@ packages/hash/src/unixcrypt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/hash/src/uuid.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hermes/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hermes/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/hermes/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/hermes/fpmake_disabled.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hermes/src/clear.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hermes/src/convert.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/hermes/src/d_32.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
