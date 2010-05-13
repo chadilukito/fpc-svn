@@ -11359,7 +11359,7 @@ utils/fppkg/fppkg.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fppkg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fprepos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fpxmlrep.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-utils/fppkg/lnet/fastcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fppkg/lnet/fastcgi_base.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/lnet/lcommon.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/lnet/lcontainers.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/lnet/lcontainersh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -11380,6 +11380,7 @@ utils/fppkg/lnet/lstrbuffer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 utils/fppkg/lnet/ltelnet.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/lnet/ltimer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/lnet/lwebserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fppkg/lnet/lws2tcpip.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 utils/fppkg/lnet/sys/lepolleventer.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/lnet/sys/lepolleventerh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/lnet/sys/lkqueueeventer.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
