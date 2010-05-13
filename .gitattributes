@@ -4998,7 +4998,7 @@ packages/ptc/examples/timer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/ptc/examples/tunnel.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/examples/tunnel3d.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/examples/tunnel3d.raw svnc_mime_002dtype=binary svn_mime_002dtype=raw%2Fbinary
-packages/ptc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/fpmake_disabled.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/aread.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 packages/ptc/src/areai.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 packages/ptc/src/baseconsoled.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
@@ -5168,7 +5168,7 @@ packages/sndfile/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 packages/sndfile/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sndfile/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sndfile/examples/sfplay.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/sndfile/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/sndfile/fpmake_disabled.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sndfile/scripts/testc.c svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sndfile/src/sndfile.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sqlite/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
