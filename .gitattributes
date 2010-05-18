@@ -4186,6 +4186,7 @@ packages/libndsfpc/src/nds/dynamicArray.inc svn_mime_002dtype=text%2Fplain svn_k
 packages/libndsfpc/src/nds/fifocommon.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/fifomessages.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/helper.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/input.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/interrupts.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/ipc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/jtypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
