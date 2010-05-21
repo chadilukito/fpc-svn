@@ -8403,6 +8403,7 @@ tests/test/cg/obj/linux/sparc/ctest.o svn_mime_002dtype=application%2Foctet-stre
 tests/test/cg/obj/linux/sparc/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/sparc/tcext4.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/sparc/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/x86_64/cpptcl2.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/x86_64/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/x86_64/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/x86_64/tcext4.o svn_mime_002dtype=application%2Foctet-stream
