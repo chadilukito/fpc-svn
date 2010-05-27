@@ -2162,6 +2162,8 @@ packages/fcl-web/src/httpdefs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/fcl-web/src/webpage.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/websession.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/webutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/tests/cgigateway.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/tests/cgigateway.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/tests/testcgiapp.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/tests/testcgiapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
