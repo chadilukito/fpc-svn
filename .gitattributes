@@ -2214,6 +2214,8 @@ packages/fcl-web/examples/webdata/demos.txt svn_mime_002dtype=text%2Fplain svn_e
 packages/fcl-web/examples/webdata/users.dbf svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-web/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/fptemplate.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/src/base/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/src/base/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/cgiapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/custcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
