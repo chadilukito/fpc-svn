@@ -8545,7 +8545,6 @@ tests/test/cg/tcalcst7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/cg/tcalcst8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalcst9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/test/cg/tcalext2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalext3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalext4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalext5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
