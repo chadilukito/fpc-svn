@@ -2137,6 +2137,15 @@ packages/fcl-res/xml/versiontypes.xml svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/fcl-res/xml/winpeimagereader.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/jsonrpc/demo1/demo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/jsonrpc/demo1/demo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/jsonrpc/demo1/echo.in svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/jsonrpc/demo1/echobatch.in svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/jsonrpc/demo1/extdirect.in svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/jsonrpc/demo1/notification.in svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/jsonrpc/demo1/wmdemo.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/jsonrpc/demo1/wmdemo.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/jsonrpc/demo1/wmdemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo/createusers.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo/createusers.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo/extgrid-json.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
