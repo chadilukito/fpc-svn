@@ -984,6 +984,7 @@ packages/chm/src/lzxcompressthread.pas svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/chm/src/paslznonslide.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/chm/src/paslzx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/chm/src/paslzxcomp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/chm/src/unblockchm.pp svn_mime_002dtype=test%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/CocoaAll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
