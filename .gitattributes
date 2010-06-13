@@ -9210,7 +9210,6 @@ tests/test/tobjc13b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc14.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc15.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc16.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/test/tobjc16a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc17.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc18.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc19.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
