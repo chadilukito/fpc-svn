@@ -8904,6 +8904,8 @@ tests/test/opt/twpo5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/twpo6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/twpo7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/uwpo2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/packages/cocoaint/tobjc33.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/packages/cocoaint/tobjc33a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/cocoaint/tobjcnh1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/cocoaint/tvarpara.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/cocoaint/tw16329.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9238,8 +9240,6 @@ tests/test/tobjc31.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc32.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc32a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc32b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/test/tobjc33.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/test/tobjc33a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc4a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
