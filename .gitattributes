@@ -980,6 +980,9 @@ packages/chm/src/chmwriter.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/chm/src/fasthtmlparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/chm/src/htmlindexer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/chm/src/htmlutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/chm/src/itolitlsreader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/chm/src/itolitlstypes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/chm/src/itsftransform.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/chm/src/lzxcompressthread.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/chm/src/paslznonslide.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/chm/src/paslzx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
