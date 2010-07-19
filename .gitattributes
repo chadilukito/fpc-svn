@@ -4718,6 +4718,7 @@ packages/openal/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/openal/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/openal/examples/captureplaybackopenal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/openal/examples/madopenal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/openal/examples/wavopenal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/openal/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/openal/src/alch.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/openal/src/alexth.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
