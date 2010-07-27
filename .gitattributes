@@ -9022,6 +9022,7 @@ tests/test/tcint64.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tclass1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tclass10.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclass10a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tclass10b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclass11a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclass11b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclass12a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
