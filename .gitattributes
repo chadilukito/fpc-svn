@@ -6607,6 +6607,7 @@ rtl/inc/heaptrc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/innr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/int64.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/intres.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/iso7185.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/inc/keyboard.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/keybrdh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/keyscan.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
