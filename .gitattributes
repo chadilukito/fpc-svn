@@ -9179,6 +9179,8 @@ tests/test/tinterface4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/tinterface5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinterface6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinterrupt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tintfcdecl1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tintfcdecl2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tintfdef.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tintuint.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tisogoto1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
