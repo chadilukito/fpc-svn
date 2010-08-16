@@ -2346,11 +2346,11 @@ packages/fpmkunit/src/fpmkunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/fpvectorial/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpvectorial/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpvectorial/examples svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
-packages/fpvectorial/examples/cdr2svg_mainform.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fpvectorial/examples/cdr2svg_mainform.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fpvectorial/examples/cdr2svg_visual.ico svn_mime_002dtype=application%2Foctet-stream
-packages/fpvectorial/examples/cdr2svg_visual.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fpvectorial/examples/cdr2svg_visual.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpvectorial/examples/fpvc_mainform.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpvectorial/examples/fpvc_mainform.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpvectorial/examples/fpvectorialconverter.ico svn_mime_002dtype=application%2Foctet-stream
+packages/fpvectorial/examples/fpvectorialconverter.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpvectorial/examples/fpvectorialconverter.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpvectorial/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpvectorial/src/avisocncgcodereader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpvectorial/src/avisocncgcodewriter.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
