@@ -4471,6 +4471,9 @@ packages/mysql/src/mysql4impl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/mysql/src/mysql4types.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/src/mysql50.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/src/mysql50dyn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/mysql/src/mysql51.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/mysql/src/mysql51dyn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/mysql/src/mysql51emb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
