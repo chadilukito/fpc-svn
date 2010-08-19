@@ -11541,7 +11541,7 @@ utils/fpdoc/dglobals.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/dw_dxml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/dw_html.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/dw_htmlchm.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-utils/fpdoc/dw_ipf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/dw_ipflin.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/dw_latex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/dw_linrtf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/dw_lintmpl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
