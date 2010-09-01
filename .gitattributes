@@ -2368,6 +2368,7 @@ packages/fpvectorial/examples/fpvc_mainform.pas svn_mime_002dtype=text%2Fplain s
 packages/fpvectorial/examples/fpvectorialconverter.ico svn_mime_002dtype=application%2Foctet-stream
 packages/fpvectorial/examples/fpvectorialconverter.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpvectorial/examples/fpvectorialconverter.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpvectorial/examples/fpvwritetest.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpvectorial/examples/fpvwritetest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpvectorial/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpvectorial/src/avisocncgcodereader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
