@@ -9491,6 +9491,7 @@ tests/test/tstring9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstrreal1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstrreal2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstrreal3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tstrreal4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tsubdecl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tsymlibrary1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/ttpara1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
