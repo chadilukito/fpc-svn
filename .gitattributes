@@ -5470,6 +5470,7 @@ packages/univint/src/CFSocketStream.pas svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/univint/src/CFStream.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFString.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFStringEncodingExt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CFStringTokenizer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFTimeZone.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFTree.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFURL.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
