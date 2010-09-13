@@ -1989,6 +1989,7 @@ packages/fcl-json/examples/parsedemo.pp svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/fcl-json/examples/simpledemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/examples/simpledemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-json/src/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/src/fpjson.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/src/jsonconf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/src/jsonparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
