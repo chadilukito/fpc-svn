@@ -5767,6 +5767,7 @@ packages/univint/src/ScalerStreamTypes.pas svn_mime_002dtype=text%2Fplain svn_eo
 packages/univint/src/Scrap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/Script.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/SecBase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/SecTrust.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/Sound.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/SpeechRecognition.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/SpeechSynthesis.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5800,6 +5801,12 @@ packages/univint/src/WSMethodInvocation.pas svn_mime_002dtype=text%2Fplain svn_e
 packages/univint/src/WSProtocolHandler.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/WSTypes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/cblas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/certextensions.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/cssmapple.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/cssmconfig.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/cssmerr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/cssmkrapi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/cssmtype.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/fenv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/fp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/gliContexts.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5810,6 +5817,7 @@ packages/univint/src/macglext.pas svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/univint/src/macglu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/vBLAS.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/vDSP.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/x509defs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/xattr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unixutil/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unixutil/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
