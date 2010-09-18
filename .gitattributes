@@ -2605,6 +2605,7 @@ packages/graph/src/unix/graph16.inc svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/graph/src/win32/graph.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/graph/src/win32/wincrt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/graph/src/win32/winmouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/graph/tests/drawtest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/graph/tests/polytest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/graph/tests/polytest.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/graph/tests/polytst2.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
