@@ -5650,6 +5650,8 @@ packages/univint/src/IBCarbonRuntime.pas svn_mime_002dtype=text%2Fplain svn_eol_
 packages/univint/src/ICAApplication.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/ICACamera.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/ICADevice.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/IOKitReturn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/IOSurfaceAPI.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/IconStorage.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/Icons.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/IconsCore.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5813,9 +5815,11 @@ packages/univint/src/fp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/univint/src/gliContexts.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/gliDispatch.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/gluContext.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/kern_return.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/macgl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/macglext.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/macglu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/mach_error.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/vBLAS.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/vDSP.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/x509defs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
