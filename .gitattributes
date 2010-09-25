@@ -5984,6 +5984,7 @@ packages/winceunits/src/ws2bth.pp svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/winunits-base/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/Nb30.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/activex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/buildwinutilsbase.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/comconst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
