@@ -2276,8 +2276,8 @@ packages/fcl-web/src/webdata/extjsjson.pp svn_mime_002dtype=text%2Fplain svn_eol
 packages/fcl-web/src/webdata/extjsxml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/webdata/fpextjs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/webdata/fpwebdata.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/src/webdata/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/webdata/sqldbwebdata.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-web/src/webdata/webdata.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/tests/cgigateway.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/tests/cgigateway.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/tests/testcgiapp.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
