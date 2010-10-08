@@ -9533,6 +9533,9 @@ tests/test/trtti3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trtti4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trtti5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tsafecall1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tsafecall2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tsafecall3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tsafecall4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tsealed1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tsealed2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tsealed3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
