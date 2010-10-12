@@ -1986,6 +1986,7 @@ packages/fcl-json/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 packages/fcl-json/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/examples/confdemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/examples/confdemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-json/examples/demoformat.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/examples/parsedemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/examples/parsedemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/examples/simpledemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
