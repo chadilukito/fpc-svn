@@ -5303,8 +5303,6 @@ packages/ptc/src/x11/x11dga1displayd.inc svn_mime_002dtype=text%2Fplain svn_eol_
 packages/ptc/src/x11/x11dga1displayi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/x11/x11dga2displayd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/x11/x11dga2displayi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/ptc/src/x11/x11dgadisplayd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/ptc/src/x11/x11dgadisplayi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/x11/x11displayd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/x11/x11displayi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/x11/x11imaged.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
