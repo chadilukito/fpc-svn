@@ -9664,9 +9664,9 @@ tests/test/units/dos/tversion.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 tests/test/units/fpcunit/fplists.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/fpcunit/gencomptest.dpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/fpcunit/lists.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/test/units/fpcunit/resref.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/fpcunit/resref2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/fpcunit/searchbuf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/test/units/fpcunit/sllist.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/fpcunit/sllist2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/fpcunit/tbucketlist.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/fpcunit/tbucketlist.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/fpcunit/tcbucketlist.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
