@@ -5972,6 +5972,7 @@ packages/winceunits/src/sipapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/winceunits/src/sms.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/storemgr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/tapi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winceunits/src/tlhelp32.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/winceunits/src/todaycmn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/tsp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/wap.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
