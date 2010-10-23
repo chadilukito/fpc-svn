@@ -5361,7 +5361,12 @@ packages/sdl/src/jedi-sdl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/sdl/src/libxmlparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sdl/src/logger.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sdl/src/powersdl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/sdl/src/powersdl_gfx.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sdl/src/powersdl_image.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/sdl/src/powersdl_mixer.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/sdl/src/powersdl_net.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/sdl/src/powersdl_smpeg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/sdl/src/powersdl_ttf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sdl/src/sdl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sdl/src/sdl_gfx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sdl/src/sdl_image.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
