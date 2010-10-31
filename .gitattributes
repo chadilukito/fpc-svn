@@ -4305,10 +4305,12 @@ packages/libndsfpc/src/nds/arm9/cache.inc svn_mime_002dtype=text%2Fplain svn_eol
 packages/libndsfpc/src/nds/arm9/console.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/decompress.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/dldi.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/arm9/dynamicArray.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/exceptions.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/image.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/input.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/keyboard.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/arm9/linkedlist.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/ndsmotion.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/pcx.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4325,7 +4327,6 @@ packages/libndsfpc/src/nds/card.inc svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/libndsfpc/src/nds/debug.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/disc_io.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/dma.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/src/nds/dynamicArray.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/fifocommon.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/fifomessages.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/helper.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4333,7 +4334,6 @@ packages/libndsfpc/src/nds/input.inc svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/libndsfpc/src/nds/interrupts.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/ipc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/jtypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/src/nds/linkedlist.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/memory.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/nds.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/ndsinclude.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
