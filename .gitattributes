@@ -7629,6 +7629,7 @@ rtl/wince/wininc/struct.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 rtl/wince/winres.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/winsock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/winsock2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/x86_64/cpu.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/x86_64/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9091,6 +9092,7 @@ tests/test/tassignmentoperator1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002ds
 tests/test/tbopr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tbrtlevt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tbsx1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcas128.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcase0.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcase1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcase10.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
