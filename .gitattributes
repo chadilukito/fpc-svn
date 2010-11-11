@@ -8611,10 +8611,13 @@ tests/test/cg/obj/freebsd/x86_64/ctest.o svn_mime_002dtype=application%2Foctet-s
 tests/test/cg/obj/freebsd/x86_64/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/freebsd/x86_64/tcext4.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/freebsd/x86_64/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/go32v2/i386/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/go32v2/i386/cpptcl2.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/go32v2/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/go32v2/i386/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/go32v2/i386/tcext4.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/go32v2/i386/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/go32v2/i386/tcext6.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/haiku svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 tests/test/cg/obj/haiku/i386 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 tests/test/cg/obj/haiku/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
