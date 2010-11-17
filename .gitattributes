@@ -10740,6 +10740,7 @@ tests/webtbs/tw17907/unit2/unit0002.pas svn_mime_002dtype=text%2Fplain svn_eol_0
 tests/webtbs/tw1792.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw17928.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1792a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw17945.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw17950.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw1798.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1820.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
