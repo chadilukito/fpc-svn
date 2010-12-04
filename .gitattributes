@@ -2010,6 +2010,7 @@ packages/fcl-net/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/fcl-net/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-net/examples/cnslookup.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/examples/ip6test.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/examples/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/examples/rpccli.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
