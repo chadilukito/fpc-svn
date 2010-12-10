@@ -1555,10 +1555,6 @@ packages/cocoaint/utils/cocoa-skel/src/webkit/UndefinedTypes.inc svn_mime_002dty
 packages/cocoaint/utils/cocoa-skel/src/webkit/WebKit.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/frameworks.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/install_objp.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/cocoaint/utils/iphone/iPhone[!!-~]Parser.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/cocoaint/utils/iphone/objp_parser.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/cocoaint/utils/iphone/parser.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/cocoaint/utils/iphone/pascocoa_parser.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/make-cocoa-headers.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/make-ios-headers.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/parser.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
