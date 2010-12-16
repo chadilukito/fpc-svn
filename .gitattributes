@@ -9136,6 +9136,7 @@ tests/test/cg/variants/tvarol94.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 tests/test/cg/variants/tvarol96.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/dumpclass.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/dumpmethods.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/lcpref.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tarmshift.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tcaseopt1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
