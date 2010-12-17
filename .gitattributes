@@ -9319,6 +9319,12 @@ tests/test/tenum3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tenum4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tenum5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tenumerators1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/terecs1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/terecs2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/terecs3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/terecs4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/terecs5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/terecs_u1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/testcmem.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/testda1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/testfpuc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
