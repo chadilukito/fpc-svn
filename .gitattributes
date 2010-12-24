@@ -9592,6 +9592,7 @@ tests/test/tobject5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tobject6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobject7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/toperator1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/toperator10.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/toperator2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/toperator3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/toperator4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
