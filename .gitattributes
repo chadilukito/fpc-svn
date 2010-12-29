@@ -9637,6 +9637,9 @@ tests/test/tparray7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tpftch1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tpointermath1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tpointermath2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tpointermath3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tpoll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
