@@ -1560,8 +1560,9 @@ packages/cocoaint/utils/make-ios-headers.sh svn_mime_002dtype=text%2Fplain svn_e
 packages/cocoaint/utils/parser.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/patches/cocoa-coredata-webkit.patch svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/patches/uikit.patch svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/cocoaint/utils/source/objp_parser.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/cocoaint/utils/source/pascocoa_parser.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/utils/source/objp.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/utils/source/objp_base.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/utils/source/utilities.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/uikit-skel/src/InlineFunctions.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/uikit-skel/src/UndefinedTypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/uikit-skel/src/foundation/Foundation.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
