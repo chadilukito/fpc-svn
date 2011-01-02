@@ -1325,8 +1325,6 @@ packages/cocoaint/src/foundation/NSXMLNodeOptions.inc svn_mime_002dtype=text%2Fp
 packages/cocoaint/src/foundation/NSXMLParser.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/foundation/NSZone.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/iPhoneAll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/cocoaint/src/patches/NSBundle.patch svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/cocoaint/src/patches/NSObjCRuntime.patch svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/quartzcore/AnonIncludeClassDefinitionsQuartzcore.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/quartzcore/CAAnimation.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/quartzcore/CABase.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1541,6 +1539,8 @@ packages/cocoaint/src/webkit/WebView.inc svn_mime_002dtype=text%2Fplain svn_eol_
 packages/cocoaint/utils/Make[!!-~]Cocoa[!!-~]Headers.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/Make[!!-~]iPhone[!!-~]Headers.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/Using[!!-~]Installer[!!-~]Script.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/utils/cocoa-skel/patches/NSBundle.patch svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/utils/cocoa-skel/patches/NSObjCRuntime.patch svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/cocoa-skel/src/CocoaAll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/cocoa-skel/src/CoreData.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/cocoa-skel/src/InlineFunctions.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9954,6 +9954,7 @@ tests/test/uobjc30c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uobjc35d.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uobjc35e.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uobjc35f.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/uobjc35g.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uobjc7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uobjcl1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uprec6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
