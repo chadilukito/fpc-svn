@@ -12036,6 +12036,7 @@ utils/ppdep.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/ptop.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/ptopu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/rmcvsdir.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/rmwait/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/rmwait/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/rmwait/rmwait.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/rstconv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
