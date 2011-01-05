@@ -2094,6 +2094,7 @@ packages/fcl-json/examples/simpledemo.pp svn_mime_002dtype=text%2Fplain svn_eol_
 packages/fcl-json/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/src/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/src/fpjson.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-json/src/fpjsonrtti.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/src/jsonconf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/src/jsonparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/src/jsonscanner.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2104,6 +2105,7 @@ packages/fcl-json/tests/testjsonconf.lpi svn_mime_002dtype=text%2Fplain svn_eol_
 packages/fcl-json/tests/testjsonconf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/tests/testjsondata.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/tests/testjsonparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-json/tests/testjsonrtti.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
