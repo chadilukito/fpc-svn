@@ -4529,6 +4529,7 @@ packages/libxml/src/xmlunicode.inc svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/libxml/src/xmlversion.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/xmlwriter.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/xmlxsd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libxml/src/xmlxsdparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/xpath.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/xpathInternals.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/xpointer.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
