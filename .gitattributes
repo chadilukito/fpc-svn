@@ -7507,6 +7507,7 @@ rtl/qnx/signal.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/qnx/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/solaris/clocale.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/errnostr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/i386/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
