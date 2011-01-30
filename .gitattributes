@@ -9341,6 +9341,7 @@ tests/test/tenum2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tenum3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tenum4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tenum5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tenum6.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tenumerators1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/terecs1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/terecs2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -10958,6 +10959,7 @@ tests/webtbs/tw18222.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw1825.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw18266.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw18334.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw18420.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw18443.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw1850.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1851.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
