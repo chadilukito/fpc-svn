@@ -3955,13 +3955,6 @@ packages/libndsfpc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/libndsfpc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/RealTimeClock svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
-packages/libndsfpc/examples/RealTimeClock/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/RealTimeClock/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/RealTimeClock/Watch svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
-packages/libndsfpc/examples/RealTimeClock/Watch/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/RealTimeClock/Watch/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/RealTimeClock/Watch/watch.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/examples/audio svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/libndsfpc/examples/audio/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/audio/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4217,6 +4210,7 @@ packages/libndsfpc/examples/graphics/3D/nehe/lesson10/Makefile.fpc svn_mime_002d
 packages/libndsfpc/examples/graphics/3D/nehe/lesson10/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/libndsfpc/examples/graphics/3D/nehe/lesson10/data/Mud.pcx svn_mime_002dtype=application%2Foctet-stream
 packages/libndsfpc/examples/graphics/3D/nehe/lesson10/data/World.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/3D/nehe/lesson10/data/drunkenlogo.pcx svn_mime_002dtype=application%2Foctet-stream
 packages/libndsfpc/examples/graphics/3D/nehe/lesson10/lesson10.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/examples/graphics/3D/nehe/lesson10b svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/libndsfpc/examples/graphics/3D/nehe/lesson10b/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4385,6 +4379,21 @@ packages/libndsfpc/examples/input/keyboard/keyboard_stdin svnc_bugtraq_003aurl s
 packages/libndsfpc/examples/input/keyboard/keyboard_stdin/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/input/keyboard/keyboard_stdin/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/input/keyboard/keyboard_stdin/keyboardStdin.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/time svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/time/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/time/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/time/RealTimeClock svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/time/RealTimeClock/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/time/RealTimeClock/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/time/RealTimeClock/realtimeclock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/time/stopwatch svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/time/stopwatch/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/time/stopwatch/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/time/stopwatch/stopwatch.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/time/timercallback svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/time/timercallback/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/time/timercallback/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/time/timercallback/timercallback.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/dswifi/dswifi7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/dswifi/dswifi9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4417,7 +4426,9 @@ packages/libndsfpc/src/maxmod/maxmod7.pp svn_mime_002dtype=text%2Fplain svn_keyw
 packages/libndsfpc/src/maxmod/maxmod9.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm7/audio.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm7/clock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/arm7/i2c.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm7/input.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/arm7/sdmmc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm7/serial.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm7/touch.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/background.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4428,13 +4439,16 @@ packages/libndsfpc/src/nds/arm9/decompress.inc svn_mime_002dtype=text%2Fplain sv
 packages/libndsfpc/src/nds/arm9/dldi.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/dynamicArray.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/exceptions.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/arm9/guitarGrip.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/image.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/input.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/keyboard.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/linkedlist.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/ndsmotion.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/arm9/paddle.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/pcx.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/arm9/piano.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/postest.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/rumble.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/sassert.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
