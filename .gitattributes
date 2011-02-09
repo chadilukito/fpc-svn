@@ -1541,8 +1541,6 @@ packages/cocoaint/src/webkit/WebView.inc svn_mime_002dtype=text%2Fplain svn_eol_
 packages/cocoaint/utils/Make[!!-~]Cocoa[!!-~]Headers.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/Make[!!-~]iPhone[!!-~]Headers.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/Using[!!-~]Installer[!!-~]Script.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/cocoaint/utils/cocoa-skel/patches/NSBundle.patch svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/cocoaint/utils/cocoa-skel/patches/NSObjCRuntime.patch svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/cocoa-skel/src/CocoaAll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/cocoa-skel/src/CoreData.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/cocoa-skel/src/InlineFunctions.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1552,6 +1550,8 @@ packages/cocoaint/utils/cocoa-skel/src/appkit/AppKit.inc svn_mime_002dtype=text%
 packages/cocoaint/utils/cocoa-skel/src/appkit/CIColor.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/cocoa-skel/src/coredata/CoreData.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/cocoa-skel/src/foundation/Foundation.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/utils/cocoa-skel/src/patches/NSBundle.patch svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/utils/cocoa-skel/src/patches/NSObjCRuntime.patch svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/cocoa-skel/src/quartzcore/QuartzCore.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/cocoa-skel/src/webkit/UndefinedTypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/cocoa-skel/src/webkit/WebKit.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
