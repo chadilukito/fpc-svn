@@ -1570,6 +1570,7 @@ packages/cocoaint/utils/uikit-skel/src/UndefinedTypes.inc svn_mime_002dtype=text
 packages/cocoaint/utils/uikit-skel/src/foundation/Foundation.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/uikit-skel/src/iPhoneAll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/uikit-skel/src/opengles/OpenGLES.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/utils/uikit-skel/src/patches/NSObjCRuntime.patch svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/uikit-skel/src/quartzcore/QuartzCore.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/uikit-skel/src/uikit/UIKit.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/dbus/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
