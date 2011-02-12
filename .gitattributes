@@ -1384,6 +1384,7 @@ packages/cocoaint/src/webkit/CarbonUtils.inc svn_mime_002dtype=text%2Fplain svn_
 packages/cocoaint/src/webkit/DOM.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/webkit/DOMAbstractView.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/webkit/DOMAttr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/src/webkit/DOMBlob.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/webkit/DOMCDATASection.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/webkit/DOMCSS.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/webkit/DOMCSSCharsetRule.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
