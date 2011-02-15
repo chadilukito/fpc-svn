@@ -4070,6 +4070,23 @@ packages/libndsfpc/examples/filesystem/libfat/libfatdir svnc_bugtraq_003aurl svn
 packages/libndsfpc/examples/filesystem/libfat/libfatdir/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/filesystem/libfat/libfatdir/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/filesystem/libfat/libfatdir/libfatdir.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/nitrofs svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/filesystem/nitrofs/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/nitrofs/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/nitrofs/nitrodir svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/filesystem/nitrofs/nitrodir/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/nitrofs/nitrodir/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/nitrofs/nitrodir/nitrodir.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/nitrofs/nitrodir/nitrofiles svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/filesystem/nitrofs/nitrodir/nitrofiles/dir1 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/filesystem/nitrofs/nitrodir/nitrofiles/dir1/test.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/nitrofs/nitrodir/nitrofiles/dir2 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/filesystem/nitrofs/nitrodir/nitrofiles/dir2/subdir1 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/filesystem/nitrofs/nitrodir/nitrofiles/dir2/subdir1/subsubdir1 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/filesystem/nitrofs/nitrodir/nitrofiles/dir2/subdir1/subsubdir1/file2.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/nitrofs/nitrodir/nitrofiles/dir2/subdir1/test2.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/filesystem/nitrofs/nitrodir/nitrofiles/dir3 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/filesystem/nitrofs/nitrodir/nitrofiles/file1.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/graphics svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/libndsfpc/examples/graphics/3D svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/libndsfpc/examples/graphics/3D/3D_Both_Screens svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
@@ -4115,6 +4132,9 @@ packages/libndsfpc/examples/graphics/3D/Paletted_Cube/Makefile.fpc svn_mime_002d
 packages/libndsfpc/examples/graphics/3D/Paletted_Cube/PalettedCube.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture10_COMP_pal.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture10_COMP_tex.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture10_COMP_texExt.bin svn_mime_002dtype=application%2Foctet-stream
 packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture1_RGB16_pal.bin svn_mime_002dtype=application%2Foctet-stream
 packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture1_RGB16_tex.bin svn_mime_002dtype=application%2Foctet-stream
 packages/libndsfpc/examples/graphics/3D/Paletted_Cube/data/texture2_RGB16_pal.bin svn_mime_002dtype=application%2Foctet-stream
