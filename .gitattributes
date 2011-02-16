@@ -1556,6 +1556,10 @@ packages/cocoaint/utils/cocoa-skel/src/patches/NSObjCRuntime.patch svn_mime_002d
 packages/cocoaint/utils/cocoa-skel/src/quartzcore/QuartzCore.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/cocoa-skel/src/webkit/UndefinedTypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/cocoa-skel/src/webkit/WebKit.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/utils/doc/How[!!-~]to[!!-~]parse[!!-~]frameworks.rtf svn_mime_002dtype=application%2Frtf
+packages/cocoaint/utils/doc/Make[!!-~]Cocoa[!!-~]Headers.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/utils/doc/Make[!!-~]Single[!!-~]Header.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/utils/doc/Make[!!-~]iPhone[!!-~]Headers.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/frameworks.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/install_objp.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/make-cocoa-headers.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
