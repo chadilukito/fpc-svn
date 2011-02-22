@@ -1568,6 +1568,7 @@ packages/cocoaint/utils/parser.php svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/cocoaint/utils/patches/cocoa-coredata-webkit.patch svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/patches/uikit-3.2.patch svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/patches/uikit-4.2.patch svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/utils/source/docset.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/source/objp.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/source/objp_base.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/source/utilities.php svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
