@@ -1326,7 +1326,6 @@ packages/cocoaint/src/foundation/NSXMLNode.inc svn_mime_002dtype=text%2Fplain sv
 packages/cocoaint/src/foundation/NSXMLNodeOptions.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/foundation/NSXMLParser.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/foundation/NSZone.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/cocoaint/src/iPhoneAll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/quartzcore/AnonIncludeClassDefinitionsQuartzcore.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/quartzcore/CAAnimation.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/quartzcore/CABase.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1377,8 +1376,6 @@ packages/cocoaint/src/quartzcore/CVPixelBufferPool.inc svn_mime_002dtype=text%2F
 packages/cocoaint/src/quartzcore/CVPixelFormatDescription.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/quartzcore/CVReturn.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/quartzcore/QuartzCore.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/cocoaint/src/uikit/UIKit.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/cocoaint/src/uikit/UndefinedClasses.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/webkit/AnonIncludeClassDefinitionsWebkit.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/webkit/CarbonUtils.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/webkit/DOM.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
