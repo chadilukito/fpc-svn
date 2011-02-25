@@ -4718,6 +4718,12 @@ packages/libogcfpc/src/ogc/video.inc svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/libogcfpc/src/ogc/video_types.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libogcfpc/src/ogc/wiilaunch.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libogcfpc/src/ogcsys.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libogcfpc/src/sdcard svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libogcfpc/src/sdcard/card_buf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libogcfpc/src/sdcard/card_cmn.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libogcfpc/src/sdcard/card_io.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libogcfpc/src/sdcard/gcsd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libogcfpc/src/sdcard/wiisd_io.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libogcfpc/src/wiikeyboard svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/libogcfpc/src/wiikeyboard/keyboard.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libogcfpc/src/wiikeyboard/usbkeyboard.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
