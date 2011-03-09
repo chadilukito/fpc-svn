@@ -9121,10 +9121,12 @@ tests/test/cg/obj/solaris/x86_64/tcext5.o svn_mime_002dtype=application%2Foctet-
 tests/test/cg/obj/stdint.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/obj/tcext6.c svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/obj/win32/i386/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/win32/i386/cpptcl2.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/win32/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/win32/i386/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/win32/i386/tcext4.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/win32/i386/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/win32/i386/tcext6.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/wince/arm/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/wince/arm/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/wince/arm/tcext4.o svn_mime_002dtype=application%2Foctet-stream
