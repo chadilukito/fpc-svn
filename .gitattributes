@@ -11258,7 +11258,7 @@ tests/webtbs/tw1850.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1851.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw18512.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw1856.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/webtbs/tw18567 svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/webtbs/tw18567.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw18610.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw1862.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw18620.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
