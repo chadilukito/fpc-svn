@@ -7996,6 +7996,7 @@ rtl/win/syswin.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win/windirs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/winevent.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/wininc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/wininc/ascdef.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
