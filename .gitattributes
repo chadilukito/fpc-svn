@@ -7521,6 +7521,7 @@ rtl/netware/npackon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/nwcalls.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/nwnit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/nwpre.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/netware/nwpre.imp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/nwpre.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/nwprot.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/nwserv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
