@@ -2275,6 +2275,7 @@ packages/fcl-res/xml/versiontypes.xml svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/fcl-res/xml/winpeimagereader.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/Makefile.org svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/Makefile_fpmake.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/demo1/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/demo1/demo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
