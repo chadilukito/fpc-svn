@@ -9563,6 +9563,7 @@ tests/test/tabsvr3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tabsvr4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tabsvr5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/taddstr1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/taes1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/talign.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/talign1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/talign2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
