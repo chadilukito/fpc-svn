@@ -2304,6 +2304,7 @@ packages/fcl-stl/src/gstack.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/fcl-stl/src/gutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/src/gvector.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/clean svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-stl/tests/garrayutilstest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/gdequetest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/gmaptest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/gmaptestzal.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2311,7 +2312,6 @@ packages/fcl-stl/tests/gpriorityqueuetest.pp svn_mime_002dtype=text%2Fplain svn_
 packages/fcl-stl/tests/gqueuetest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/gsetrefcounttest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/gsettest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-stl/tests/gsorttest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/gstacktest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/gvectortest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/run-all-tests svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
