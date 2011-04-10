@@ -2321,6 +2321,23 @@ packages/fcl-web/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 packages/fcl-web/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/Makefile.org svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/Makefile_fpmake.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/combined/combined.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/combined/combined.ico svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/combined/combined.ini svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/combined/combined.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/combined/combined.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/combined/combined.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/combined/combined.sql svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/combined/login.js svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/combined/login.png svn_mime_002dtype=image%2Fpng
+packages/fcl-web/examples/combined/users.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/combined/users.js svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/combined/users.sql svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/combined/wmlogin.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/combined/wmlogin.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/combined/wmusers.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/combined/wmusers.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/combined/wmusers.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/demo1/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/demo1/demo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/demo1/demo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
