@@ -2307,6 +2307,7 @@ packages/fcl-stl/src/gutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/fcl-stl/src/gvector.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/clean svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/garrayutilstest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-stl/tests/gcompositetest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/gdequetest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/ghashmaptest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/ghashsettest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
