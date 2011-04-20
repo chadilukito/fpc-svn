@@ -9745,6 +9745,7 @@ tests/test/tclass8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tclass9.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclassinfo1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclrprop.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcmov1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcmp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcmp0.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tconstref1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
