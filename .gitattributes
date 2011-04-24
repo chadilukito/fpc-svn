@@ -12601,6 +12601,17 @@ utils/h2pas/h2poptions.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 utils/h2pas/h2pyacclib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/scan.l svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/scan.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/instantfpc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/instantfpc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/instantfpc/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/instantfpc/examples/envvars.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/instantfpc/examples/exitcode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/instantfpc/examples/getworkingdirectory.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/instantfpc/examples/helloworld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/instantfpc/examples/writeparameters.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/instantfpc/instantfpc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/instantfpc/instantfpc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/instantfpc/instantfptools.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/mksymbian/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/mksymbian/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/mksymbian/cfgfile.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
