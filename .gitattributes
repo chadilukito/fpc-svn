@@ -2571,6 +2571,7 @@ packages/fpvectorial/src/dxfvectorialreader.pas svn_mime_002dtype=text%2Fpascal 
 packages/fpvectorial/src/fpvectbuildunit.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fpvectorial/src/fpvectorial.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fpvectorial/src/fpvtocanvas.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/fpvectorial/src/fpvutils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fpvectorial/src/pdfvectorialreader.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fpvectorial/src/pdfvrlexico.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fpvectorial/src/pdfvrsemantico.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
