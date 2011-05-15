@@ -6508,6 +6508,7 @@ packages/winunits-base/src/shfolder.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/winunits-base/src/shlobj.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/tmschema.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/uxtheme.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/src/win9xwsmanager.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/winunits-base/src/wininet.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/winspool.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/winunits-base/src/winutils.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
