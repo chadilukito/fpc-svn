@@ -9636,6 +9636,8 @@ tests/test/tarray8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tarray9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tasm3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tasm4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasmread.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasout.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tassignmentoperator1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
