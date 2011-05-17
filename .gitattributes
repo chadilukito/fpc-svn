@@ -2565,6 +2565,7 @@ packages/fppkg/src/fprepos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/fppkg/src/fpxmlrep.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/src/pkgcommands.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/src/pkgdownload.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fppkg/src/pkgfphttp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/src/pkgfpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/src/pkgglobals.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/src/pkghandler.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
