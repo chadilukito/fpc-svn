@@ -2350,6 +2350,10 @@ packages/fcl-web/examples/combined/wmusers.lrs svn_mime_002dtype=text%2Fplain sv
 packages/fcl-web/examples/combined/wmusers.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/httpclient/httpget.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/httpclient/httpget.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/httpclient/httppost.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/httpclient/httppost.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/httpclient/httppostfile.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/httpclient/httppostfile.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/httpserver/simplehttpserver.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/httpserver/simplehttpserver.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/demo1/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
