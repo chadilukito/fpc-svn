@@ -2347,6 +2347,8 @@ packages/fcl-web/examples/combined/wmlogin.pp svn_mime_002dtype=text%2Fplain svn
 packages/fcl-web/examples/combined/wmusers.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/combined/wmusers.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/combined/wmusers.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/httpapp/testhttp.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/httpapp/testhttp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/httpclient/httpget.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/httpclient/httpget.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/httpclient/httppost.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
