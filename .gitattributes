@@ -2605,6 +2605,7 @@ packages/fpvectorial/src/avisocncgcodewriter.pas svn_mime_002dtype=text%2Fpascal
 packages/fpvectorial/src/avisozlib.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fpvectorial/src/cdrvectorialreader.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fpvectorial/src/dxfvectorialreader.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/fpvectorial/src/epsvectorialreader.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fpvectorial/src/fpvectbuildunit.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fpvectorial/src/fpvectorial.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fpvectorial/src/fpvtocanvas.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
