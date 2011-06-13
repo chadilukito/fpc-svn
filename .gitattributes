@@ -2347,6 +2347,148 @@ packages/fcl-web/examples/combined/wmlogin.lfm svn_mime_002dtype=text%2Fplain sv
 packages/fcl-web/examples/combined/wmlogin.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/combined/wmusers.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/combined/wmusers.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/echo/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/echo/apache/echo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/echo/apache/echo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/echo/apache/echo.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/echo/cgi/echo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/echo/cgi/echo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/echo/cgi/echo.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/echo/fcgi/echo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/echo/fcgi/echo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/echo/fcgi/echo.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/echo/webmodule/wmecho.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/echo/webmodule/wmecho.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/embedtemplates/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/embedtemplates/apache/embedtemplates.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/embedtemplates/apache/embedtemplates.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/embedtemplates/apache/embedtemplates.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/embedtemplates/cgi/embedtemplates.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/embedtemplates/cgi/embedtemplates.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/embedtemplates/cgi/embedtemplates.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/embedtemplates/fcgi/embedtemplates.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/embedtemplates/fcgi/embedtemplates.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/embedtemplates/fcgi/embedtemplates.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/embedtemplates/templates/body.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/embedtemplates/templates/body_left.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/embedtemplates/templates/body_right.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/embedtemplates/templates/bottom.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/embedtemplates/templates/maintemplate.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/embedtemplates/templates/top.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/embedtemplates/webmodule/webmodule.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/embedtemplates/webmodule/webmodule.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/fileupload/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/fileupload/apache/fileupload.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/fileupload/apache/fileupload.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/fileupload/apache/fileupload.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/fileupload/cgi/fileupload.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/fileupload/cgi/fileupload.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/fileupload/cgi/fileupload.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/fileupload/fcgi/fileupload.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/fileupload/fcgi/fileupload.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/fileupload/fcgi/fileupload.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/fileupload/templates/uploadform.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/fileupload/webmodule/webmodule.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/fileupload/webmodule/webmodule.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/listrecords/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/listrecords/apache/listrecords.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/listrecords/apache/listrecords.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/listrecords/apache/listrecords.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/listrecords/cgi/listrecords.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/listrecords/cgi/listrecords.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/listrecords/cgi/listrecords.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/listrecords/fcgi/listrecords.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/listrecords/fcgi/listrecords.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/listrecords/fcgi/listrecords.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/listrecords/templates/mytemplate3.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/listrecords/webmodule/webmodule.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/listrecords/webmodule/webmodule.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-auto/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-auto/apache/autosession.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-auto/apache/autosession.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-auto/apache/autosession.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-auto/cgi/autosession.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-auto/cgi/autosession.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-auto/cgi/autosession.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-auto/fcgi/autosession.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-auto/fcgi/autosession.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-auto/fcgi/autosession.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-auto/templates/autosession-template.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-auto/webmodule/webmodule.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-auto/webmodule/webmodule.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-login/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-login/apache/cookiesession.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-login/apache/cookiesession.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-login/apache/cookiesession.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-login/cgi/cookiesession.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-login/cgi/cookiesession.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-login/cgi/cookiesession.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-login/fcgi/cookiesession.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-login/fcgi/cookiesession.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-login/fcgi/cookiesession.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-login/templates/testlogin.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-login/templates/testlogout.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-login/templates/testsomepage.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-login/templates/testwelcome.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-login/templates/userdb.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-login/webmodule/webmodule.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/cookiesessions-login/webmodule/webmodule.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/urlsessions-login/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/urlsessions-login/apache/urlsession.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/urlsessions-login/apache/urlsession.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/urlsessions-login/apache/urlsession.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/sessions/urlsessions-login/cgi/urlsession.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/urlsessions-login/cgi/urlsession.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/urlsessions-login/cgi/urlsession.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/sessions/urlsessions-login/fcgi/urlsession.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/urlsessions-login/fcgi/urlsession.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/urlsessions-login/fcgi/urlsession.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/sessions/urlsessions-login/templates/testurllogin.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/urlsessions-login/templates/testurllogout.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/urlsessions-login/templates/testurlsomepage.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/urlsessions-login/templates/testurlwelcome.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/urlsessions-login/templates/userdb.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/urlsessions-login/webmodule/webmodule.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/sessions/urlsessions-login/webmodule/webmodule.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/simpletemplate/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/simpletemplate/apache/simpletemplate.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/simpletemplate/apache/simpletemplate.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/simpletemplate/apache/simpletemplate.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/simpletemplate/cgi/simpletemplate.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/simpletemplate/cgi/simpletemplate.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/simpletemplate/cgi/simpletemplate.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/simpletemplate/fcgi/simpletemplate.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/simpletemplate/fcgi/simpletemplate.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/simpletemplate/fcgi/simpletemplate.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/simpletemplate/templates/mytemplate1.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/simpletemplate/webmodule/webmodule.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/simpletemplate/webmodule/webmodule.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/tagparam/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/tagparam/apache/tagparam.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/tagparam/apache/tagparam.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/tagparam/apache/tagparam.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/tagparam/cgi/tagparam.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/tagparam/cgi/tagparam.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/tagparam/cgi/tagparam.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/tagparam/fcgi/tagparam.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/tagparam/fcgi/tagparam.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/tagparam/fcgi/tagparam.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/fptemplate/tagparam/templates/mytemplate2.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/tagparam/webmodule/webmodule.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/fptemplate/tagparam/webmodule/webmodule.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/helloworld/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/helloworld/apache/helloworld.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/helloworld/apache/helloworld.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/helloworld/apache/helloworld.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/helloworld/cgi/helloworld.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/helloworld/cgi/helloworld.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/helloworld/cgi/helloworld.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/helloworld/fcgi/helloworld.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/helloworld/fcgi/helloworld.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/helloworld/fcgi/helloworld.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/helloworld/webmodule/webmodule.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/helloworld/webmodule/webmodule.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/httpapp/testhttp.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/httpapp/testhttp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/httpclient/httpget.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2373,6 +2515,10 @@ packages/fcl-web/examples/jsonrpc/extdirect/extdemo.lpr svn_mime_002dtype=text%2
 packages/fcl-web/examples/jsonrpc/extdirect/extdirect.in svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/extdirect/wmext.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/extdirect/wmext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/session/sessiondemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/session/sessiondemo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/session/wmsession.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/session/wmsession.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo/createusers.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo/createusers.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo/extgrid-json.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
