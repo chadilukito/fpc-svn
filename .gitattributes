@@ -2346,7 +2346,6 @@ packages/fcl-web/examples/combined/users.sql svn_mime_002dtype=text%2Fplain svn_
 packages/fcl-web/examples/combined/wmlogin.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/combined/wmlogin.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/combined/wmusers.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-web/examples/combined/wmusers.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/combined/wmusers.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/httpapp/testhttp.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/httpapp/testhttp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2366,7 +2365,6 @@ packages/fcl-web/examples/jsonrpc/demo1/echobatch.in svn_mime_002dtype=text%2Fpl
 packages/fcl-web/examples/jsonrpc/demo1/extdirect.in svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/demo1/notification.in svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/demo1/wmdemo.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-web/examples/jsonrpc/demo1/wmdemo.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/demo1/wmdemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/extdirect/extdemo.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/extdirect/extdemo.js svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2374,7 +2372,6 @@ packages/fcl-web/examples/jsonrpc/extdirect/extdemo.lpi svn_mime_002dtype=text%2
 packages/fcl-web/examples/jsonrpc/extdirect/extdemo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/extdirect/extdirect.in svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/extdirect/wmext.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-web/examples/jsonrpc/extdirect/wmext.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/extdirect/wmext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo/createusers.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo/createusers.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2387,7 +2384,6 @@ packages/fcl-web/examples/webdata/demo/extgrid.lpr svn_mime_002dtype=text%2Fplai
 packages/fcl-web/examples/webdata/demo/lazwebdata.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo/reglazwebdata.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo/wmusers.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-web/examples/webdata/demo/wmusers.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo/wmusers.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo2/extgrid-json.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo2/extgrid-json.js svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2396,7 +2392,6 @@ packages/fcl-web/examples/webdata/demo2/extgrid-xml.js svn_mime_002dtype=text%2F
 packages/fcl-web/examples/webdata/demo2/extgrid.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo2/extgrid.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo2/wmusers.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-web/examples/webdata/demo2/wmusers.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo2/wmusers.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo3/extgrid-json.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo3/extgrid-json.js svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2405,13 +2400,10 @@ packages/fcl-web/examples/webdata/demo3/extgrid-xml.js svn_mime_002dtype=text%2F
 packages/fcl-web/examples/webdata/demo3/extgrid.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo3/extgrid.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo3/tralala.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-web/examples/webdata/demo3/tralala.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo3/tralala.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo3/wmusers.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-web/examples/webdata/demo3/wmusers.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo3/wmusers.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo4/dmusers.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-web/examples/webdata/demo4/dmusers.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo4/dmusers.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo4/extgrid-json.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo4/extgrid-json.js svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2420,10 +2412,8 @@ packages/fcl-web/examples/webdata/demo4/extgrid-xml.js svn_mime_002dtype=text%2F
 packages/fcl-web/examples/webdata/demo4/extgrid.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo4/extgrid.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo4/wmjsonusers.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-web/examples/webdata/demo4/wmjsonusers.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo4/wmjsonusers.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo4/wmxmlusers.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-web/examples/webdata/demo4/wmxmlusers.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo4/wmxmlusers.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo5/extgrid-json.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo5/extgrid-json.js svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2432,7 +2422,6 @@ packages/fcl-web/examples/webdata/demo5/extgrid-xml.js svn_mime_002dtype=text%2F
 packages/fcl-web/examples/webdata/demo5/extgrid.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo5/extgrid.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo5/wmusers.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-web/examples/webdata/demo5/wmusers.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo5/wmusers.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo6/extgrid-json.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo6/extgrid-json.js svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2442,7 +2431,6 @@ packages/fcl-web/examples/webdata/demo6/extgrid.ini svn_mime_002dtype=text%2Fpla
 packages/fcl-web/examples/webdata/demo6/extgrid.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo6/extgrid.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo6/wmusers.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-web/examples/webdata/demo6/wmusers.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo6/wmusers.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demos.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/users.dbf svn_mime_002dtype=application%2Foctet-stream
