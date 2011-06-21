@@ -1612,6 +1612,7 @@ packages/dts/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/dts/src/dts.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fastcgi/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fastcgi/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fastcgi/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fastcgi/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fastcgi/src/fastcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-async/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
