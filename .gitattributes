@@ -9713,6 +9713,10 @@ tests/test/library/tlib1a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 tests/test/library/tlib1a2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/library/tlib1b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/library/tlib2b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/library/tlib3a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/library/tlib3b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/library/tlib3c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/library/tlib3d.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/library/ttdllexe.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/library/ttdlltest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/library/ulib2a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
