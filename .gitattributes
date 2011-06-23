@@ -10440,6 +10440,7 @@ tests/test/trox1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trox2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trox3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/trox4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/trox5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/trstr1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trstr2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trstr3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
