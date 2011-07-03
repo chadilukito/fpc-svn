@@ -1638,7 +1638,6 @@ packages/fcl-base/examples/base64decodingtestcase.pas svn_mime_002dtype=text%2Fp
 packages/fcl-base/examples/cachetest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/cfgtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/crittest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-base/examples/daemon.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/dbugsrv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/debugtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/decodeascii85.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1969,6 +1968,7 @@ packages/fcl-extra/examples svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/fcl-extra/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-extra/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-extra/examples/daemon.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-extra/examples/daemon.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-extra/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-extra/src svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/fcl-extra/src/daemonapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
