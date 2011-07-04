@@ -608,9 +608,9 @@ compiler/wpo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/wpobase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/wpoinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/x86/ag386nsm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/agx86att.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/agx86int.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/x86/agx86nsm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/cga.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/cgx86.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
