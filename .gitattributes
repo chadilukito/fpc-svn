@@ -8276,6 +8276,7 @@ rtl/win32/gprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/initc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/objinc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/signals.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win32/sysinit.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/sysinitcyg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/sysinitgprof.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/sysinitpas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
