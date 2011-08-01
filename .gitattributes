@@ -2852,6 +2852,7 @@ packages/gmp/examples/printf_example.pas svn_mime_002dtype=text%2Fplain svn_eol_
 packages/gmp/examples/printf_example2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gmp/examples/scanf_example.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gmp/examples/scanf_example2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gmp/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gmp/readme svnc_Makefile=Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gmp/src svnc_Makefile=Makefile.fpc
 packages/gmp/src/gmp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
