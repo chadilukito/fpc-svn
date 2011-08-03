@@ -996,6 +996,7 @@ packages/chm/src/paslzx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/chm/src/paslzxcomp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/AnonClassDefinitionsCoredata.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/AnonClassDefinitionsQuartzcore.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/AnonClassDefinitionsWebkit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
