@@ -5084,7 +5084,7 @@ packages/mad/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mad/src/mad.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/matroska/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/matroska/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/matroska/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/matroska/fpmake.pp_disabled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/matroska/src/matroska.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/modplug/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/modplug/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
