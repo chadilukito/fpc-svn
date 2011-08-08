@@ -7181,6 +7181,8 @@ rtl/embedded/arm/stellaris.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 rtl/embedded/arm/stm32f103.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega128.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/start.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/buildrtl.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/buildrtl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/check.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/empty.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/rtl.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
