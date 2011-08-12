@@ -10914,6 +10914,9 @@ tests/webtbf/tw1754.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw1754b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw17646a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw1782.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbf/tw18058a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbf/tw18058b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbf/tw18058c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw18096.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbf/tw18096c.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbf/tw18267.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
