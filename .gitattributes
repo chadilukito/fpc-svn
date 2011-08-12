@@ -2620,6 +2620,7 @@ packages/fcl-web/src/base/fphttp.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/fcl-web/src/base/fphttpapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/fphttpclient.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/fphttpserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/src/base/fphttpstatus.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/fpweb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/fpwebfile.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/httpdefs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
