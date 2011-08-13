@@ -6073,6 +6073,7 @@ packages/symbolic/doc/optimization.txt svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/symbolic/doc/symbolic.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/symbolic/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/symbolic/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/symbolic/examples/easyevalexample.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/symbolic/examples/evaltest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/symbolic/examples/rpnthing.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/symbolic/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
