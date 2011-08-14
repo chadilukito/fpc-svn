@@ -10660,6 +10660,7 @@ tests/test/units/math/tmask2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 tests/test/units/math/tnaninf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/math/tpower.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/math/ttrig1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/matrix/tinv1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/objects/testobj.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/objects/testobj1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/objects/testobj2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
