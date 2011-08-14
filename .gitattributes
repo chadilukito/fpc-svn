@@ -2319,6 +2319,7 @@ packages/fcl-stl/doc/stackexample.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/fcl-stl/doc/util.tex svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/doc/vector.tex svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/doc/vectorexample.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-stl/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-stl/src/garrayutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/src/gdeque.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/src/ghashmap.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
