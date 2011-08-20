@@ -7525,6 +7525,8 @@ rtl/java/jrech.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/objpas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/rtl.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/rtti.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/java/sstringh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/java/sstrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/ustringh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/ustrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
