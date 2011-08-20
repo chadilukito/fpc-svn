@@ -148,6 +148,8 @@ compiler/gendef.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/generic/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/globals.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/globtype.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/hlcg2ll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/hlcgobj.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/html/i386/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/html/powerpc/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/htypechk.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
