@@ -7504,6 +7504,7 @@ rtl/inc/wstrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/wustrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/java/jdynarrh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jmathh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/objpas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/rtl.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
