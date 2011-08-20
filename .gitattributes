@@ -217,6 +217,7 @@ compiler/jvm/cputarg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/dbgjasm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/hlcgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/itcpujas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/jvm/jvmdef.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/jvmreg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/njvmadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/njvmcal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -230,6 +231,7 @@ compiler/jvm/njvmmem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/njvmset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/njvmtcon.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/njvmutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/jvm/pjvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/rjvmcon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/rjvmnor.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -239,7 +241,6 @@ compiler/jvm/rjvmsri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/rjvmstd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/rjvmsup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/tgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/jvmdef.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/link.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/ag68kgas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -406,7 +407,6 @@ compiler/pdecvar.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pexports.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pexpr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pinline.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/pjvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pmodules.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/agppcmpw.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/agppcvasm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
