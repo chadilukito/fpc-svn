@@ -221,6 +221,7 @@ compiler/jvm/njvmadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/njvmcal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/njvmcnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/njvmcon.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/jvm/njvminl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/njvmmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/rjvmcon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7500,6 +7501,7 @@ rtl/inc/wstrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/wustrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/java/jmathh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/objpas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/rtl.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
