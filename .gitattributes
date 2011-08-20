@@ -652,6 +652,7 @@ compiler/x86/hlcgx86.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/itx86int.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/nx86add.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/x86/nx86cal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/nx86cnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/nx86con.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/nx86inl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
