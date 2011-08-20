@@ -549,6 +549,7 @@ compiler/sparc/strinst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/switches.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/symbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/symconst.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/symcreat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/symdef.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/symnot.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/symsym.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
