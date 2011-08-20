@@ -7524,7 +7524,7 @@ rtl/java/jdk15.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jdk15.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jdynarrh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jint64.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/java/jmathh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/java/jmath.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jpvar.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jpvarh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jrec.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
