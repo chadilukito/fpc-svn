@@ -205,6 +205,7 @@ compiler/ia64/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 compiler/ia64/ia64reg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/impdef.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/import.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/jvm/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/jvmreg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/rjvmcon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
