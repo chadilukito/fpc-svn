@@ -228,6 +228,7 @@ compiler/jvm/njvmld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/njvmmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/njvmmem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/njvmset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/jvm/njvmtcon.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/njvmutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/rjvmcon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7525,6 +7526,8 @@ rtl/java/jint64.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jmathh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jrec.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jrech.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/java/jset.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/java/jseth.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/objpas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/rtl.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/rtti.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
