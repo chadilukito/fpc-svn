@@ -12818,7 +12818,10 @@ utils/fpcmkcfg/fppkg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcres/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcres/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcres/closablefilestream.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcres/fpcjres.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcres/fpcres.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcres/jarparamparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcres/jarsourcehandler.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcres/msghandler.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcres/paramparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcres/sourcehandler.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
