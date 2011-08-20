@@ -401,6 +401,7 @@ compiler/pdecvar.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pexports.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pexpr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pinline.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/pjvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pmodules.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/agppcmpw.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/agppcvasm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7513,6 +7514,8 @@ rtl/java/java_sys.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/java_sysh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jdynarrh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jmathh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/java/jrec.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/java/jrech.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/objpas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/rtl.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/rtti.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
