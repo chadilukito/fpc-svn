@@ -210,6 +210,7 @@ compiler/jvm/cgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/cpupara.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/jvm/cpupi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/jvmreg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/rjvmcon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/rjvmnor.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
