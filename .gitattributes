@@ -12931,6 +12931,8 @@ utils/javapp/src/fpc/tools/javapp/AttrData.java svn_mime_002dtype=text%2Fplain s
 utils/javapp/src/fpc/tools/javapp/CPX.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/javapp/src/fpc/tools/javapp/CPX2.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/javapp/src/fpc/tools/javapp/ClassData.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/javapp/src/fpc/tools/javapp/ClassIdentifierInfo.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/javapp/src/fpc/tools/javapp/ClassListBuilder.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/javapp/src/fpc/tools/javapp/Constants.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/javapp/src/fpc/tools/javapp/FieldData.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/javapp/src/fpc/tools/javapp/InnerClassData.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -12940,6 +12942,13 @@ utils/javapp/src/fpc/tools/javapp/LineNumData.java svn_mime_002dtype=text%2Fplai
 utils/javapp/src/fpc/tools/javapp/LocVarData.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/javapp/src/fpc/tools/javapp/Main.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/javapp/src/fpc/tools/javapp/MethodData.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/javapp/src/fpc/tools/javapp/PascalClassData.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/javapp/src/fpc/tools/javapp/PascalFieldData.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/javapp/src/fpc/tools/javapp/PascalInnerClassData.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/javapp/src/fpc/tools/javapp/PascalKeywords.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/javapp/src/fpc/tools/javapp/PascalMethodData.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/javapp/src/fpc/tools/javapp/PascalTypeSignature.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/javapp/src/fpc/tools/javapp/PascalUnit.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/javapp/src/fpc/tools/javapp/RuntimeConstants.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/javapp/src/fpc/tools/javapp/StackMapData.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/javapp/src/fpc/tools/javapp/StackMapTableData.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
