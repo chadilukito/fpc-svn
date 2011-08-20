@@ -351,6 +351,7 @@ compiler/ncgutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncon.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/nflw.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ngenutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ninl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/nld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/nmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
