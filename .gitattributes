@@ -10519,6 +10519,7 @@ tests/test/tset5a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tset6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tset7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tsetsize.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tshuffle1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tstack.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstatic1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tstatic2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
