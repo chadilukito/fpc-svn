@@ -7504,6 +7504,7 @@ rtl/inc/ucomplex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/ufloat128.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/ustringh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/ustrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/uuchar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/varerror.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/variant.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/varianth.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
