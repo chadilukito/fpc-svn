@@ -9995,6 +9995,10 @@ tests/test/tdel2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tdispinterface1a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tdispinterface1b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tdispinterface2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tdotunits1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tdotunits2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tdotunits3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tdotunits4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tendian1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tenum1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tenum2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10592,6 +10596,12 @@ tests/test/twrstr8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uabstrcl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uchlp12.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/uchlp18.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/udots.dot.next.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/udots.dot.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/udots.dot.prog.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/udots.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/udots.prog.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/udots.test.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/uenum2a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uenum2b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ugeneric10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
