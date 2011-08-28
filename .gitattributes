@@ -7538,6 +7538,8 @@ rtl/java/jsystemh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jsystemh_types.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jtvar.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jtvarh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/java/justringh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/java/justrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/objpas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/objpas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/objpash.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7547,8 +7549,6 @@ rtl/java/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/sysres.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/java/ustringh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/java/ustrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/jvm/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/jvm/jvm.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/jvm/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9874,7 +9874,9 @@ tests/test/jvm/trange2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/jvm/trange3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tset1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tset3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/jvm/tstr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tstring1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/jvm/tstring9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tstrreal1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tstrreal2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tthreadvar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
