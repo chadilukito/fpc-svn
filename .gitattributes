@@ -6003,6 +6003,7 @@ packages/regexpr/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 packages/regexpr/src/old/regexpr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/regexpr/src/oldregexpr.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/regexpr/src/regex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/regexpr/src/regexpr.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rexx/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rexx/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rexx/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
