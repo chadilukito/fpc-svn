@@ -7516,9 +7516,9 @@ rtl/inc/wstrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/wustrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/java/astringh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/java/astrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/compproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/java/jastringh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/java/jastrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/java_sys.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/java_sysh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jdk15.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
