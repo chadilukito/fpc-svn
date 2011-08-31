@@ -12610,6 +12610,7 @@ tests/webtbs/tw9918.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw9919.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw9985.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw9985a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/u_uvmta.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/ub1873.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/ub1883.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/uvmt.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
