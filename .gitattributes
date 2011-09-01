@@ -10026,6 +10026,7 @@ tests/test/terecs_u1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/testcmem.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/testda1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/testfpuc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/testlderror.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/testmovd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tests.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/testsse2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
