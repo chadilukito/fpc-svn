@@ -483,7 +483,6 @@ compiler/sparc/cpupi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/sparc/cputarg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/sparc/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/sparc/ncpuadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/sparc/ncpucall.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/sparc/ncpucnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/sparc/ncpuinln.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/sparc/ncpumat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
