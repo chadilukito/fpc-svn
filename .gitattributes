@@ -2306,6 +2306,8 @@ packages/fcl-stl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/fcl-stl/doc/arrayutils.tex svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/doc/deque.tex svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/doc/dequeexample.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-stl/doc/hashmapexample.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-stl/doc/hashsetexample.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/doc/main.tex svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/doc/makra.tex svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/doc/map.tex svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
