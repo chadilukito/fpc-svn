@@ -10599,6 +10599,7 @@ tests/test/tunistr4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunistr5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunistr6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunistr7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tunistrcopy.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunit1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunit2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunit3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
