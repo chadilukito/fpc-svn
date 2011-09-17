@@ -127,6 +127,7 @@ compiler/cp850.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cp866.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cp8859_1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cp8859_5.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/cpid.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/crefs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cresstr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cstreams.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
