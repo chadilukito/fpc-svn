@@ -10017,13 +10017,17 @@ tests/test/tcpstr5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstr6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstr7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstr8.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tcpstransistr2shortstring.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstransistrcompare.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstransistrcompareequal.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcpstrassignansistr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcpstrchar2ansistr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstrconcat.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstrconcat2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstrconcat3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstrconcatmulti.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstrconcatmulti2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcpstrpchar2ansistr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstrsetlength.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstrsetlength2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstrshortstr2ansistr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
