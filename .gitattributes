@@ -10026,6 +10026,7 @@ tests/test/tcpstrconcatmulti.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 tests/test/tcpstrconcatmulti2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstrsetlength.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstrsetlength2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcpstrshortstr2ansistr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcptypedconst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcptypedconst2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcptypedconst3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
