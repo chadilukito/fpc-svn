@@ -122,6 +122,7 @@ compiler/compinnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/comprsrc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/constexp.pas svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 compiler/cp1251.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/cp1252.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cp437.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cp850.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cp866.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
