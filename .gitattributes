@@ -7203,7 +7203,9 @@ rtl/embedded/avr/start.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 rtl/embedded/buildrtl.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/buildrtl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/check.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/consoleio.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/empty.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/heapmgr.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/rtl.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
