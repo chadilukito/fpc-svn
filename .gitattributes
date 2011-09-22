@@ -10683,7 +10683,6 @@ tests/test/umaclocalprocparam3f.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 tests/test/umacpas1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/umainnam.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/character svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
-tests/test/units/character/tfpwidestring.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/tgetnumericvalue.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/tgetnumericvalue2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/tiscontrol.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
