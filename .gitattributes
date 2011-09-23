@@ -8237,6 +8237,7 @@ rtl/unix/unxovl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unxovlh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/unix/winiconv.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/x86.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/watcom/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/watcom/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
