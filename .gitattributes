@@ -7942,6 +7942,7 @@ rtl/objpas/sysutils/syswideh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 rtl/objpas/types.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/typinfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/unicodedata.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/objpas/unicodedata2.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/objpas/utf8bidi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/varutilh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/varutils.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10693,7 +10694,10 @@ tests/test/units/character/tisdigit.pp svn_mime_002dtype=text%2Fpascal svn_eol_0
 tests/test/units/character/tisdigit2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/tishighsurrogate.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/tisletter.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/units/character/tisletter2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/tisletterordigit.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/units/character/tisletterordigit2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/units/character/tislower2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/tislowsurrogate.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/tisnumber.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/tisnumber2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
