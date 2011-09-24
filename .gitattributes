@@ -10735,6 +10735,7 @@ tests/test/units/dos/tidos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 tests/test/units/dos/tidos2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/dos/tverify.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/dos/tversion.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/fmtbcd/tfmtbcd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/fpcunit/fplists.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/fpcunit/gencomptest.dpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/fpcunit/lists.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
