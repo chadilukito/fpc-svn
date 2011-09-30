@@ -10699,10 +10699,14 @@ tests/test/umainnam.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/character svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 tests/test/units/character/tgetnumericvalue.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/tgetnumericvalue2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/units/character/tgetnumericvalue3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/units/character/tgetunicodecategoriesurro.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/tiscontrol.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/tiscontrol2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/units/character/tiscontrol3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/tisdigit.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/tisdigit2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/units/character/tisdigit3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/tishighsurrogate.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/tisletter.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/tisletter2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -10724,8 +10728,10 @@ tests/test/units/character/tlowercase.pp svn_mime_002dtype=text%2Fpascal svn_eol
 tests/test/units/character/tlowercase2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/ttolower.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/ttolower2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/units/character/ttolower3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/ttoupper.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/ttoupper2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/units/character/ttoupper3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/tutf32convert.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/classes/tmakeobjinst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/classes/tsetstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
