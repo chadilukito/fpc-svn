@@ -7475,6 +7475,7 @@ rtl/inc/varianth.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/variants.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/video.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/videoh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/wincodepages.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/wstringh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/wstrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/wustrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8241,7 +8242,6 @@ rtl/unix/unxovl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unxovlh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/unix/winiconv.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/x86.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/watcom/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/watcom/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
