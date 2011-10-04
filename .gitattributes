@@ -7926,6 +7926,8 @@ rtl/objpas/sysutils/stre.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 rtl/objpas/sysutils/strg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/sysansi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/sysansih.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/objpas/sysutils/syscodepages.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/objpas/sysutils/syscodepagesh.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/objpas/sysutils/sysencoding.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/objpas/sysutils/sysencodingh.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/objpas/sysutils/sysformt.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
