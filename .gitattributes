@@ -10743,6 +10743,7 @@ tests/test/units/character/ttoupper.pp svn_mime_002dtype=text%2Fpascal svn_eol_0
 tests/test/units/character/ttoupper2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/ttoupper3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/character/tutf32convert.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/units/classes/tbytesstreamtest.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/classes/tmakeobjinst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/classes/tsetstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/classes/tvclcomobject.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
