@@ -6936,6 +6936,8 @@ packages/winunits-jedi/src/jwawsrm.pas svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/winunits-jedi/src/jwawsvns.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwawtsapi32.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/jwazmouse.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-jedi/tests svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/winunits-jedi/tests/tjwapsapi1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/x11/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/x11/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/x11/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
