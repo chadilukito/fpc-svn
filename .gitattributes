@@ -265,8 +265,6 @@ compiler/mips/rmipsdwf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/mips/rmipsgas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/rmipsgri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/rmipsgss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/mips/rmipsmot.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/mips/rmipsmri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/rmipsnor.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/rmipsnum.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/rmipsrni.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
