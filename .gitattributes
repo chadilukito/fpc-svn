@@ -5757,6 +5757,8 @@ packages/ptc/docs svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native
 packages/ptc/docs/AUTHORS.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/docs/CHANGES.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/docs/INSTALL.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/docs/INTF-CHANGES-0.99.12.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/docs/INTF-CHANGES-FAQ-0.99.12.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/docs/INTRO.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/docs/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/docs/TODO.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
