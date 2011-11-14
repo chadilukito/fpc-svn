@@ -7536,6 +7536,8 @@ rtl/java/jsstrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jsystem.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jsystemh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jsystemh_types.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/java/jtcon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/java/jtconh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jtvar.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jtvarh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/justringh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
