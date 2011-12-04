@@ -12947,6 +12947,7 @@ utils/fpdoc/intl/makeskel.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 utils/fpdoc/makeskel.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/makeskel.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/mgrfpdocproj.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/mkfpdoc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/mkfpdocproj.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/mkfpdocproj.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/sample-project.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
