@@ -2191,6 +2191,9 @@ packages/fcl-passrc/src/paswrite.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/fcl-passrc/src/pparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/src/pscanner.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/src/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-passrc/tests/tcscanner.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-passrc/tests/testpassrc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-passrc/tests/testpassrc.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
