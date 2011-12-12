@@ -7516,11 +7516,11 @@ rtl/inc/wstrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/wustrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/java/compproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jastringh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jastrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/java_sys.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/java_sysh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/java/jcompproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jdk15.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jdk15.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jdynarr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
