@@ -4208,6 +4208,11 @@ packages/libgbafpc/src/gba/helper.inc svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/libgbafpc/src/gba/mappy.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/src/gba/mbv2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/src/gba/pcx.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/maxmod svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libgbafpc/src/maxmod/inc svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libgbafpc/src/maxmod/inc/maxmod.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/maxmod/inc/mm_types.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/maxmod/maxmod.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgd/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
