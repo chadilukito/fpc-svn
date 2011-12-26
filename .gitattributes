@@ -13099,6 +13099,10 @@ utils/h2pas/h2poptions.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 utils/h2pas/h2pyacclib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/scan.l svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/scan.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/importtl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/importtl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/importtl/importtl.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/importtl/importtl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/instantfpc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/instantfpc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/instantfpc/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
