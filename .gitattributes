@@ -2020,6 +2020,7 @@ packages/fcl-fpcunit/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/fcl-fpcunit/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/DUnitCompatibleInterface.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-fpcunit/src/consoletestrunner.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/demo/consolerunner/suiteconfig.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/demo/consolerunner/testrunner.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/digesttestreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
