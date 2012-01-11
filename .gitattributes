@@ -2760,6 +2760,7 @@ packages/fpmkunit/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/fpmkunit/src/fpmkunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fppkg/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/src/fpmkunitsrc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/src/fprepos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2846,6 +2847,7 @@ packages/gdbm/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbm/src/gdbm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ggi/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ggi/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ggi/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ggi/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ggi/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ggi/examples/ggi1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2855,6 +2857,7 @@ packages/ggi/src/ggi2d.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 packages/ggi/src/gii.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gmp/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gmp/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gmp/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gmp/examples svnc_Makefile=Makefile.fpc
 packages/gmp/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gmp/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6778,6 +6781,7 @@ packages/winceunits/src/winioctl.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/winceunits/src/ws2bth.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/activex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/src/buildwinutilsbase.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6820,6 +6824,7 @@ packages/winunits-base/tests/testcom2.pp svn_mime_002dtype=text%2Fplain svn_eol_
 packages/winunits-base/tests/testver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-jedi/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/ModuleLoader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-jedi/src/buildjwa.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
