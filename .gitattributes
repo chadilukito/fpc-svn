@@ -7344,6 +7344,7 @@ rtl/embedded/arm/lm3fury.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=na
 rtl/embedded/arm/lm3tempest.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/lpc1768.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/lpc21x4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/arm/sc32442b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/stm32f103.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega128.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/start.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
