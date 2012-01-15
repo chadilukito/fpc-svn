@@ -1007,6 +1007,7 @@ packages/chm/src/paslzx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/chm/src/paslzxcomp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cocoaint/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/AnonClassDefinitionsCoredata.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/src/AnonClassDefinitionsQuartzcore.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2731,6 +2732,7 @@ packages/fftw/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fftw/src/fftw_s.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpgtk/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpgtk/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpgtk/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpgtk/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpgtk/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpgtk/examples/lister.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2826,6 +2828,7 @@ packages/fv/src/views.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 packages/fv/src/w32smsg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbint/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbint/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gdbint/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbint/examples/mingw.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbint/examples/symify.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gdbint/examples/testgdb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5508,6 +5511,7 @@ packages/nvapi/src svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/nvapi/src/nvapi.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/objcrtl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/objcrtl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/objcrtl/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/objcrtl/examples/objcrtltest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/objcrtl/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/objcrtl/src/objcrtl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5561,6 +5565,7 @@ packages/opencl/src/cl.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nati
 packages/opencl/src/cl_gl.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/opengl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengl/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengl/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengl/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengl/examples/bounce.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5583,6 +5588,7 @@ packages/opengl/src/tinygl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/opengl/src/tinyglh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengles/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengles/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengles/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengles/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengles/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengles/examples/es2example1.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -5591,6 +5597,7 @@ packages/opengles/src/gles11.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/opengles/src/gles20.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/openssl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/openssl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/openssl/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/openssl/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/openssl/examples/test1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/openssl/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5620,6 +5627,7 @@ packages/oracle/src/oro_interface.inc svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/oracle/src/ort.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/os2units/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/examples/clktest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5645,6 +5653,7 @@ packages/os2units/src/sw.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 packages/os2units/src/wpstk.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/palmunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/palmunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/palmunits/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/palmunits/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/palmunits/src/aboutbox.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/palmunits/src/alarmmgr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5750,6 +5759,7 @@ packages/palmunits/src/vfsmgr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/palmunits/src/window.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pasjpeg/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pasjpeg/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pasjpeg/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pasjpeg/examples/cderror.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pasjpeg/examples/cdjpeg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pasjpeg/examples/cjpeg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5879,6 +5889,7 @@ packages/paszlib/src/zstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/paszlib/src/zuncompr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pcap/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pcap/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pcap/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pcap/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pcap/src/pcap.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/postgres/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5905,7 +5916,8 @@ packages/proj4/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/proj4/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/proj4/src/proj.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/Makefile svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/ptc/Makefile.fpc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/Makefile.fpc.fpcmake svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/docs svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native
 packages/ptc/docs/AUTHORS.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/docs/CHANGES.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6125,6 +6137,7 @@ packages/pthreads/src/pthrlinux.inc svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/pthreads/src/pthrsnos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pxlib/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pxlib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pxlib/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pxlib/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pxlib/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pxlib/examples/ppxview.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6143,6 +6156,7 @@ packages/regexpr/src/regex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/regexpr/src/regexpr.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rexx/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rexx/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rexx/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rexx/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rexx/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rexx/examples/backward.fnc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6244,6 +6258,7 @@ packages/tcl/tests/tcl_demo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/tcl/tests/test.tcl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/examples/controldemo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6700,10 +6715,12 @@ packages/univint/src/x509defs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/univint/src/xattr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unixutil/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unixutil/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/unixutil/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unixutil/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unixutil/src/unixutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/unzip/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/src/unzip51g.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/unzip/src/unzipdll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
