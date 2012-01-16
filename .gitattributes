@@ -6760,6 +6760,7 @@ packages/uuid/src/libuuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 packages/uuid/src/macuuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winceunits/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/aygshell.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/bt_api.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winceunits/src/bt_sdp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
