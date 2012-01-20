@@ -5597,6 +5597,7 @@ packages/opengles/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/opengles/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengles/examples/es2example1.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/opengles/examples/glutdemoes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/opengles/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengles/src/gles11.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/opengles/src/gles20.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/openssl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
