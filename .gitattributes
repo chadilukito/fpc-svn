@@ -766,6 +766,7 @@ installer/winshell.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 installer/writeidx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/Makefile.fpc.fpmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/a52/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/a52/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/a52/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
