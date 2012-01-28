@@ -10632,6 +10632,7 @@ tests/test/tobjc35i.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc36.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc36a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc37.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tobjc38.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc4a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
