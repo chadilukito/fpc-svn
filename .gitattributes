@@ -584,6 +584,7 @@ compiler/utils/mk68kreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/utils/mkarmins.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkarmreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkavrreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/utils/mkia64reg.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/utils/mkmpsreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkppcreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkspreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
