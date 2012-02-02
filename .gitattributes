@@ -259,6 +259,7 @@ compiler/mips/ncpuinln.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nat
 compiler/mips/ncpumat.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/mips/ncpuset.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/mips/opcode.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/mips/racpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/rmipscon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/rmipsdwf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
