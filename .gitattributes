@@ -10432,6 +10432,8 @@ tests/test/tgeneric70.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nativ
 tests/test/tgeneric71.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgeneric72.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgeneric73.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tgeneric74.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tgeneric75.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgeneric8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tgeneric9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tgoto.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10924,6 +10926,7 @@ tests/test/udots.prog.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nativ
 tests/test/udots.test.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/uenum2a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uenum2b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/ugeneric.test75.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/ugeneric10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ugeneric14.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ugeneric3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10931,6 +10934,9 @@ tests/test/ugeneric4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ugeneric59a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/ugeneric59b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/ugeneric7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/ugeneric74a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/ugeneric74b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/ugeneric75.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/uhintdir.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uhlp3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/uhlp31.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
