@@ -448,6 +448,7 @@ compiler/ppcgen/ngppccnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/ppcgen/ngppcinl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcgen/ngppcset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcgen/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ppcmips.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcmipsel.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcppc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcsparc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7715,6 +7716,9 @@ rtl/linux/m68k/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 rtl/linux/m68k/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/m68k/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mips/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/mips/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/mips/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/mips/gprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mips/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mips/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mips/sighndh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7722,7 +7726,11 @@ rtl/linux/mips/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mips/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mips/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mips/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/mipsel/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/mipsel/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/mipsel/gprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mipsel/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/mipsel/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/oldlinux.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/osmacro.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7829,13 +7837,17 @@ rtl/macos/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/mips/mipsel.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mips/mips.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mipsel/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mipsel/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mipsel/mips.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mipsel/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mipsel/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/aboxlib.pas svn_mime_002dtype=text%2Fplain
