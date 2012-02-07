@@ -7842,6 +7842,8 @@ rtl/macos/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mips/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mips/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/mips.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
