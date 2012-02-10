@@ -7974,6 +7974,7 @@ rtl/netbsd/powerpc/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 rtl/netbsd/powerpc/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/powerpc/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/powerpc/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/netbsd/pthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/ptypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/signal.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/syscalls.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
