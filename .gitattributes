@@ -8584,7 +8584,6 @@ rtl/x86_64/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/x86_64/strlen.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/x86_64.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
