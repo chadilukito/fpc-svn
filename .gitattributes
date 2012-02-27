@@ -2714,6 +2714,7 @@ packages/fcl-xml/src/xmlconf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/fcl-xml/src/xmliconv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/xmliconv_windows.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/xmlread.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-xml/src/xmlreader.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/xmlstreaming.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/xmlutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/xmlwrite.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
