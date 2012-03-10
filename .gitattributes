@@ -2762,6 +2762,7 @@ packages/fpgtk/src/fpgtkext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/fpgtk/src/pgtk/pgtk.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpindexer/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpindexer/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpindexer/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpindexer/examples/TestDBindexer.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpindexer/examples/TestDBindexer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpindexer/examples/TestIndexer.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
