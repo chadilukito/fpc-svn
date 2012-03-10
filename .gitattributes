@@ -11395,6 +11395,7 @@ tests/webtbf/tw20721b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nativ
 tests/webtbf/tw20721c.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbf/tw20907.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw20907a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbf/tw21078.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw21087.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw2128.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw2129.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
