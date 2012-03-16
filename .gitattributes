@@ -1600,6 +1600,10 @@ packages/cocoaint/utils/uikit-skel/src/opengles/OpenGLES.inc svn_mime_002dtype=t
 packages/cocoaint/utils/uikit-skel/src/patches/NSObjCRuntime.patch svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/uikit-skel/src/quartzcore/QuartzCore.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cocoaint/utils/uikit-skel/src/uikit/UIKit.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/dblib/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/dblib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/dblib/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/dblib/src/dblib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/dbus/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/dbus/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/dbus/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1930,6 +1934,12 @@ packages/fcl-db/src/sqldb/interbase/Makefile.fpc svn_mime_002dtype=text%2Fplain 
 packages/fcl-db/src/sqldb/interbase/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/interbase/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/interbase/ibconnection.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/sqldb/mssql/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/sqldb/mssql/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/sqldb/mssql/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/sqldb/mssql/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/sqldb/mssql/mssqlconn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/sqldb/mssql/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/mysql/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/mysql/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/mysql/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
