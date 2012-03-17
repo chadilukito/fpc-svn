@@ -1949,6 +1949,7 @@ packages/fcl-db/src/sqldb/mysql/mysql41conn.pas svn_mime_002dtype=text%2Fplain s
 packages/fcl-db/src/sqldb/mysql/mysql4conn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/mysql/mysql50conn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/mysql/mysql51conn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/sqldb/mysql/mysql55conn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/mysql/mysqlconn.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/odbc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/odbc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5304,6 +5305,8 @@ packages/mysql/src/mysql50dyn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/mysql/src/mysql51.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/src/mysql51dyn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/src/mysql51emb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/mysql/src/mysql55.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/mysql/src/mysql55dyn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
