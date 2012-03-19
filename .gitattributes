@@ -10077,6 +10077,7 @@ tests/test/packages/cocoaint/tw20876.pp svn_mime_002dtype=text%2Fplain svn_eol_0
 tests/test/packages/cocoaint/uw20875a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/cocoaint/uw20875b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-base/tascii85.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/packages/fcl-base/testuri.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-base/tgettext1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-db/assertions.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/fcl-db/dbftoolsunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
