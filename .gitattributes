@@ -1782,6 +1782,8 @@ packages/fcl-base/src/win/fclel.res svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-base/src/win/fileinfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/wince/fileinfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/wtex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/tests/fclbase-unittests.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/tests/tests_fptemplate.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/texts/fptemplate.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
