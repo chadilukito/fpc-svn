@@ -13364,6 +13364,7 @@ utils/fppkg/examples/rep2xml.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 utils/fppkg/examples/rep2xml.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/examples/testdownload.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/examples/testrep.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fppkg/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fppkg.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/fppkg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/lnet/fastcgi_base.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
