@@ -13358,6 +13358,7 @@ utils/fpmc/msgcomp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpmc/readmsg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fppkg/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/examples/pkglibcurl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fppkg/examples/pkgocurl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
