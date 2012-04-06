@@ -13284,6 +13284,7 @@ utils/fpcm/fpcmdic.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/fpcmmain.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/fpcmpkg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/fpcmwr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcm/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/printmakefilefpcrequirements.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcmkcfg/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -13442,6 +13443,7 @@ utils/h2pas/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/converu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/h2pas/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/h2pas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/h2pas.y svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/h2paspp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -13560,6 +13562,7 @@ utils/tply/COPYING.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/tply/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/lexbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/lexdfa.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/lexlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
