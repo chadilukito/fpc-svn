@@ -13275,6 +13275,7 @@ utils/dxegen/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/dxegen/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/dxegen/coff.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/dxegen/dxegen.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/dxegen/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/fpcmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -13298,12 +13299,14 @@ utils/fpcmkcfg/fpcmkcfg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 utils/fpcmkcfg/fpinc.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcmkcfg/fpinc.ini svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcmkcfg/fpini.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcmkcfg/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcmkcfg/fppkg.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcmkcfg/fppkg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcres/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcres/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcres/closablefilestream.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcres/fpcres.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcres/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcres/msghandler.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcres/paramparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcres/sourcehandler.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -13352,6 +13355,7 @@ utils/fpdoc/fpdoc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpdoc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpdocproj.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpdocxmlopts.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/intl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/intl/dglobals.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/intl/dglobals.sk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -13376,10 +13380,14 @@ utils/fpgmake/fpmake.cft svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpgmake/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpgmake/fpmakecreatefile.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpgmake/fpmakeparsejson.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpmake_add.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpmake_proc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpmc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpmc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpmc/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpmc/dumpfile.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpmc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpmc/fpmc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpmc/fpmcgtk.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpmc/frmabout.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -13437,6 +13445,7 @@ utils/fprcp/Readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fprcp/comments.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fprcp/demo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fprcp/expr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fprcp/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fprcp/fprcp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fprcp/pasprep.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -13454,6 +13463,7 @@ utils/h2pas/scan.l svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/scan.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/importtl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/importtl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/importtl/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/importtl/importtl.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/importtl/importtl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/instantfpc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -13464,6 +13474,7 @@ utils/instantfpc/examples/exitcode.pas svn_mime_002dtype=text%2Fplain svn_eol_00
 utils/instantfpc/examples/getworkingdirectory.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/instantfpc/examples/helloworld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/instantfpc/examples/writeparameters.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/instantfpc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/instantfpc/instantfpc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/instantfpc/instantfpc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/instantfpc/instantfptools.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -13484,6 +13495,7 @@ utils/ptopu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/rmcvsdir.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/rmwait/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/rmwait/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/rmwait/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/rmwait/rmwait.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/rstconv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/sim_pasc/Answers svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
