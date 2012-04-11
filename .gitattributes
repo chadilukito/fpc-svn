@@ -8490,6 +8490,7 @@ rtl/unix/initc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/ipc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/ipccdecl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/keyboard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/unix/lnfogdb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/mouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/oscdecl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/oscdeclh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
