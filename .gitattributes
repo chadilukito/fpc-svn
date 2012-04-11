@@ -7259,6 +7259,7 @@ rtl/COPYING.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aix/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aix/clocale.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aix/dlaix.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
