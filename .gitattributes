@@ -2316,6 +2316,7 @@ packages/fcl-res/src/versionconsts.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/fcl-res/src/versionresource.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-res/src/versiontypes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-res/src/winpeimagereader.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-res/src/xcoffwriter.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-res/xml/acceleratorsresource.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-res/xml/bitmapresource.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-res/xml/clean.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
