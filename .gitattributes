@@ -8476,6 +8476,7 @@ rtl/unix/convert.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/cthreads.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/ctypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/unix/cwstraix.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/cwstring.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/dl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
