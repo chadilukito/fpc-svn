@@ -7256,6 +7256,29 @@ rtl/COPYING.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/clocale.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/dlaix.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/errnostr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/osmacro.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/ostypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/pthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/ptypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/sighndh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/signal.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/suuid.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/termio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/termios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aix/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 rtl/amiga/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 rtl/amiga/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
