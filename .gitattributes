@@ -91,6 +91,7 @@ compiler/avr/cpunode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/cpupara.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/cpupi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/cputarg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/hlcgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/navradd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/navrcnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
