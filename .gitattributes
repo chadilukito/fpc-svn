@@ -5213,10 +5213,10 @@ packages/libxml/src/encoding.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/libxml/src/entities.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/globals.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/hash.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libxml/src/libxmlparser.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/list.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/nanoftp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/nanohttp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libxml/src/parser.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/parserInternals.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/pattern.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/src/relaxng.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
