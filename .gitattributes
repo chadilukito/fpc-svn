@@ -8500,6 +8500,7 @@ rtl/unix/oscdecl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/oscdeclh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/ports.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/printer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/unix/scripts/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/serial.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/settimeo.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
