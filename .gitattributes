@@ -7795,6 +7795,7 @@ rtl/linux/mips/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mips/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mips/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mips/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/mipsel/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mipsel/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mipsel/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mipsel/gprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7919,11 +7920,17 @@ rtl/mips/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mipsel/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mipsel/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mipsel/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mipsel/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mipsel/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mipsel/mips.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mipsel/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mipsel/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mipsel/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mipsel/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/mipsel/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/aboxlib.pas svn_mime_002dtype=text%2Fplain
