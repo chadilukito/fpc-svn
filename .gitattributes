@@ -10137,6 +10137,8 @@ tests/test/opt/twpo5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/twpo6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/twpo7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/uwpo2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/packages/bzip2/tbzip2streamtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/packages/bzip2/testbzip2.res svn_mime_002dtype=application%2Foctet-stream
 tests/test/packages/cocoaint/tobjc33.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/cocoaint/tobjc33a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/cocoaint/tobjcnh1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
