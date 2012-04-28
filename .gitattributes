@@ -116,6 +116,7 @@ compiler/cfidwarf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cfileutl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cg64f32.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cgbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/cghlcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cgobj.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cgutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cmsgs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
