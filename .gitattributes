@@ -319,6 +319,8 @@ compiler/mips/rmipssta.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/mips/rmipsstd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/rmipssup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/strinst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/mipsel svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+compiler/mipsel/lazbuild svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 compiler/msg/errorct.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msg/errord.msg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/msg/errorda.msg svn_mime_002dtype=text%2Fplain svn_keywords=Rev+Date svn_eol_002dstyle=native
