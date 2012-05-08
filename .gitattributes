@@ -2054,6 +2054,8 @@ packages/fcl-db/tests/dbfexporttest.lpr svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/fcl-db/tests/dbfexporttestcase1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/dbftoolsunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/dbtestframework.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/tests/dbtestframework_gui.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/tests/dbtestframework_gui.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/memdstoolsunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/sdfdstoolsunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/sqldbtoolsunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
