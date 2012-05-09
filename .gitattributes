@@ -10641,6 +10641,7 @@ tests/test/terecs10.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/terecs11.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/terecs12.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/terecs13.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/terecs14.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/terecs2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/terecs3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/terecs4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
