@@ -1997,6 +1997,7 @@ packages/fcl-db/src/sqldb/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/fcl-db/src/sqldb/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/interbase/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/interbase/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/sqldb/interbase/fbadmin.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/interbase/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/interbase/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/interbase/ibconnection.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
