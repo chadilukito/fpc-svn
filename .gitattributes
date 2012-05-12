@@ -10537,6 +10537,7 @@ tests/test/tclass12d.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tclass13.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclass13a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tclass13b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tclass13c.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclass14a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclass14b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclass15.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
