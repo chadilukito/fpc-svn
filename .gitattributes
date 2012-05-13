@@ -497,6 +497,7 @@ compiler/ppcavr.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcgen/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcgen/agppcgas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcgen/cgppc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ppcgen/hlcgppc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcgen/ngppcadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcgen/ngppccnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcgen/ngppcinl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
