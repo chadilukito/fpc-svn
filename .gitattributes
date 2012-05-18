@@ -1855,6 +1855,7 @@ packages/fcl-db/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 packages/fcl-db/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/fbadmindemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/fbeventstest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/examples/pqeventstest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/Dataset.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2031,6 +2032,7 @@ packages/fcl-db/src/sqldb/postgres/Makefile.fpc svn_mime_002dtype=text%2Fplain s
 packages/fcl-db/src/sqldb/postgres/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/postgres/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/postgres/pqconnection.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/sqldb/postgres/pqeventmonitor.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/readme.txt svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/sqldb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/sqlite/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
