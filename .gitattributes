@@ -10891,6 +10891,7 @@ tests/test/tisogoto1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tisogoto2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tisogoto3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tisogoto4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tisogoto5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tlib1a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tlib1b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tlib2a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
