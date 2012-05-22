@@ -10620,7 +10620,6 @@ tests/test/tdefault12.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nativ
 tests/test/tdefault13.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tdefault14.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tdefault15.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-tests/test/tdefault16.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tdefault2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tdefault3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tdefault4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
