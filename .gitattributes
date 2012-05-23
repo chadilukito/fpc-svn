@@ -8189,6 +8189,11 @@ rtl/netbsd/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/unxsysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/netbsd/x86_64/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/netbsd/x86_64/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/netbsd/x86_64/gprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/netbsd/x86_64/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/netbsd/x86_64/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
