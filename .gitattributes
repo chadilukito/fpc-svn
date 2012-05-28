@@ -11542,6 +11542,7 @@ tests/units/win32err.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/bench.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/utils/concat.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/dbdigest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/dbtests.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/digest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
