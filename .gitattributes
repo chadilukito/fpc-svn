@@ -8119,6 +8119,7 @@ rtl/nativent/ndk/ketypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 rtl/nativent/ndk/ntdef.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nativent/ndk/ntstatus.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nativent/ndk/obfuncs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nativent/ndk/obtypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nativent/ndk/peb_teb.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nativent/ndk/pstypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nativent/ndk/rtlfuncs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
