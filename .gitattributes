@@ -11492,6 +11492,7 @@ tests/test/units/sysutils/tencodingerrors.pp svn_mime_002dtype=text%2Fpascal svn
 tests/test/units/sysutils/tencodingtest.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/sysutils/texec1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/texec2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/sysutils/texpfncase.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/textractquote.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/tfile1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/tfile2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
