@@ -11530,11 +11530,11 @@ tests/test/uunit2b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uunit3a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uunit3b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uunit3c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/units/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/units/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/units/erroru.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/units/popuperr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/units/win32err.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/tstunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/tstunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/tstunits/erroru.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/tstunits/popuperr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/tstunits/win32err.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/bench.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -11545,6 +11545,7 @@ tests/utils/digest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/dotest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/fail.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/fptime.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/utils/gparmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/libtar.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/macos/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/prepup.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
