@@ -2164,6 +2164,7 @@ packages/fcl-image/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/fcl-image/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/drawing.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/imgconv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/examples/interpoldemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/xwdtobmp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/bmpcomn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
