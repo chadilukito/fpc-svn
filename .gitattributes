@@ -12663,6 +12663,7 @@ tests/webtbs/tw20874b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nativ
 tests/webtbs/tw20889.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw20909.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw20940.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/webtbs/tw20947.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw20962.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw20995a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw20995b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
