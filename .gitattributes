@@ -2178,6 +2178,7 @@ packages/fcl-image/src/fpcdrawh.inc svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/fcl-image/src/fpcolcnv.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpcolhash.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpcolors.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/src/fpcompactimg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpditherer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpfont.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fphandler.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
