@@ -10807,6 +10807,9 @@ tests/test/tgeneric77.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nativ
 tests/test/tgeneric78.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgeneric79.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgeneric8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tgeneric80.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tgeneric81.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tgeneric82.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgeneric9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tgoto.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/theap.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -11737,6 +11740,7 @@ tests/webtbf/tw21566.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbf/tw2174.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw21873.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw2209.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbf/tw22219.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbf/tw2242.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw2273.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw2281.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
