@@ -7868,6 +7868,7 @@ rtl/linux/arm/ucprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/buildrtl.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/buildrtl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/bunxsysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/errno-mips.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/errno-sparc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/errnostr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
