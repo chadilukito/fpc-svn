@@ -7409,6 +7409,9 @@ rtl/android/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/arm/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/arm/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/arm/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/android/i386/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/android/i386/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/android/i386/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/jvm/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/jvm/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/jvm/androidr14.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
