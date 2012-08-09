@@ -7883,10 +7883,8 @@ rtl/linux/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/gpm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/linux/i386/cprt21.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/gprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/linux/i386/gprt21.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/si_c.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/si_c21.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
