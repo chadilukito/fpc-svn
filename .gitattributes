@@ -2071,6 +2071,7 @@ packages/fcl-db/tests/sdfdstoolsunit.pas svn_mime_002dtype=text%2Fplain svn_eol_
 packages/fcl-db/tests/sqldbtoolsunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/tcgensql.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/tcparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/tests/tcsdfdata.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/tcsqlscanner.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/test.json svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/testbasics.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
