@@ -13986,6 +13986,10 @@ utils/mksymbian/mksymbian.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 utils/mksymbian/mksymbian.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/mksymbian/projectparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/mksymbian/sdkutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/pas2ut/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/pas2ut/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/pas2ut/pas2ut.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/pas2ut/pas2ut.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/postw32.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/ppdep.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/ptop.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
