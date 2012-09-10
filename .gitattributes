@@ -8675,6 +8675,7 @@ rtl/unix/serial.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/settimeo.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/syscall.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/unix/syscgen.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
