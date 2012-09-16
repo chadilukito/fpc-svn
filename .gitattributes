@@ -2453,9 +2453,7 @@ packages/fcl-sdo/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/fcl-sdo/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-sdo/examples/changes-summary/project.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-sdo/examples/changes-summary2/out.xsd svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-sdo/examples/changes-summary2/project svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-sdo/examples/changes-summary2/project.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-sdo/examples/load-embedded-schema/project svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-sdo/examples/load-embedded-schema/project.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-sdo/examples/simple/simple.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-sdo/examples/xsd2pas/xsd2pas.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
