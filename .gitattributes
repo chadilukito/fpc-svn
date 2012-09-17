@@ -8747,6 +8747,7 @@ rtl/unix/syscgen.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/unix/sysunix.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/unix/sysunixh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/terminfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
