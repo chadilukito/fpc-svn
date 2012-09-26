@@ -11142,6 +11142,7 @@ tests/test/tobject5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tobject6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobject7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobject8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tobject9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/toperator1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/toperator10.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/toperator11.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
