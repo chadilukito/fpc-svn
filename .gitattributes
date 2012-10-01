@@ -10996,6 +10996,7 @@ tests/test/tintfcdecl1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/tintfcdecl2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tintfdef.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tintuint.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tisobuf1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tisogoto1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tisogoto2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tisogoto3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
