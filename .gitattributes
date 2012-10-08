@@ -2051,6 +2051,7 @@ packages/fcl-db/src/sqldb/sqldb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/fcl-db/src/sqldb/sqldblib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/sqlite/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/sqlite/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/sqldb/sqlite/sqlite3backup.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/sqlite/sqlite3conn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/testsqldb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqlite/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2062,7 +2063,6 @@ packages/fcl-db/src/sqlite/customsqliteds.pas svn_mime_002dtype=text%2Fplain svn
 packages/fcl-db/src/sqlite/fillds.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqlite/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqlite/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-db/src/sqlite/sqlite3backup.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqlite/sqlite3ds.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqlite/sqliteds.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqlite/testds.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
