@@ -10459,6 +10459,7 @@ tests/test/packages/fcl-xml/tw22495.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 tests/test/packages/fcl-xml/uw22495.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/hash/sha1test.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/hash/tmdtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/packages/univint/tcgrectmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/webtbs/tw10045.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/webtbs/tw11142.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/webtbs/tw11570.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
