@@ -5099,6 +5099,7 @@ packages/libndsfpc/src/nds/input.inc svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/libndsfpc/src/nds/interrupts.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/ipc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/jtypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/libversion.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/memory.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/nds.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/ndsinclude.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
