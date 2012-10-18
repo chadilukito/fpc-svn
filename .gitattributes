@@ -8115,6 +8115,8 @@ rtl/m68k/lowmath.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/m68k.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/m68k/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/m68k/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
