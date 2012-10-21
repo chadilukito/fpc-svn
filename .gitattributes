@@ -10386,6 +10386,7 @@ tests/test/jvm/tstring9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 tests/test/jvm/tstrreal1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tstrreal2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tthreadvar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/jvm/ttincdec.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/ttrig.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/ttrunc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tval.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
