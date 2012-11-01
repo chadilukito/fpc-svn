@@ -6551,6 +6551,8 @@ packages/univint/src/AppleScript.pas svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/univint/src/AudioCodecs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/AudioComponents.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/AudioHardware.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/AudioHardwareBase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/AudioHardwareDeprecated.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/AudioOutputUnit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/AudioUnitCarbonViews.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/AudioUnitParameters.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6634,6 +6636,7 @@ packages/univint/src/CGGeometry.pas svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/univint/src/CGGradient.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CGImage.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CGImageDestination.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CGImageMetadata.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CGImageProperties.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CGImageSource.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CGLCurrent.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6665,6 +6668,7 @@ packages/univint/src/CGWindowLevels.pas svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/univint/src/CMCalibrator.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CSIdentity.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CSIdentityAuthority.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CSIdentityBase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CSIdentityQuery.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CTFont.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CTFontCollection.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6691,9 +6695,11 @@ packages/univint/src/CVOpenGLBufferPool.pas svn_mime_002dtype=text%2Fplain svn_e
 packages/univint/src/CVOpenGLTexture.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CVOpenGLTextureCache.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CVPixelBuffer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CVPixelBufferIOSurface.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CVPixelBufferPool.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CVPixelFormatDescription.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CVReturns.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CaptiveNetwork.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CarbonEvents.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CarbonEventsCore.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CodeFragments.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6719,6 +6725,7 @@ packages/univint/src/DateTimeUtils.pas svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/univint/src/Debugging.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/Dialogs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/Dictionary.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/DictionaryServices.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/DigitalHubRegistry.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/Displays.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/Drag.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6866,6 +6873,7 @@ packages/univint/src/QDOffscreen.pas svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/univint/src/QDPictToCGContext.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/QLBase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/QLGenerator.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/QLThumbnail.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/QLThumbnailImage.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/QTML.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/QTSMovie.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
