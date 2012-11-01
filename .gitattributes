@@ -6,7 +6,13 @@ compiler/COPYING.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/aarch64/a64att.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/aarch64/a64atts.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/aarch64/a64ins.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/aarch64/a64nop.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/aarch64/a64op.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/a64reg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
+compiler/aarch64/a64tab.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/ra64con.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/ra64dwa.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -663,6 +669,7 @@ compiler/utils/fpimpdef.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/utils/gia64reg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/gppc386.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mk68kreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/utils/mka64ins.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mka64reg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkarmins.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkarmreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
