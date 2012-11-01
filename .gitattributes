@@ -13,6 +13,7 @@ compiler/aarch64/a64nop.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 compiler/aarch64/a64op.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/a64reg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
 compiler/aarch64/a64tab.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/aarch64/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/ra64con.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/ra64dwa.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
