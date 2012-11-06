@@ -5383,6 +5383,15 @@ packages/libsee/examples/tlibsee.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/libsee/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libsee/src/libsee.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libsee/src/libseewrap.c svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libvlc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libvlc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libvlc/example/testvlc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libvlc/example/testvlc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libvlc/example/tvlc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libvlc/example/tvlc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libvlc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libvlc/src/libvlc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libvlc/src/vlc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libxml/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
