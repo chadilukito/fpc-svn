@@ -2489,6 +2489,7 @@ packages/fcl-sdo/examples/load-embedded-schema/project.pas svn_mime_002dtype=tex
 packages/fcl-sdo/examples/simple/simple.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-sdo/examples/xsd2pas/xsd2pas.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-sdo/examples/xsd2pas/xsd2pas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-sdo/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-sdo/src/base/pas_generator.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-sdo/src/base/sdo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-sdo/src/base/sdo_binary_streamer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
