@@ -6208,6 +6208,7 @@ packages/ptc/examples/image.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/ptc/examples/image.tga svnc_mime_002dtype=binary svn_mime_002dtype=application%2Foctet-stream
 packages/ptc/examples/keyboard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/examples/keyboard2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/keyboard3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/examples/land.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/examples/lights.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/examples/modes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6216,6 +6217,8 @@ packages/ptc/examples/mojo.raw svnc_mime_002dtype=binary svn_mime_002dtype=raw%2
 packages/ptc/examples/mouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/examples/palette.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/examples/pixel.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/ptcgl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/examples/ptcgl2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/examples/random.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/examples/save.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/examples/stretch.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6287,6 +6290,8 @@ packages/ptc/src/core/moded.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002d
 packages/ptc/src/core/modei.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/core/mouseeventd.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/core/mouseeventi.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/src/core/openglattributesd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/src/core/openglattributesi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/core/paletted.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/core/palettei.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/core/surfaced.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6351,8 +6356,14 @@ packages/ptc/src/win32/directx/primaryd.inc svn_mime_002dtype=text%2Fplain svn_e
 packages/ptc/src/win32/directx/translate.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/win32/gdi/gdiconsoled.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/win32/gdi/gdiconsolei.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/src/win32/gdi/gdihookd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/src/win32/gdi/gdihooki.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/win32/gdi/win32dibd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/win32/gdi/win32dibi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/src/win32/gdi/win32modesetterd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/src/win32/gdi/win32modesetteri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/src/win32/gdi/win32openglwindowd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/src/win32/gdi/win32openglwindowi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/wince/base/wincekeyboardd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/wince/base/wincekeyboardi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/wince/base/wincemoused.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6370,6 +6381,8 @@ packages/ptc/src/wince/gdi/wincegdiconsolei.inc svn_mime_002dtype=text%2Fplain s
 packages/ptc/src/wince/includes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/x11/check.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/x11/extensions.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/src/x11/glxfbconfigd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/src/x11/glxfbconfigi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/x11/includes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/x11/x11consoled.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/x11/x11consolei.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
