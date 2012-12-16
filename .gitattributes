@@ -523,6 +523,7 @@ compiler/pp.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pparautl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppc68k.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ppcaarch64.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcarm.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcavr.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcgen/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
