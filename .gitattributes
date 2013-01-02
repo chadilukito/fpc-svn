@@ -7738,6 +7738,7 @@ rtl/embedded/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/sysutils.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/emx/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/emx/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/emx/crt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
