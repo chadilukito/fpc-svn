@@ -11189,7 +11189,8 @@ tests/test/tmaclocalprocparam4e.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 tests/test/tmaclocalprocparam4f.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmaclocalprocparam4g.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmaclocalprocparam4h.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/test/tmacnonlocalexit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tmacnonlocalexit1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tmacnonlocalexit2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tmacnonlocalgoto.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmacpas1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmacpas2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
