@@ -1853,6 +1853,7 @@ packages/fcl-base/src/contnrs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/fcl-base/src/custapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/dummy/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/eventlog.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/src/fileinfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/fpexprpars.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/fpmimetypes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/fpobserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1884,7 +1885,6 @@ packages/fcl-base/src/wformat.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/fcl-base/src/whtml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/win/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/win/fclel.res svn_mime_002dtype=application%2Foctet-stream
-packages/fcl-base/src/win/fileinfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/wince/fileinfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/wtex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/tests/fclbase-unittests.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
