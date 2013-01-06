@@ -1832,6 +1832,8 @@ packages/fcl-base/examples/testsres.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-base/examples/testtimer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/testunzip.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/testur.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/examples/testver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/examples/testver.res svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-base/examples/testweb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/testz.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/testz2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
