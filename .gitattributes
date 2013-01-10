@@ -1781,6 +1781,8 @@ packages/fcl-base/examples/fstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/fcl-base/examples/htdump.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/intl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/intl/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/examples/intl/restest.cs.mo svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-base/examples/intl/restest.cs.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/intl/restest.de.mo svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-base/examples/intl/restest.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/intl/restest.fr.mo svn_mime_002dtype=application%2Foctet-stream
