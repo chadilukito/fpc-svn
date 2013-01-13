@@ -73,6 +73,7 @@ compiler/arm/armreg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native 
 compiler/arm/armtab.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/cgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/arm/cpuelf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/cpunode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/cpupara.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -318,6 +319,7 @@ compiler/mips/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/mips/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/cgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/mips/cpuelf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/cpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/mips/cpunode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
