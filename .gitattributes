@@ -2596,6 +2596,7 @@ packages/fcl-stl/src/gpriorityqueue.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-stl/src/gqueue.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/src/gset.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/src/gstack.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-stl/src/gtree.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/src/gutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/src/gvector.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/clean svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2611,6 +2612,7 @@ packages/fcl-stl/tests/gqueuetest.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/fcl-stl/tests/gsetrefcounttest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/gsettest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/gstacktest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-stl/tests/gtreetest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/gvectortest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/run-all-tests svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/tests/suiteconfig.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10073,6 +10075,20 @@ tests/test/cg/obj/linux/i386/tcext4.o svn_mime_002dtype=application%2Foctet-stre
 tests/test/cg/obj/linux/i386/tcext5.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/i386/tcext6.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/m68k/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/mips/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/mips/cpptcl2.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/mips/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/mips/tcext3.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/mips/tcext4.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/mips/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/mips/tcext6.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/mipsel/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/mipsel/cpptcl2.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/mipsel/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/mipsel/tcext3.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/mipsel/tcext4.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/mipsel/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/mipsel/tcext6.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/powerpc/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/powerpc/cpptcl2.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/powerpc/ctest.o svn_mime_002dtype=application%2Foctet-stream
@@ -10901,10 +10917,22 @@ tests/test/terecs1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/terecs10.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/terecs11.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/terecs12.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/terecs12a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/terecs12b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/terecs12c.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/terecs12d.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/terecs13.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/terecs13a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/terecs13b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/terecs13c.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/terecs13d.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/terecs14.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/terecs15.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/terecs16.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/terecs17.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/terecs17a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/terecs18.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/terecs18a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/terecs2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/terecs3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/terecs4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -11553,6 +11581,7 @@ tests/test/trhlp41.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/trhlp42.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/trhlp43.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/trhlp44.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/trhlp45.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/trhlp5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/trhlp6.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/trhlp7.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -13007,6 +13036,7 @@ tests/webtbs/tw1931.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw1932.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw19325.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw1935.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw19357.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw1936.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw19368.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw1938.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -13216,6 +13246,7 @@ tests/webtbs/tw2305.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2306.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2307.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2311.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw23130.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw23136.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw2317.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2318.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
