@@ -11108,6 +11108,7 @@ tests/test/tgeneric9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tgeneric90.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgeneric91.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgeneric92.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tgeneric93.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgoto.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/theap.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/theapthread.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -11704,6 +11705,8 @@ tests/test/ugeneric74b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nati
 tests/test/ugeneric75.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/ugeneric91a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/ugeneric91b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/ugeneric93a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/ugeneric93b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/uhintdir.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uhlp3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/uhlp31.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
