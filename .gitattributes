@@ -612,6 +612,7 @@ compiler/systems.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_aix.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_amiga.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/systems/i_android.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_atari.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_beos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_bsd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -639,6 +640,7 @@ compiler/systems/i_win.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/systems/mac_crea.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_aix.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_amiga.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/systems/t_android.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_atari.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_beos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_bsd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7596,6 +7598,13 @@ rtl/amiga/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_
 rtl/amiga/timerd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 rtl/amiga/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/android/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/android/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/android/arm/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/android/arm/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/android/cwstring.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/android/i386/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/android/i386/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/jvm/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/jvm/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/jvm/androidr14.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9955,6 +9964,24 @@ tests/test/cg/obj/aix/powerpc64/tcext4.o svn_mime_002dtype=application%2Foctet-s
 tests/test/cg/obj/aix/powerpc64/tcext5.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/aix/powerpc64/tcext6.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/amiga/m68k/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+tests/test/cg/obj/android/arm svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+tests/test/cg/obj/android/arm-eabi svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+tests/test/cg/obj/android/arm-eabi/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/arm-eabi/cpptcl2.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/arm-eabi/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/arm-eabi/tcext3.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/arm-eabi/tcext4.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/arm-eabi/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/arm-eabi/tcext6.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/arm/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/arm/cpptcl2.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/arm/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/arm/tcext3.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/arm/tcext4.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/arm/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/arm/tcext6.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/i386 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 tests/test/cg/obj/beos/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/beos/i386/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/beos/i386/tcext4.o svn_mime_002dtype=application%2Foctet-stream
@@ -11961,6 +11988,7 @@ tests/test/uunit2b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uunit3a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uunit3b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uunit3c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/tstunits/MPWMake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tstunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tstunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tstunits/erroru.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
