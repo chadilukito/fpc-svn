@@ -9982,6 +9982,13 @@ tests/test/cg/obj/android/arm/tcext4.o svn_mime_002dtype=application%2Foctet-str
 tests/test/cg/obj/android/arm/tcext5.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/android/arm/tcext6.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/android/i386 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+tests/test/cg/obj/android/i386/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/i386/cpptcl2.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/i386/tcext3.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/i386/tcext4.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/i386/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/i386/tcext6.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/beos/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/beos/i386/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/beos/i386/tcext4.o svn_mime_002dtype=application%2Foctet-stream
