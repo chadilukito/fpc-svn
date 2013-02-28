@@ -8854,7 +8854,6 @@ rtl/unix/syscgen.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/unix/sysunix.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/unix/sysunixh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/terminfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8863,6 +8862,7 @@ rtl/unix/timezone.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/ttyname.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unix.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/unix/unixcp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unixsockets.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unixtype.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unixutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8871,7 +8871,6 @@ rtl/unix/unxovl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unxovlh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/unix/winiconv.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/x86.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/watcom/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/watcom/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
