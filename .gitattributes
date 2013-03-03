@@ -7626,6 +7626,7 @@ rtl/arm/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/arm/thumb.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/thumb2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/atari/os.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/atari/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
