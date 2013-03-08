@@ -236,8 +236,14 @@ compiler/i386/ra386att.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/i386/ra386int.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/rropt386.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i8086/cgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/cpubase.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i8086/cpunode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i8086/cpupara.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i8086/cpupi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i8086/cputarg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i8086/hlcgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/i386att.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/i386atts.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/i386int.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -261,6 +267,9 @@ compiler/i8086/r386rni.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/i8086/r386sri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/r386stab.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/r386std.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i8086/ra8086att.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i8086/ra8086int.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i8086/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ia64/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ia64/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ia64/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
