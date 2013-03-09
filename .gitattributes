@@ -14580,6 +14580,7 @@ utils/unicode/data/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 utils/unicode/grbtree.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 utils/unicode/helper.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 utils/unicode/parse-collations.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/unicode/parse-collations.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/unicode/trie.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 utils/unicode/uca_test.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 utils/unicode/unicodeset.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
