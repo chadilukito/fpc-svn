@@ -7733,8 +7733,10 @@ rtl/embedded/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 rtl/embedded/arm svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 rtl/embedded/arm/at91sam7x256.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/arm/cortexm3_start.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/embedded/arm/cortexm4f_start.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/lm3fury.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/lm3tempest.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/embedded/arm/lm4f120.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/lpc1343.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/lpc1768.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/lpc21x4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
