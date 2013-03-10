@@ -7732,7 +7732,9 @@ rtl/embedded/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/arm svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 rtl/embedded/arm/at91sam7x256.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/arm/cortexm3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/cortexm3_start.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/embedded/arm/cortexm4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/cortexm4f_start.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/lm3fury.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/lm3tempest.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -7746,6 +7748,7 @@ rtl/embedded/arm/stm32f10x_hd.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dsty
 rtl/embedded/arm/stm32f10x_ld.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/stm32f10x_md.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/stm32f10x_xl.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/embedded/arm/xmc4500.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega128.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/start.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/buildrtl.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
