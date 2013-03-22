@@ -14241,6 +14241,7 @@ utils/fpcm/fpcmmain.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/fpcmpkg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/fpcmwr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcm/get_revision.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/printmakefilefpcrequirements.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcmkcfg/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
