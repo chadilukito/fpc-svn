@@ -8380,6 +8380,7 @@ rtl/morphos/videodata.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 rtl/msdos/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/prt0.asm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/msdos/registers.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
