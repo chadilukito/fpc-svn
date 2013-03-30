@@ -7971,7 +7971,6 @@ rtl/i8086/i8086.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/i8086/nearheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8061,6 +8060,7 @@ rtl/inc/textrec.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/thread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/threadh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/threadvr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/tinyheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/typefile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/ucomplex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/ufloat128.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
