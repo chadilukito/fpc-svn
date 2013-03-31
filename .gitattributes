@@ -12095,6 +12095,10 @@ tests/utils/concat.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/dbdigest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/dbtests.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/digest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/utils/dosbox/dosbox.conf svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/utils/dosbox/dosbox_wrapper.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/utils/dosbox/exitcode.exe svn_mime_002dtype=application%2Fx-dosexec
+tests/utils/dosbox/exitcode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/dotest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/fail.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/fptime.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
