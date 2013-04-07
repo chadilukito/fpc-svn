@@ -14329,6 +14329,8 @@ utils/fpdoc/fpdoc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpdoc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpdocclasstree.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpdocproj.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/fpdocstripper.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/fpdocstripper.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpdocxmlopts.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/images/minus.png svn_mime_002dtype=image%2Fpng
