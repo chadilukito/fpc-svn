@@ -1057,6 +1057,7 @@ packages/bzip2/src/bzip2stream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/cairo/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cairo/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cairo/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/cairo/examples/getversion.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/cairo/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cairo/src/cairo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/cairo/src/cairoft.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
