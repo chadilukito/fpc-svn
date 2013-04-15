@@ -11774,6 +11774,12 @@ tests/test/ttypedrecord1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 tests/test/ttypedrecord2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ttypedrecord3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ttypedrecord4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tudots.dot.next.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tudots.dot.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tudots.dot.prog.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tudots.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tudots.prog.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tudots.test.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tunaligned1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunistr1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunistr2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -11814,12 +11820,6 @@ tests/test/twrstr8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uabstrcl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uchlp12.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/uchlp18.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-tests/test/udots.dot.next.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-tests/test/udots.dot.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-tests/test/udots.dot.prog.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-tests/test/udots.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-tests/test/udots.prog.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-tests/test/udots.test.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/uenum2a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uenum2b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ugenconstraints.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
