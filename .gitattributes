@@ -1868,7 +1868,6 @@ packages/fcl-base/src/idea.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/fcl-base/src/inicol.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/inifiles.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/iostream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-base/src/libtar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/maskutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/netware/custapp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/netwlibc/custapp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6184,6 +6183,7 @@ packages/paszlib/src/infcodes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/paszlib/src/inffast.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/src/inftrees.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/src/infutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/paszlib/src/libtar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/src/paszlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/src/trees.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/src/unzip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
