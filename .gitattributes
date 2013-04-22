@@ -693,6 +693,8 @@ compiler/utils/msgdif.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/msgused.pl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/ppudump svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 compiler/utils/ppudump/ppudump.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/utils/ppudump/ppujson.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/utils/ppudump/ppuout.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/ppufiles.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/ppumove.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/samplecfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
