@@ -5436,6 +5436,10 @@ packages/libsee/examples/tlibsee.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/libsee/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libsee/src/libsee.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libsee/src/libseewrap.c svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libtar/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libtar/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libtar/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libtar/src/libtar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libvlc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libvlc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libvlc/example/testvlc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6186,7 +6190,6 @@ packages/paszlib/src/infcodes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/paszlib/src/inffast.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/src/inftrees.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/src/infutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/paszlib/src/libtar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/src/paszlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/src/trees.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/src/unzip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
