@@ -2530,6 +2530,7 @@ packages/fcl-res/xml/versionconsts.xml svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-res/xml/versionresource.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-res/xml/versiontypes.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-res/xml/winpeimagereader.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-sdo/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-sdo/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-sdo/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-sdo/examples/changes-summary/project.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
