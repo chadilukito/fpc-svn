@@ -227,6 +227,9 @@ compiler/i386/ra386att.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/i386/ra386int.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/rropt386.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i8086/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i8086/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i8086/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/cgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/cpubase.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
