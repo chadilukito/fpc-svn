@@ -741,6 +741,7 @@ compiler/utils/ppuutils svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 compiler/utils/ppuutils/ppudump.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/ppuutils/ppujson.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/ppuutils/ppuout.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/utils/ppuutils/ppuxml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/samplecfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/usubst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/verbose.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
