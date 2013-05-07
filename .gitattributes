@@ -11790,6 +11790,7 @@ tests/test/trtti4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trtti5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trtti6.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/trtti7.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/trtti8.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tsafecall1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tsafecall2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tsafecall3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
