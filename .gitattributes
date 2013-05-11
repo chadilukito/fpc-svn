@@ -14398,6 +14398,7 @@ utils/fpcres/target.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcreslipo/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcreslipo/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcreslipo/fpcreslipo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcreslipo/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcreslipo/msghandler.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcreslipo/paramparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcreslipo/sourcehandler.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
