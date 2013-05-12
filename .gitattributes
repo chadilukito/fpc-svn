@@ -14356,6 +14356,11 @@ utils/dxegen/dxegen.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/dxegen/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcm/Makefile.fpmake.bs.template svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcm/Makefile.fpmake.template svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcm/convert_all_fpmake.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcm/convert_fpmake.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcm/convert_fpmake.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/fpcmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/fpcmake.ini svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcm/fpcmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
