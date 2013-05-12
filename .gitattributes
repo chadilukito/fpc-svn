@@ -14749,6 +14749,7 @@ utils/unicode/cldrtest.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nat
 utils/unicode/cldrxml.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 utils/unicode/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 utils/unicode/data/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/unicode/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/unicode/grbtree.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 utils/unicode/helper.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 utils/unicode/parse-collations.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
