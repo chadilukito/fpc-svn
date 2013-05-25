@@ -8441,6 +8441,7 @@ rtl/msdos/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/msdos/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nativent/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nativent/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nativent/buildrtl.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
