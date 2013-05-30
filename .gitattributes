@@ -11836,6 +11836,7 @@ tests/test/tstdhandle.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstprocv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstring1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstring10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tstring11.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tstring2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstring3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tstring4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
