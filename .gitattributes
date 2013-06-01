@@ -855,6 +855,7 @@ ide/fpide.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fpini.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fpintf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fpkeys.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+ide/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fpmansi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fpmcomp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/fpmdebug.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
