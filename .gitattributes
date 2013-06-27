@@ -12199,8 +12199,10 @@ tests/test/units/sysutils/tformat.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 tests/test/units/sysutils/tlocale.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/trwsync.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/tsscanf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/sysutils/tstrcmp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/tstrtobool.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/tunifile.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/sysutils/twstrcmp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/ucomplex/tcsqr1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/variants/tcustomvariant.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/variants/tvararrayofintf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -13435,6 +13437,7 @@ tests/webtbs/tw21329.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw21350a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw21350b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw21443.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw21443a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2145.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw21457.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw21472.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -13763,6 +13766,7 @@ tests/webtbs/tw3226.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3227.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3227a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3235.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw3235a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3241a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3252.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3255.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
