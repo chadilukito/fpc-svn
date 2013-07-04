@@ -12131,6 +12131,7 @@ tests/test/units/system/tassert6.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 tests/test/units/system/tassert7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/tassignd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/tdir.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/system/tdir2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/testmac.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/testpc.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/teststk.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
