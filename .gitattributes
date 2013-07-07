@@ -800,6 +800,7 @@ compiler/x86_64/nx64cnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 compiler/x86_64/nx64flw.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86_64/nx64inl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86_64/nx64mat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/x86_64/nx64set.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86_64/r8664ari.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86_64/r8664att.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86_64/r8664con.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
