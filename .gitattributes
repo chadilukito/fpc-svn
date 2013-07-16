@@ -8719,6 +8719,7 @@ rtl/objpas/strutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysconst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/dati.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/datih.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/objpas/sysutils/disk.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/diskh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/filutil.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/filutilh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
