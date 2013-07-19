@@ -11110,6 +11110,7 @@ tests/test/tcpstrchar2ansistr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 tests/test/tcpstrconcat.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstrconcat2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstrconcat3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcpstrconcat4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstrconcatmulti.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstrconcatmulti2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstrpchar2ansistr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
