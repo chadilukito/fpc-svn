@@ -11352,6 +11352,8 @@ tests/test/tgeneric90.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nativ
 tests/test/tgeneric91.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgeneric92.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgeneric93.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tgeneric94.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tgeneric95.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgoto.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/theap.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/theapthread.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
