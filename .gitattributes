@@ -10110,6 +10110,7 @@ tests/tbs/tb0594.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb0595.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb0596.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbs/tb0597.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/tbs/tb0598.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb205.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tbs0594.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbs/ub0060.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10766,6 +10767,7 @@ tests/test/jvm/testshort.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 tests/test/jvm/tformalpara.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tint.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tintstr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/jvm/tjsetter.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tnestdynarr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tnestedset.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tnestproc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10809,6 +10811,7 @@ tests/test/jvm/tw22807.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/jvm/tw24089.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/twith.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/uenum.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/jvm/ujsetter.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/unsupported.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/lcpref.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/library/testdll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -11102,6 +11105,7 @@ tests/test/tcpstr21.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcpstr21a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcpstr22.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcpstr23.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tcpstr24.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstr2a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstr3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstr4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -11387,6 +11391,8 @@ tests/test/tgeneric90.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nativ
 tests/test/tgeneric91.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgeneric92.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgeneric93.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tgeneric94.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tgeneric95.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgoto.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/theap.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/theapthread.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -13604,6 +13610,7 @@ tests/webtbs/tw2473.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2480.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2481.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2483.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw24848.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw2492.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2494.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2503.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
