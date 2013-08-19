@@ -11106,6 +11106,7 @@ tests/test/tcpstr21a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcpstr22.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcpstr23.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcpstr24.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcpstr25.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstr2a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstr3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstr4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
