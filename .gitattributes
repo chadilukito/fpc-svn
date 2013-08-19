@@ -12082,6 +12082,12 @@ tests/test/units/fpcunit/testclasses.lpr svn_mime_002dtype=text%2Fplain svn_eol_
 tests/test/units/fpcunit/testcomps.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/fpcunit/tstrutils.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/fpcunit/tstrutils.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/fpwidestring svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+tests/test/units/fpwidestring/CollationTest_NON_IGNORABLE_SHORT.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/fpwidestring/CollationTest_SHIFTED_SHORT.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/fpwidestring/tuca1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/units/fpwidestring/tuca2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/units/fpwidestring/tucawsm.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/lineinfo/tlininfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/math/tdivmod.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/math/tmask.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
