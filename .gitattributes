@@ -12088,9 +12088,12 @@ tests/test/units/fpwidestring/CollationTest_SHIFTED_SHORT.txt svn_mime_002dtype=
 tests/test/units/fpwidestring/tcpstr13fpwidestring.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/fpwidestring/tcpstr17fpwidestring.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/fpwidestring/tcpstr18fpwidestring.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/units/fpwidestring/tcpstr1fpwidestring.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/fpwidestring/tcpstr9fpwidestring.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/fpwidestring/tcpstransistr2shortstringfpwidestring.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/fpwidestring/tcpstransistr2widechararrayfpwidestring.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/units/fpwidestring/tcpstransistrcompareequalfpws.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/units/fpwidestring/tcpstransistrcomparefpwidestring.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/fpwidestring/tcpstrpchar2ansistrfpws.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/fpwidestring/tcpstrshortstr2ansistrfpws.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/fpwidestring/tuca1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
