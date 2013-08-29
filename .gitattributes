@@ -10736,6 +10736,7 @@ tests/test/jvm/testshort.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 tests/test/jvm/tformalpara.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tint.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tintstr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/jvm/tjavalowercaseproc.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tjsetter.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tnestdynarr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tnestedset.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
