@@ -8465,6 +8465,7 @@ rtl/msdos/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/msdos/keyboard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/msmouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/ports.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/prt0m.asm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
