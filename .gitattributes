@@ -11964,6 +11964,7 @@ tests/test/tthlp6.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tthlp7.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tthlp8.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tthlp9.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tthread1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/ttpara1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ttpara2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ttypeconvtypes.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
