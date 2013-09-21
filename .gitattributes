@@ -3321,6 +3321,9 @@ packages/graph/src/inc/makefile.inc svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/graph/src/inc/modes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/graph/src/inc/palette.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/graph/src/macosx/graph.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/graph/src/msdos/graph.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/graph/src/msdos/vesa.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/graph/src/msdos/vesah.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/graph/src/ptcgraph/ptccrt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/graph/src/ptcgraph/ptcgraph.pp svn_mimetype=text%2Fx-pascal svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 packages/graph/src/sdlgraph/sdlgraph.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
