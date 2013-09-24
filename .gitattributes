@@ -8155,7 +8155,6 @@ rtl/inc/video.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/videoh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/wstringh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/wstrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/inc/wustrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/jastringh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
