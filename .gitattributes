@@ -217,7 +217,6 @@ compiler/i386/r386nasm.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/i386/r386nor.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/r386nri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/r386num.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/i386/r386op.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/r386ot.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/r386rni.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/r386sri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -262,7 +261,6 @@ compiler/i8086/r8086nasm.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/i8086/r8086nor.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/r8086nri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/r8086num.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/i8086/r8086op.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/r8086ot.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/r8086rni.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/r8086sri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -809,7 +807,6 @@ compiler/x86_64/r8664int.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/x86_64/r8664iri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86_64/r8664nor.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86_64/r8664num.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/x86_64/r8664op.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86_64/r8664ot.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86_64/r8664rni.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86_64/r8664sri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
