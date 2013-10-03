@@ -163,6 +163,7 @@ compiler/dbgstabs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/dbgstabx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/defcmp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/defutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/dirparse.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/elfbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/export.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/expunix.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
