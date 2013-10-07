@@ -5980,6 +5980,8 @@ packages/openssl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 packages/openssl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/openssl/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/openssl/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/openssl/examples/genkeypair.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/openssl/examples/genkeypair.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/openssl/examples/test1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/openssl/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/openssl/src/openssl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
