@@ -10854,6 +10854,7 @@ tests/test/library/ttdlltest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 tests/test/library/ulib2a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/library/ulib2b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/opt/tarmsa1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tarmshift.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tcaseopt1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tcmov.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
