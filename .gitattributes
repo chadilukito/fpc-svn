@@ -11530,6 +11530,7 @@ tests/test/tisoread.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tisorec1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tisorec2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tisorec3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tlea1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tlib1a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tlib1b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tlib2a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
