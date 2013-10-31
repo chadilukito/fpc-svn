@@ -8091,6 +8091,9 @@ rtl/inc/extres.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/fexpand.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/file.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/filerec.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/flt_conv.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/flt_core.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/flt_pack.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/fpextres.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/fpintres.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/gencurr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
