@@ -12362,6 +12362,7 @@ tests/utils/dosbox/exitcode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 tests/utils/dotest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/fail.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/fptime.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/utils/fpts2junit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/gparmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/libtar.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/macos/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
