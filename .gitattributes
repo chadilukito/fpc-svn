@@ -4269,6 +4269,11 @@ packages/imlib/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/imlib/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/imlib/src/gdk_imlib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/imlib/src/imlib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/iosxlocale/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/iosxlocale/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/iosxlocale/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/iosxlocale/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/iosxlocale/src/iosxlocale.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/jni svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/jni/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/jni/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
