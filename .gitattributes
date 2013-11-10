@@ -11604,6 +11604,7 @@ tests/test/tnoext4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tnonlocalgoto1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tnonlocalgoto2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tnonlocalgoto3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tnoreturn1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tnostackframe.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tnostackframe2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tnostackframe3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
