@@ -315,6 +315,7 @@ compiler/ldscript.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/link.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/aasmllvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/cgllvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/llvm/hlcgllvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/itllvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvmbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvmdef.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
