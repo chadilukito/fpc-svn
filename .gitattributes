@@ -317,6 +317,7 @@ compiler/llvm/aasmllvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/llvm/cgllvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/itllvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvmbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/llvm/llvmdef.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvminfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvmpara.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvmsym.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
