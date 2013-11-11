@@ -313,6 +313,9 @@ compiler/jvm/rjvmsup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/tgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ldscript.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/link.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/llvm/itllvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/llvm/llvmbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/llvm/llvminfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/tgllvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/ag68kgas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
