@@ -12413,6 +12413,7 @@ tests/tstunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 tests/tstunits/erroru.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tstunits/popuperr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tstunits/win32err.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/tw15169.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/avx/asmtestgenerator.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
