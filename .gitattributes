@@ -5717,6 +5717,7 @@ packages/mysql/src/mysql51dyn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/mysql/src/mysql51emb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/src/mysql55.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/src/mysql55dyn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/mysql/src/mysql56dyn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ncurses/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
