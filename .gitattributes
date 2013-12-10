@@ -12442,6 +12442,7 @@ tests/utils/avx/options.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 tests/utils/avx/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/bench.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/concat.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/utils/dbconfig.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/dbdigest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/dbtests.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/digest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
