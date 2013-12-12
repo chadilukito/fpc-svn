@@ -2127,7 +2127,6 @@ packages/fcl-db/src/sqldb/mysql/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eo
 packages/fcl-db/src/sqldb/mysql/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/mysql/mysql40conn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/mysql/mysql41conn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-db/src/sqldb/mysql/mysql4conn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/mysql/mysql50conn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/mysql/mysql51conn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/mysql/mysql55conn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
