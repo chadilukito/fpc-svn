@@ -203,6 +203,7 @@ compiler/i386/i386prop.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/i386/i386tab.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386add.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386cal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i386/n386flw.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386inl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386mat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386mem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9246,6 +9247,7 @@ rtl/win32/gprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/initc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/objinc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win32/seh32.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/signals.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/sysinit.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/sysinitcyg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
