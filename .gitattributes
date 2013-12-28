@@ -8132,6 +8132,7 @@ rtl/i386/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/strpas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/i8086.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/i8086/int32p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
