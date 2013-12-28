@@ -10945,6 +10945,10 @@ tests/test/opt/tcse2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tcse3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tcse4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/opt/tcse5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/opt/tdeadstr1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/opt/tdeadstr2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/opt/tdeadstr3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/opt/tdeadstr4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/opt/tdfa1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/opt/tdfa10.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/opt/tdfa11.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -10976,6 +10980,7 @@ tests/test/opt/twpo4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/twpo5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/twpo6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/twpo7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/opt/udeadstr4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/opt/uwpo2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/bzip2/tbzip2streamtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/packages/bzip2/testbzip2.res svn_mime_002dtype=application%2Foctet-stream
