@@ -6646,6 +6646,10 @@ packages/rexx/examples/callrexx.pas svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/rexx/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rexx/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rexx/src/rexxsaa.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-console/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-console/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-console/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-console/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sdl/LGPL svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sdl/LGPL.addon svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sdl/MPL-1.1 svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
