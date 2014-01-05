@@ -6695,6 +6695,14 @@ packages/rtl-console/src/win/keyboard.pp svn_mime_002dtype=text%2Fplain svn_eol_
 packages/rtl-console/src/win/mouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/win/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/win/winevent.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-objpas/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-objpas/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-objpas/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-objpas/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sdl/LGPL svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sdl/LGPL.addon svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sdl/MPL-1.1 svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
