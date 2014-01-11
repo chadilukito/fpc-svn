@@ -6699,11 +6699,44 @@ packages/rtl-extra/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/rtl-extra/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/aix/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/beos/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/bsd svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/haiku/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/inc/matrix.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/inc/mmatimp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/inc/mvecimp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/inc/objects.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/inc/sockets.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/inc/socketsh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/inc/sockovl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/inc/stdsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/inc/ucomplex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/linux/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/linux/unixsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/linux/unixsockets.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/linux/unixsocketsh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/linux/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/morphos/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/netware/netwsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/netware/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/netwcomn/qos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/netwcomn/winsock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/netwlibc/netwsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/netwlibc/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/openbsd/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/os2commn/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/os2commn/winsock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/solaris/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/unix/gpm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/unix/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/unix/unixsockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/win/fpwinsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/win/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/win/winsock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/win/winsock2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/wince/winsock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/wince/winsock2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8286,12 +8319,8 @@ rtl/inc/resh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/rtti.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/sfpu128.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/inc/sfpux80.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-rtl/inc/sockets.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/inc/socketsh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/inc/sockovl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/softfpu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/sstrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/inc/stdsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/strings.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/stringsi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/sysres.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8381,7 +8410,6 @@ rtl/linux/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/errnostr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/fpcylix.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/linux/gpm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/cprt21.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8499,12 +8527,8 @@ rtl/linux/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/termio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/termios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/linux/unixsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/linux/unixsockets.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/linux/unixsocketsh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/linux/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/unxsysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/unxsysch.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/x86_64/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8599,7 +8623,6 @@ rtl/morphos/mui.pas svn_mime_002dtype=text%2Fplain
 rtl/morphos/muihelper.pas svn_mime_002dtype=text%2Fplain
 rtl/morphos/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8745,7 +8768,6 @@ rtl/netware/dynlibs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/initc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/netware.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/netware/netwsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/npackoff.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/npackon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/nwcalls.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8759,9 +8781,7 @@ rtl/netware/nwsnut.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/nwsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/nwsys.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/prelude.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/netware/qos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/netware/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8773,7 +8793,6 @@ rtl/netware/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/tests/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/tests/test.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/netware/winsock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8782,14 +8801,11 @@ rtl/netwlibc/dynlibs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/initc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/libc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/netwlibc/netwsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/nwl_dlle.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/nwl_main.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/nwsnut.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/pre/libcpre.gcc.o svn_mime_002dtype=application%2Foctet-stream
-rtl/netwlibc/qos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/netwlibc/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8799,7 +8815,6 @@ rtl/netwlibc/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/netwlibc/winsock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/character.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/objpas/classes/action.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8971,7 +8986,6 @@ rtl/os2/printer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/so32dll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/os2/sockets.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8995,7 +9009,6 @@ rtl/os2/tests/testkbd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 rtl/os2/todo-os2.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/viocalls.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/os2/winsock.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/palmos/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/palmos/api/common.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/palmos/api/common.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9168,7 +9181,6 @@ rtl/unix/scripts/check_errnostr.sh svn_mime_002dtype=text%2Fplain svn_eol_002dst
 rtl/unix/scripts/check_sys.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/serial.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/settimeo.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/unix/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/syscall.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/syscgen.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9183,7 +9195,6 @@ rtl/unix/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/ttyname.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unix.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unixcp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/unix/unixsockets.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unixtype.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unixutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/unxdeclh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9224,11 +9235,9 @@ rtl/wii/wiih.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/dynlibs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/fpcmemdll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/win/fpwinsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/messages.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/printer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/sharemem.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/win/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9254,8 +9263,6 @@ rtl/win/wininc/struct.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 rtl/win/wininc/unidef.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/wininc/unifun.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/winres.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/win/winsock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/win/winsock2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/buildrtl.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9307,8 +9314,6 @@ rtl/wince/wininc/messages.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 rtl/wince/wininc/redef.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/wininc/struct.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/winres.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/wince/winsock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/wince/winsock2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/cpu.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/x86_64/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
