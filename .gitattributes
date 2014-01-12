@@ -6701,7 +6701,6 @@ packages/rtl-extra/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/rtl-extra/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/aix/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/beos/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/rtl-extra/src/bsd svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/haiku/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/inc/matrix.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/inc/mmatimp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
