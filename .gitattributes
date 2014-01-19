@@ -8011,10 +8011,12 @@ rtl/charmaps/cp1258.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp437.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp646.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp850.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/charmaps/cp852.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/charmaps/cp856.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp866.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp874.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp8859_1.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/charmaps/cp8859_2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/charmaps/cp8859_5.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp932.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp936.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
