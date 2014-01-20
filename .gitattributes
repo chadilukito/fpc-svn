@@ -9158,6 +9158,7 @@ rtl/ucmaps/cp1255.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp1256.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp1257.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp1258.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/ucmaps/cp852.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp856.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp874.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp932.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
