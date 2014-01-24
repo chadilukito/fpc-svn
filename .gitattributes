@@ -4277,6 +4277,7 @@ packages/httpd24/src/httpd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/httpd24/src/httpd24.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/httpd24/src/util_cfgtree.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/httpd24/src/util_filter.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/httpd24/src/util_script.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ibase/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ibase/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ibase/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
