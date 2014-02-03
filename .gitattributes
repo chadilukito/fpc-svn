@@ -6745,6 +6745,7 @@ packages/rtl-extra/src/openbsd/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_e
 packages/rtl-extra/src/os2commn/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/os2commn/winsock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/solaris/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/solaris/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/unix/gpm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/unix/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/unix/unixsockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9105,7 +9106,6 @@ rtl/solaris/termios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/solaris/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/x86_64/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/x86_64/sighndh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/x86_64/start.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
