@@ -11815,6 +11815,7 @@ tests/test/tobjcl2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjcl3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjcl4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobject1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tobject10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobject2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobject3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobject4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
