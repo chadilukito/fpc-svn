@@ -7913,6 +7913,9 @@ rtl/android/jvm/androidr14.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 rtl/android/jvm/java_sys_android.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/jvm/java_sysh_android.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/jvm/rtl.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/android/mipsel svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+rtl/android/mipsel/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/android/mipsel/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/arm.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/armdefines.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
