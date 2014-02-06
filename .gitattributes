@@ -2949,6 +2949,7 @@ packages/fcl-web/examples/webdata/demo/extgrid.lpi svn_mime_002dtype=text%2Fplai
 packages/fcl-web/examples/webdata/demo/extgrid.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo/lazwebdata.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo/reglazwebdata.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/webdata/demo/restful.css svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo/wmusers.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo/wmusers.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo2/extgrid-json.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
