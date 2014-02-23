@@ -9300,6 +9300,7 @@ rtl/win32/initc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/objinc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/seh32.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win32/serial.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/signals.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/sysinit.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win32/sysinitcyg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
