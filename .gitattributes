@@ -12435,6 +12435,8 @@ tests/test/units/system/tres3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 tests/test/units/system/tres3ext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/tres4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/tres4.res svn_mime_002dtype=application%2Foctet-stream
+tests/test/units/system/tres5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/system/tres5.rc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/tresb.rc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/tresb.res svn_mime_002dtype=application%2Foctet-stream
 tests/test/units/system/tresext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
