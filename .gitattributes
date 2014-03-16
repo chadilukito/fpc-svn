@@ -302,6 +302,7 @@ compiler/jvm/njvmmem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/njvmset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/njvmtcon.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/njvmutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/jvm/njvmvmt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/pjvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/rjvmcon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
