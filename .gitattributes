@@ -7933,7 +7933,6 @@ rtl/arm/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/arm/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8266,7 +8265,6 @@ rtl/i386/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/i386/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/mmx.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8280,7 +8278,6 @@ rtl/i8086/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/i8086/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8577,7 +8574,6 @@ rtl/m68k/m68k.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/m68k/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8604,7 +8600,6 @@ rtl/mips/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/mips/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/mips.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8615,7 +8610,6 @@ rtl/mipsel/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mipsel/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mipsel/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mipsel/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/mipsel/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mipsel/mips.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mipsel/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mipsel/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9058,7 +9052,6 @@ rtl/powerpc/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/powerpc/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/powerpc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9071,7 +9064,6 @@ rtl/powerpc64/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/powerpc64/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/powerpc64.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9128,7 +9120,6 @@ rtl/sparc/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/sparc/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9357,7 +9348,6 @@ rtl/x86_64/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/x86_64/mathuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
