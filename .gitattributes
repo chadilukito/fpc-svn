@@ -8696,7 +8696,10 @@ rtl/msdos/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/msmouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/ports.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/printer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/msdos/prt0c.asm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/prt0comn.asm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/msdos/prt0h.asm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/msdos/prt0l.asm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/prt0m.asm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/prt0s.asm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/prt0t.asm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
