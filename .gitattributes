@@ -2695,6 +2695,12 @@ packages/fcl-sdo/tests/test_suite/test_utils.pas svn_mime_002dtype=text%2Fplain 
 packages/fcl-sdo/tests/test_suite/test_xpathhelper.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-sdo/tests/test_suite/test_xsdhelper.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-sdo/tests/test_suite/test_xsdparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-sound/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-sound/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-sound/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-sound/src/fpwavformat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-sound/src/fpwavreader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-sound/src/fpwavwriter.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-stl/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
