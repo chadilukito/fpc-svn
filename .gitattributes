@@ -6793,6 +6793,7 @@ packages/rtl-objpas/src/inc/dateutil.pp svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/rtl-objpas/src/inc/dateutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/fmtbcd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/stdconvs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-objpas/src/inc/strutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/varerror.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/variants.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/varutilh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8910,7 +8911,6 @@ rtl/objpas/objpas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/rtlconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/rtlconst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/rtlconsts.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/objpas/strutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysconst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/dati.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/datih.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
