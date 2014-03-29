@@ -6713,6 +6713,7 @@ packages/rtl-console/src/unix/convert.inc svn_mime_002dtype=text%2Fplain svn_eol
 packages/rtl-console/src/unix/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/unix/keyboard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/unix/mouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-console/src/unix/terminfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/unix/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/watcom/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/win/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9236,7 +9237,6 @@ rtl/unix/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysunixh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/unix/terminfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/termiosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/timezone.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
