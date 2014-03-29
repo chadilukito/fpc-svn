@@ -6834,6 +6834,11 @@ packages/rtl-unicode/src/collations/collation_sv_le.inc svn_mime_002dtype=text%2
 packages/rtl-unicode/src/collations/collation_zh.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-unicode/src/collations/collation_zh_be.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-unicode/src/collations/collation_zh_le.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-unicode/src/inc/cp932.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-unicode/src/inc/cp936.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-unicode/src/inc/cp949.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-unicode/src/inc/cp950.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-unicode/src/inc/cpbuildu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-unicode/src/inc/freebidi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-unicode/src/inc/ucadata.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-unicode/src/inc/ucadata_be.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -8078,10 +8083,6 @@ rtl/charmaps/cp874.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp8859_1.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp8859_2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/charmaps/cp8859_5.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-rtl/charmaps/cp932.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-rtl/charmaps/cp936.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-rtl/charmaps/cp949.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-rtl/charmaps/cp950.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cpall.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/darwin/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
