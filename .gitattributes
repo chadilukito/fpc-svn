@@ -210,6 +210,7 @@ compiler/i386/n386add.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 compiler/i386/n386cal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386flw.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386inl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i386/n386ld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386mat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386mem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386set.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -257,6 +258,7 @@ compiler/i8086/n8086cal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 compiler/i8086/n8086cnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/n8086con.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/n8086inl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i8086/n8086ld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/n8086mat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/n8086mem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/r8086ari.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -784,6 +786,7 @@ compiler/x86/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/hlcgx86.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/itx86int.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/x86/ni86mem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/nx86add.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/nx86cal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/nx86cnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -796,6 +799,7 @@ compiler/x86/rax86.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/rax86att.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/rax86int.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/rgx86.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/x86/symi86.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/x86ins.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
 compiler/x86/x86reg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
 compiler/x86_64/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
