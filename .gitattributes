@@ -736,7 +736,6 @@ compiler/utils/fixnasm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 compiler/utils/fixtab.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fpc.mpw svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fpc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/utils/fpcsubst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fpimpdef.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/gia64reg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/gppc386.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -764,7 +763,6 @@ compiler/utils/ppuutils/ppujson.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 compiler/utils/ppuutils/ppuout.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/ppuutils/ppuxml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/samplecfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/utils/usubst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/verbose.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/version.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/vis/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -14886,6 +14884,7 @@ utils/fpcreslipo/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 utils/fpcreslipo/msghandler.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcreslipo/paramparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpcreslipo/sourcehandler.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpcsubst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/COPYING.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -15255,3 +15254,4 @@ utils/unicode/unicodeset.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=n
 utils/unicode/unihelper.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/unicode/unihelper.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 utils/unicode/weight_derivation.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+utils/usubst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
