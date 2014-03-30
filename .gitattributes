@@ -11970,6 +11970,7 @@ tests/test/toperatorerror.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 tests/test/tover1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tover2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tover3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tover4.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tpackrec.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
