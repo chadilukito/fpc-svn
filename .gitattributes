@@ -261,6 +261,7 @@ compiler/i8086/n8086inl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 compiler/i8086/n8086ld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/n8086mat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/n8086mem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i8086/n8086tcon.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/r8086ari.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/r8086att.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/r8086con.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
