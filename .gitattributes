@@ -6358,6 +6358,14 @@ packages/pasjpeg/src/jquant1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/pasjpeg/src/jquant2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pasjpeg/src/jutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pasjpeg/src/pasjpeg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pastojs/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pastojs/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pastojs/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pastojs/src/fppas2js.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pastojs/tests/tcconverter.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pastojs/tests/testpas2js.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pastojs/tests/testpas2js.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pastojs/todo.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
