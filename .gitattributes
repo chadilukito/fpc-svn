@@ -10163,6 +10163,7 @@ tests/tbs/tb0465.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb0466.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb0467.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb0468.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/tbs/tb0468a.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb0469.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb0470.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb0471.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
