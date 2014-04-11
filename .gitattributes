@@ -2434,6 +2434,7 @@ packages/fcl-net/src/netware/resolve.inc svn_mime_002dtype=text%2Fplain svn_eol_
 packages/fcl-net/src/netwlibc/resolve.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/src/os2/resolve.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/src/resolve.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-net/src/sslsockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/src/ssockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/src/unix/resolve.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/src/win/resolve.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
