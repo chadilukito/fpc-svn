@@ -11485,6 +11485,7 @@ tests/test/textthr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tfillchr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tfinal1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tfinal2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tfma1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tforin1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tforin10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tforin11.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
