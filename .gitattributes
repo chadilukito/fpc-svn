@@ -8911,7 +8911,6 @@ rtl/netwlibc/libc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/nwl_dlle.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/nwl_main.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/nwsnut.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/netwlibc/pre/libcpre.gcc.o svn_mime_002dtype=application%2Foctet-stream
 rtl/netwlibc/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
