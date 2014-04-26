@@ -8999,7 +8999,6 @@ rtl/objpas/unicodenumtable.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle
 rtl/objpas/weight_derivation.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/openbsd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/openbsd/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/errnostr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/i386/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
