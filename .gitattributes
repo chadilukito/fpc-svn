@@ -12247,7 +12247,6 @@ tests/test/tutf82.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tvarpropsetter1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tvarpropsetter2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tvarset1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/test/tw25932.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/twarn1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tweaklib1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tweaklib2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -14013,6 +14012,7 @@ tests/webtbs/tw2588.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2589.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw25895.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw25929.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/webtbs/tw25932.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2594.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2595.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw25956.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
