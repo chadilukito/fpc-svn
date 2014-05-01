@@ -281,6 +281,7 @@ compiler/i8086/ra8086att.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/i8086/ra8086int.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i8086/symcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i8086/tgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ia64/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ia64/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ia64/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
