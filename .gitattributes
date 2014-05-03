@@ -10317,6 +10317,7 @@ tests/tbs/tb0603.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbs/tb0604.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbs/tb0605.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbs/tb0606.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/tbs/tb0607.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb205.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tbs0594.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbs/ub0060.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
