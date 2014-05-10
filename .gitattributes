@@ -12833,6 +12833,7 @@ tests/webtbf/tw2562.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw25622.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw25622a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw25788.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/webtbf/tw25861.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw25862.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw25915.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbf/tw25951.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
