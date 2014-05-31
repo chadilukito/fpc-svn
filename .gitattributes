@@ -8361,7 +8361,6 @@ rtl/i386/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/i386/strpas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/i8086.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/int32p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9117,7 +9116,6 @@ rtl/powerpc/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc/strlen.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/powerpc/strpas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9129,7 +9127,6 @@ rtl/powerpc64/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 rtl/powerpc64/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/powerpc64/strlen.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/powerpc64/strpas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/qnx/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/qnx/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/qnx/dos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
