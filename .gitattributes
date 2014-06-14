@@ -11011,6 +11011,8 @@ tests/test/jvm/tprop3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tprop4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tprop5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tprop5a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/jvm/tprop6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/jvm/tprop6a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tptrdynarr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tpvar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/jvm/tpvardelphi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
