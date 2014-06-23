@@ -13756,6 +13756,7 @@ tests/webtbs/tw20407.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw2041.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw20421.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw2045.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw20456.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2046a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw20527.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw20557.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -14814,6 +14815,7 @@ tests/webtbs/uw19701.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/uw19851.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/uw2004.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/uw2040.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/uw20456.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/uw20909a.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/uw20909b.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/uw20940.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
