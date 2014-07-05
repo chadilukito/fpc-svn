@@ -10961,6 +10961,8 @@ tests/test/cpu16/i8086/tfarptr4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002ds
 tests/test/cpu16/i8086/thugeptr1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cpu16/i8086/thugeptr1a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cpu16/i8086/thugeptr1b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/cpu16/i8086/thugeptr2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/cpu16/i8086/thugeptr2a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cpu16/i8086/tintr1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cpu16/i8086/tintr2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cpu16/i8086/tmmc.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
