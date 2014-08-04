@@ -5177,6 +5177,31 @@ packages/libndsfpc/examples/graphics/Backgrounds/rotation/Rotation.pp svn_mime_0
 packages/libndsfpc/examples/graphics/Backgrounds/rotation/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/libndsfpc/examples/graphics/Backgrounds/rotation/data/drunkenlogo.bin svn_mime_002dtype=application%2Foctet-stream
 packages/libndsfpc/examples/graphics/Backgrounds/rotation/data/palette.bin svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/Effects svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Effects/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Effects/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Effects/windows svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Effects/windows/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Effects/windows/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Effects/windows/gfx svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Effects/windows/gfx/drunkenlogo.grit svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Effects/windows/gfx/drunkenlogo.png svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/Effects/windows/windows.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Ext_Palettes svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Ext_Palettes/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Ext_Palettes/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Ext_Palettes/backgrounds svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Ext_Palettes/backgrounds/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Ext_Palettes/backgrounds/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Ext_Palettes/backgrounds/backgrounds.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Ext_Palettes/backgrounds/gfx svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Ext_Palettes/backgrounds/gfx/devkitlogo.grit svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Ext_Palettes/backgrounds/gfx/devkitlogo.png svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/Ext_Palettes/backgrounds/gfx/drunkenlogo.grit svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Ext_Palettes/backgrounds/gfx/drunkenlogo.png svn_mime_002dtype=application%2Foctet-stream
+packages/libndsfpc/examples/graphics/Ext_Palettes/backgrounds/inc svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/graphics/Ext_Palettes/backgrounds/inc/devkitlogo.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/Ext_Palettes/backgrounds/inc/drunkenlogo.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/graphics/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/graphics/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/graphics/Printing svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
@@ -5364,6 +5389,7 @@ packages/libndsfpc/src/nds/arm9/sprite.inc svn_mime_002dtype=text%2Fplain svn_eo
 packages/libndsfpc/src/nds/arm9/trig_lut.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/video.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/arm9/videoGL.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/src/nds/arm9/window.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/bios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/card.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/src/nds/debug.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
