@@ -461,6 +461,7 @@ compiler/ncgcal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgcnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgcon.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgflw.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ncghlmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncginl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
