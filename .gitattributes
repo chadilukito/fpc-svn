@@ -8482,6 +8482,7 @@ rtl/inc/thread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/threadh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/threadvr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/tinyheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/tnyheaph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/typefile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/ufloat128.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/ustringh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
