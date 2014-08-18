@@ -6870,6 +6870,7 @@ packages/rtl-objpas/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/rtl-objpas/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/amiga/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-objpas/src/aros/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/gba/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/go32v2/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/convutil.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
