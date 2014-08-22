@@ -8764,10 +8764,8 @@ rtl/morphos/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/aboxlib.pas svn_mime_002dtype=text%2Fplain
 rtl/morphos/ahi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/asl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/clipboard.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/datatypes.pas svn_mime_002dtype=text%2Fplain
-rtl/morphos/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/doslib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/doslibd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/doslibf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8786,14 +8784,8 @@ rtl/morphos/layers.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/mui.pas svn_mime_002dtype=text%2Fplain
 rtl/morphos/muihelper.pas svn_mime_002dtype=text%2Fplain
 rtl/morphos/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/timer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/timerd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/timerf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
