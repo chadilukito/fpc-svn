@@ -5760,6 +5760,26 @@ packages/modplug/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/modplug/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/modplug/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/modplug/src/modplug.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/agraphics.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/ahi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/amigados.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/amigalib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/asl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/clipboard.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/datatypes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/exec.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/get9.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/hardware.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/inputevent.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/intuition.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/keymap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/kvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/layers.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/mui.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/muihelper.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/timer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/tinygl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/utility.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8761,40 +8781,20 @@ rtl/mipsel/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mipsel/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/aboxlib.pas svn_mime_002dtype=text%2Fplain
-rtl/morphos/ahi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/asl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/clipboard.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/datatypes.pas svn_mime_002dtype=text%2Fplain
-rtl/morphos/doslib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/doslibd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/doslibf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/emuld.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/exec.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/execd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/execf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/get9.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/graphics.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/hardware.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/inputevent.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/intuition.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/keymap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/kvm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/layers.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/mui.pas svn_mime_002dtype=text%2Fplain
-rtl/morphos/muihelper.pas svn_mime_002dtype=text%2Fplain
 rtl/morphos/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/timer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/timerd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/timerf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/tinygl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/utild1.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/utild2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/utilf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/morphos/utility.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
