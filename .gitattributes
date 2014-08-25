@@ -5760,6 +5760,10 @@ packages/modplug/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/modplug/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/modplug/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/modplug/src/modplug.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/Makefile svn_mime_002dtype=text%2Fplain svn_mime_002dtye=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_mime_002dtye=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_mime_002dtye=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/agraphics.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/ahi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/amigados.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
