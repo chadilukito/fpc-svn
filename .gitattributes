@@ -1035,7 +1035,7 @@ packages/amunits/src/coreunits/console.pas svn_mime_002dtype=text%2Fplain svn_eo
 packages/amunits/src/coreunits/conunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/coreunits/datatypes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/coreunits/diskfont.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/amunits/src/coreunits/exec.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/amunits/src/coreunits/exec.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/coreunits/expansion.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/coreunits/expansionbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/coreunits/gadtools.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
