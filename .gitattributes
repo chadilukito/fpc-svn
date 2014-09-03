@@ -6789,6 +6789,7 @@ packages/rtl-console/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/rtl-console/src/amicommon/keyboard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/amicommon/mouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/amicommon/videodata.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-console/src/amiga/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 packages/rtl-console/src/amiga/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/aros/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/emx/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8070,7 +8071,6 @@ rtl/amicommon/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=native 
 rtl/amicommon/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=native svn_eol_002dstyle=native
 rtl/amiga/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 rtl/amiga/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
-rtl/amiga/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 rtl/amiga/doslibd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 rtl/amiga/m68k svn_eol_002dtype=nativ
 rtl/amiga/m68k/doslibf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
