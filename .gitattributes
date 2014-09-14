@@ -15012,6 +15012,7 @@ utils/debugsvr/gtk/frmmain.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 utils/debugsvr/msgintf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/debugsvr/speeddebug.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/debugsvr/testdebug.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/delp.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/delp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/dxegen/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/dxegen/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
