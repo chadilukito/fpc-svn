@@ -2457,6 +2457,7 @@ packages/fcl-net/examples/testproto.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-net/examples/testsvc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/examples/testuri.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-net/src/amiga/resolve.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/src/aros/resolve.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/src/cnetdb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/src/fpsock.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6847,6 +6848,7 @@ packages/rtl-extra/src/aix/clocale.inc svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/rtl-extra/src/aix/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/aix/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/amiga/printer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
+packages/rtl-extra/src/amiga/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/android/clocale.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/android/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/android/unixsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
