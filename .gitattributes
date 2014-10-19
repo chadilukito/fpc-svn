@@ -1197,6 +1197,7 @@ packages/cdrom/src/wnaspi32.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/chm/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/chm/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/chm/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/chm/examples/chmsearch.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/chm/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/chm/src/chmbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/chm/src/chmcmd.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
