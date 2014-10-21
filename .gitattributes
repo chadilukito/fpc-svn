@@ -2097,6 +2097,8 @@ packages/fcl-db/src/dbase/dbf_str_pl.pas svn_mime_002dtype=text%2Fplain svn_eol_
 packages/fcl-db/src/dbase/dbf_str_pt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/dbase/dbf_str_ru.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/dbase/dbf_struct.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/dbase/dbf_wnix.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/dbase/dbf_wos2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/dbase/dbf_wtil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/dbase/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/dbase/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
