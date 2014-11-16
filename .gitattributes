@@ -12593,6 +12593,7 @@ tests/test/units/system/testpc.txt svn_mime_002dtype=text%2Fplain svn_eol_002dst
 tests/test/units/system/teststk.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/testux.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/tfiledir.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/system/tfloatrecs.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/system/tgenstr.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/system/tincdec.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/tint.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
