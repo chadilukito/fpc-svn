@@ -9161,6 +9161,7 @@ rtl/os2/sysos2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/system.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/os2/sysucode.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/tests/atx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/tests/basicpm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
