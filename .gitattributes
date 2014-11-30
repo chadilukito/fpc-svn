@@ -6958,6 +6958,8 @@ packages/rtl-objpas/src/watcom/varutils.pp svn_mime_002dtype=text%2Fplain svn_eo
 packages/rtl-objpas/src/wii/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/win/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/wince/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-unicode/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-unicode/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-unicode/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-unicode/src/collations svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/rtl-unicode/src/collations/buildcollations.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
