@@ -11525,6 +11525,7 @@ tests/test/tcpstr8.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcpstr9.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcpstransistr2shortstring.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstransistr2widechararray.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcpstransistr2widechararray2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstransistrcompare.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstransistrcompareequal.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstransistrcopy.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
