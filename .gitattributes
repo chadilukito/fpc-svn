@@ -4749,7 +4749,7 @@ packages/libgbafpc/examples/template/Makefile.fpc svn_mime_002dtype=text%2Fplain
 packages/libgbafpc/examples/template/template.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libgbafpc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/src/gba.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libgbafpc/src/gba/BoyScout.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgbafpc/src/gba/boyscout.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/src/gba/core_asm.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/src/gba/disc.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
 packages/libgbafpc/src/gba/disc_io.inc svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
