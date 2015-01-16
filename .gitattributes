@@ -15382,6 +15382,7 @@ utils/javapp/src/fpc/tools/javapp/StackMapTableData.java svn_mime_002dtype=text%
 utils/javapp/src/fpc/tools/javapp/Tables.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/javapp/src/fpc/tools/javapp/TrapData.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/javapp/src/fpc/tools/javapp/TypeSignature.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/mkinsadd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/mksymbian/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/mksymbian/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/mksymbian/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
