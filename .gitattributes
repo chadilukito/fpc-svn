@@ -138,6 +138,7 @@ compiler/avr/ravrstd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/ravrsup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/symcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/blockutl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/browcol.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/catch.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ccharset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8528,6 +8529,7 @@ rtl/i8086/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/aliases.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/astrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/blockrtl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/cgeneric.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/cgenmath.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/cgenstr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -11347,6 +11349,11 @@ tests/test/tasm8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasmread.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasout.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tassignmentoperator1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tblock1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tblock1a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tblock1c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tblock2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tblock2a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tbopr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tbrtlevt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tbsx1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
