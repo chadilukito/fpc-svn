@@ -8544,6 +8544,8 @@ rtl/inc/dos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/dosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/dynarr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/dynarrh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/dynlib.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/dynlibh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/dynlibs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/except.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/exeinfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9024,6 +9026,7 @@ rtl/netware/nwsys.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/prelude.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/netware/sysdlh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netware/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9047,6 +9050,7 @@ rtl/netwlibc/nwl_main.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/nwsnut.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/netwlibc/sysdlh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netwlibc/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9196,6 +9200,7 @@ rtl/os2/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/so32dll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/os2/sysdlh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9397,6 +9402,7 @@ rtl/unix/settimeo.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/syscall.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/syscgen.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/unix/sysdlh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/sysunixh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9450,6 +9456,8 @@ rtl/win/fpcmemdll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/messages.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/sharemem.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win/sysdl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win/sysdlh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9513,6 +9521,8 @@ rtl/wince/dynlibs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/messages.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/wince/sysdl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/wince/sysdlh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/windows.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
