@@ -9200,6 +9200,7 @@ rtl/os2/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/so32dll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/os2/sysdl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/sysdlh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/os2/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
