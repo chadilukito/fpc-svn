@@ -6989,6 +6989,7 @@ packages/rtl-unicode/src/collations/collation_sv_le.inc svn_mime_002dtype=text%2
 packages/rtl-unicode/src/collations/collation_zh.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-unicode/src/collations/collation_zh_be.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-unicode/src/collations/collation_zh_le.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-unicode/src/inc/cp895.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-unicode/src/inc/cp932.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-unicode/src/inc/cp936.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-unicode/src/inc/cp949.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -9365,6 +9366,7 @@ rtl/ucmaps/cp1258.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp852.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp856.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp874.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/ucmaps/cp895.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp932.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp936.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp949.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
