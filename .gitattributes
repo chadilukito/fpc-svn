@@ -12084,6 +12084,7 @@ tests/test/tobjc39.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc40.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc41.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tobjc42.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc4a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tobjc5a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -12766,6 +12767,7 @@ tests/test/uobjc35f.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uobjc35g.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uobjc39.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uobjc41.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/uobjc42.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uobjc7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uobjcl1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uprec6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
