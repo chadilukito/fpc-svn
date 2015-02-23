@@ -31,6 +31,7 @@ compiler/aarch64/ncpuadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/aarch64/ncpucnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/ncpuinl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/ncpumat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/aarch64/ncpumem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/ra64con.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/ra64dwa.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/ra64nor.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -12057,6 +12058,7 @@ tests/test/tmsg3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmsg4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmt1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmul1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tnest1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tnoext1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tnoext2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tnoext3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
