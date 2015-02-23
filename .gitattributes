@@ -20,6 +20,7 @@ compiler/aarch64/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 compiler/aarch64/cgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/aarch64/cpunode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/cpupara.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/ncpuadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
