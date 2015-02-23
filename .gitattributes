@@ -8072,6 +8072,7 @@ rtl/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aarch64/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aarch64/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aarch64/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aarch64/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aix/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aix/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aix/dlaix.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
