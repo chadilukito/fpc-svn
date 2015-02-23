@@ -4442,6 +4442,7 @@ packages/iosxlocale/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/iosxlocale/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/iosxlocale/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/iosxlocale/src/iosxlocale.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/iosxlocale/src/iosxwstr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/jni svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/jni/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/jni/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
