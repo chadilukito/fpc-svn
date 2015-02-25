@@ -4867,6 +4867,10 @@ packages/libndsfpc/examples/audio/maxmod/song_events_example2/Makefile.fpc svn_m
 packages/libndsfpc/examples/audio/maxmod/song_events_example2/audio svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/libndsfpc/examples/audio/maxmod/song_events_example2/audio/example2.it svn_mime_002dtype=application%2Foctet-stream
 packages/libndsfpc/examples/audio/maxmod/song_events_example2/song_events_example2.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Rev+Id+Date svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/streaming svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/libndsfpc/examples/audio/maxmod/streaming/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/streaming/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/audio/maxmod/streaming/streaming.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/audio/micrecord svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/libndsfpc/examples/audio/micrecord/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/audio/micrecord/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5259,9 +5263,6 @@ packages/libndsfpc/examples/graphics/Ext_Palettes/backgrounds/gfx/devkitlogo.gri
 packages/libndsfpc/examples/graphics/Ext_Palettes/backgrounds/gfx/devkitlogo.png svn_mime_002dtype=application%2Foctet-stream
 packages/libndsfpc/examples/graphics/Ext_Palettes/backgrounds/gfx/drunkenlogo.grit svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/graphics/Ext_Palettes/backgrounds/gfx/drunkenlogo.png svn_mime_002dtype=application%2Foctet-stream
-packages/libndsfpc/examples/graphics/Ext_Palettes/backgrounds/inc svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
-packages/libndsfpc/examples/graphics/Ext_Palettes/backgrounds/inc/devkitlogo.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libndsfpc/examples/graphics/Ext_Palettes/backgrounds/inc/drunkenlogo.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/graphics/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/graphics/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/graphics/Printing svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
@@ -8986,6 +8987,7 @@ rtl/nds/ndsbiosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/ndsh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/prt07.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/prt09.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nds/rtl.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nds/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
