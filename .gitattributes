@@ -5644,6 +5644,7 @@ packages/libogcfpc/src/ogc/ios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/libogcfpc/src/ogc/ipc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libogcfpc/src/ogc/irq.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libogcfpc/src/ogc/isfs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libogcfpc/src/ogc/libversion.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libogcfpc/src/ogc/lwp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libogcfpc/src/ogc/lwp_config.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libogcfpc/src/ogc/lwp_heap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9477,6 +9478,7 @@ rtl/wii/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wii/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wii/libc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wii/libch.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/wii/rtl.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wii/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wii/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wii/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
