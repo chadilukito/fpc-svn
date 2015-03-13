@@ -12024,6 +12024,7 @@ tests/test/tlibrary2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tlibrary3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmacbool.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmacfunret.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tmacfunret2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmaclocalprocparam1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmaclocalprocparam1a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmaclocalprocparam2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
