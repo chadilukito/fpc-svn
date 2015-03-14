@@ -8800,6 +8800,10 @@ rtl/linux/powerpc64/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 rtl/linux/powerpc64/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/powerpc64/gprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/powerpc64/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/powerpc64/si_c.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/powerpc64/si_dll.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/powerpc64/si_g.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/powerpc64/si_prc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/powerpc64/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/powerpc64/sighndh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/powerpc64/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
