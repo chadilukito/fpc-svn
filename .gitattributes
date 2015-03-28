@@ -518,6 +518,8 @@ compiler/oglx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ogmacho.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ogmap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ognlm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ogomf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/omfbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/optbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/optconstprop.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/optcse.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3216,6 +3218,8 @@ packages/fcl-xml/tests/readertest.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/fcl-xml/tests/readerunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/tests/template.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/tests/testgen.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-xml/tests/testxmlconf.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-xml/tests/testxmlconf.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/tests/xmlts.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/tests/xpathts.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fftw/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8399,7 +8403,9 @@ rtl/embedded/avr/start.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 rtl/embedded/buildrtl.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/buildrtl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/check.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/consoleio.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/embedded/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/empty.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/heapmgr.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/i386 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
@@ -8412,7 +8418,9 @@ rtl/embedded/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/sysutils.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/embedded/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/emx/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/emx/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/emx/dos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -14454,6 +14462,8 @@ tests/webtbs/tw2738.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2739.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw27424.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw27515.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/webtbs/tw27517.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw27529.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2758.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2763.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw27634.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -14461,6 +14471,7 @@ tests/webtbs/tw2765.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw27658.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw27665.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2767.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw27691.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2771.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2772.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2776.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
