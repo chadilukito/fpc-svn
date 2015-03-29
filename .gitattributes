@@ -8241,6 +8241,8 @@ rtl/avr/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/avr/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/avr/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/avr/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/avr/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/avr/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/baseunix.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
