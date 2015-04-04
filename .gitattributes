@@ -2080,6 +2080,7 @@ packages/fcl-db/src/base/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/fcl-db/src/base/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/base/bufdataset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/base/bufdataset_parser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/base/csvdataset.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/base/database.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/base/dataset.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/base/datasource.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2289,6 +2290,7 @@ packages/fcl-db/tests/memdstoolsunit.pas svn_mime_002dtype=text%2Fplain svn_eol_
 packages/fcl-db/tests/reruntest.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/sdfdstoolsunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/sqldbtoolsunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/tests/tccsvdataset.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/tcgensql.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/tcparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/tcsdfdata.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
