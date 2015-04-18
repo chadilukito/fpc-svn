@@ -533,6 +533,7 @@ compiler/optutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/optvirt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/owar.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/owbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/owomflib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/parabase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/paramgr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/parser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
