@@ -3522,6 +3522,7 @@ packages/gnome1/src/zvt/vt.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/gnome1/src/zvt/vtx.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/googleapi/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/googleapi/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/googleapi/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/googleapi/examples/generator/googleapiconv.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/googleapi/examples/generator/googleapiconv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/googleapi/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
