@@ -2565,6 +2565,9 @@ packages/fcl-process/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/fcl-process/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-process/src/amicommon/pipes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-process/src/amicommon/process.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-process/src/amicommon/simpleipc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/src/dbugintf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/src/dbugmsg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/src/dummy/pipes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
