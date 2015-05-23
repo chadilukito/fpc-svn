@@ -8829,6 +8829,17 @@ rtl/jvm/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/jvm/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/aarch64/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/aarch64/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/aarch64/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/aarch64/gprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/aarch64/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/aarch64/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/aarch64/sighndh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/aarch64/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/aarch64/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/aarch64/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/aarch64/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/arm/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/arm/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/arm/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8964,6 +8975,7 @@ rtl/linux/sparc/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 rtl/linux/sparc/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/sparc/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/suuid.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/sysnr-gen.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
