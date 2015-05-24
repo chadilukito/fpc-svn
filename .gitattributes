@@ -8231,6 +8231,7 @@ rtl/aix/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aix/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aix/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amicommon/README.TXT svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/amicommon/athreads.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amicommon/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=native svn_eol_002dstyle=native
 rtl/amicommon/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=native svn_eol_002dstyle=native
 rtl/amicommon/osdebug.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
