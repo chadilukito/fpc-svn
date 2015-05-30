@@ -8506,6 +8506,7 @@ rtl/embedded/arm/stm32f10x_xl.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dsty
 rtl/embedded/arm/stm32f429.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/xmc4500.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega128.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/atmega168fam.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega48fam.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/attinyx4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
