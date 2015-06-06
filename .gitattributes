@@ -7037,7 +7037,6 @@ packages/rtl-extra/src/linux/unixsock.inc svn_mime_002dtype=text%2Fplain svn_eol
 packages/rtl-extra/src/linux/unixsockets.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/linux/unixsocketsh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/linux/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/rtl-extra/src/morphos/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/msdos/printer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/netbsd/unixsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/netbsd/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
