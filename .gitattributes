@@ -8505,6 +8505,7 @@ rtl/embedded/avr/atmega16.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 rtl/embedded/avr/atmega168fam.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega48fam.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/attiny2313.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/attinyx4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/avrcommon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/avrsim.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
