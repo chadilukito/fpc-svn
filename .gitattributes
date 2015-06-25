@@ -2037,6 +2037,8 @@ packages/fcl-base/texts/fptemplate.txt svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-db/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/examples/createsql.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/examples/createsql.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/dbftool.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/dbftool.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/fbadmindemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
