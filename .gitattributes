@@ -7018,6 +7018,8 @@ packages/rtl-extra/src/bsd/clocale.inc svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/rtl-extra/src/bsd/ipcbsd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/bsd/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/darwin/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/dragonfly/unixsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-extra/src/dragonfly/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/freebsd/unixsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/freebsd/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/go32v2/printer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
