@@ -15533,6 +15533,7 @@ utils/fpdoc/fpdocstripper.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 utils/fpdoc/fpdocstripper.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpdocxmlopts.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/gentest.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/images/minus.png svn_mime_002dtype=image%2Fpng
 utils/fpdoc/images/plus.png svn_mime_002dtype=image%2Fpng
 utils/fpdoc/intl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
