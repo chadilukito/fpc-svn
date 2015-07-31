@@ -8489,6 +8489,7 @@ rtl/embedded/arm/cortexm3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=n
 rtl/embedded/arm/cortexm3_start.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/cortexm4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/cortexm4f_start.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/embedded/arm/cortexm7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/arm/lm3fury.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/lm3tempest.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/lm4f120.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
