@@ -7326,6 +7326,8 @@ packages/univint/src/CFDateFormatter.pas svn_mime_002dtype=text%2Fplain svn_eol_
 packages/univint/src/CFDictionary.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFError.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFFTPStream.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CFFileDescriptor.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CFFileSecurity.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFHTTPAuthentication.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFHTTPMessage.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFHTTPStream.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7356,6 +7358,7 @@ packages/univint/src/CFTimeZone.pas svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/univint/src/CFTree.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFURL.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFURLAccess.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/CFURLEnumerator.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFUUID.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFUserNotification.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/CFXMLNode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7650,6 +7653,11 @@ packages/univint/src/SCSI.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/univint/src/SCSchemaDefinitions.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/SFNTLayoutTypes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/SFNTTypes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/SKAnalysis.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/SKDocument.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/SKIndex.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/SKSearch.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/SKSummary.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/ScalerStreamTypes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/Scrap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/Script.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7687,6 +7695,7 @@ packages/univint/src/Video.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/univint/src/WSMethodInvocation.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/WSProtocolHandler.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/WSTypes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/univint/src/acl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/cblas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/certextensions.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/src/cssmapple.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
