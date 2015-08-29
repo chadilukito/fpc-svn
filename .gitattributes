@@ -282,6 +282,9 @@ compiler/impdef.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/import.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/agjasmin.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/jvm/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/jvm/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/jvm/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/cgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/jvm/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
