@@ -526,6 +526,7 @@ compiler/pdecsub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pdecvar.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pexports.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pexpr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/pgentype.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/pgenutil.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/pinline.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pmodules.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
