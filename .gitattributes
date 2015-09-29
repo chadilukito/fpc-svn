@@ -9866,6 +9866,8 @@ rtl/win16/prt0s.asm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win16/registers.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win16/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win16/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win16/sysdl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win16/sysdlh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win16/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win16/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win16/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
