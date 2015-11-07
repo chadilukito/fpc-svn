@@ -9509,6 +9509,11 @@ rtl/objpas/sysutils/syscodepagesh.inc svn_mime_002dtype=text%2Fpascal svn_eol_00
 rtl/objpas/sysutils/sysencoding.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/objpas/sysutils/sysencodingh.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/objpas/sysutils/sysformt.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/objpas/sysutils/syshelp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/objpas/sysutils/syshelpb.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/objpas/sysutils/syshelpf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/objpas/sysutils/syshelph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/objpas/sysutils/syshelpo.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/sysint.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/sysinth.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/syspch.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
