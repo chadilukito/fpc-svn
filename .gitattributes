@@ -5998,6 +5998,7 @@ packages/morphunits/src/amigalib.pas svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/morphunits/src/asl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/clipboard.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/datatypes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/diskfont.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/exec.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/get9.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/hardware.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
