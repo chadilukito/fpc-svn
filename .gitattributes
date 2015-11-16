@@ -13057,6 +13057,7 @@ tests/test/units/classes/tvclcomobject.pp svn_mime_002dtype=text%2Fplain svn_eol
 tests/test/units/cpu/tcpu1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/crt/tcrt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/crt/tctrlc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/dateutil/testscandatetime.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/dos/hello.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/dos/tbreak.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/dos/tdisk.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
