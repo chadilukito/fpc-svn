@@ -11196,6 +11196,7 @@ tests/test/cg/obj/linux/x86_64/tcext4.o svn_mime_002dtype=application%2Foctet-st
 tests/test/cg/obj/linux/x86_64/tcext5.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/x86_64/tcext6.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/macos/powerpc/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/msdos/i8086/ttasm1.obj svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/netbsd/i386/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/netbsd/i386/cpptcl2.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/netbsd/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
@@ -11254,6 +11255,7 @@ tests/test/cg/obj/solaris/x86_64/tcext5.o svn_mime_002dtype=application%2Foctet-
 tests/test/cg/obj/solaris/x86_64/tcext6.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/stdint.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/obj/tcext6.c svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cg/obj/ttasm1.asm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/obj/win32/i386/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/win32/i386/cpptcl2.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/win32/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
@@ -11614,6 +11616,7 @@ tests/test/cpu16/i8086/tptrcon.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dst
 tests/test/cpu16/i8086/tptrsize.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cpu16/i8086/tretf1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cpu16/i8086/tretf2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cpu16/i8086/ttasm1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cpu16/i8086/ttheap1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cpu16/taddint1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/dumpclass.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
