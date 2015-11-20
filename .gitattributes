@@ -15801,6 +15801,16 @@ utils/fpdoc/dw_txt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/dw_xml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/dwlinear.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/dwriter.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/examples/basedir/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/examples/basedir/sample-project.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/examples/gentest.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/examples/project/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/examples/project/sample-project.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/examples/simple/html.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/examples/simple/html.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/examples/simple/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/examples/simple/testunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/fpdoc/examples/simple/testunit.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpclasschart.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpclasschart.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpde/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -15825,7 +15835,6 @@ utils/fpdoc/fpdocstripper.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 utils/fpdoc/fpdocstripper.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpdocxmlopts.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-utils/fpdoc/gentest.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/images/minus.png svn_mime_002dtype=image%2Fpng
 utils/fpdoc/images/plus.png svn_mime_002dtype=image%2Fpng
 utils/fpdoc/intl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -15846,8 +15855,6 @@ utils/fpdoc/mkfpdocproj.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 utils/fpdoc/plusimage.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/sample-project.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/sh_pas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-utils/fpdoc/testunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-utils/fpdoc/testunit.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpdoc/unitdiff.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpgmake/fpgmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/fpgmake/fpmake.cft svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
