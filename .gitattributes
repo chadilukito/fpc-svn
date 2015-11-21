@@ -8730,6 +8730,7 @@ rtl/embedded/avr/attiny9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 rtl/embedded/avr/avrcommon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/avrsim.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/start.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/start_noram.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/buildrtl.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/buildrtl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/check.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
