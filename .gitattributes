@@ -6005,6 +6005,7 @@ packages/morphunits/src/cybergraphics.pas svn_mime_002dtype=text%2Fplain svn_eol
 packages/morphunits/src/datatypes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/diskfont.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/exec.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/gadtools.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/morphunits/src/get9.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/hardware.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/iffparse.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
