@@ -5997,6 +5997,7 @@ packages/morphunits/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_mime
 packages/morphunits/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/agraphics.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/ahi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/akeyboard.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/amigados.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/amigalib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/asl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6010,6 +6011,7 @@ packages/morphunits/src/gadtools.pas svn_mime_002dtype=text%2Fpascal svn_eol_002
 packages/morphunits/src/get9.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/hardware.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/iffparse.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/input.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/inputevent.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/intuition.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/keymap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
