@@ -1926,6 +1926,7 @@ packages/fcl-base/examples/encodeascii85.pp svn_mime_002dtype=text%2Fplain svn_e
 packages/fcl-base/examples/fpexprpars.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/fstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/htdump.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/examples/inifmt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/intl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/intl/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/intl/restest.cs.mo svn_mime_002dtype=application%2Foctet-stream
