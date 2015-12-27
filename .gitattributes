@@ -2365,6 +2365,7 @@ packages/fcl-fpcunit/src/exampletests/Makefile.fpc svn_mime_002dtype=text%2Fplai
 packages/fcl-fpcunit/src/exampletests/fpcunittests.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/exampletests/money.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/exampletests/moneytest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-fpcunit/src/exampletests/needassert.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/exampletests/testmockobject.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/fpcunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/fpcunitreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
