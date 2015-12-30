@@ -4973,6 +4973,7 @@ packages/libmicrohttpd/examples/demo.pp svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/libmicrohttpd/examples/demo_https.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libmicrohttpd/examples/digest_auth_example.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libmicrohttpd/examples/dual_stack_example.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libmicrohttpd/examples/event_and_thread.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libmicrohttpd/examples/fileserver_example.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libmicrohttpd/examples/fileserver_example_dirs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libmicrohttpd/examples/fileserver_example_external_select.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
