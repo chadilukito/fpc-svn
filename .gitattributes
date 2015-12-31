@@ -7161,6 +7161,7 @@ packages/rtl-objpas/src/inc/varerror.inc svn_mime_002dtype=text%2Fplain svn_eol_
 packages/rtl-objpas/src/inc/variants.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/varutilh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/varutils.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-objpas/src/inc/widestrutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/morphos/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/msdos/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/nativent/varutils.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
