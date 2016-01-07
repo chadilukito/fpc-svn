@@ -2489,6 +2489,7 @@ packages/fcl-json/src/jsonconf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/fcl-json/src/jsonparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/src/jsonscanner.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/tests/jsonconftest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-json/tests/testcomps.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/tests/testjson.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/tests/testjson.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-json/tests/testjsonconf.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
