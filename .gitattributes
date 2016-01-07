@@ -492,6 +492,7 @@ compiler/nopt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/nset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/nstate.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/nutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/objcasm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/objcdef.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/objcgutl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/objcutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
