@@ -2566,6 +2566,8 @@ packages/fcl-process/examples/demoproject.ico svn_mime_002dtype=application%2Foc
 packages/fcl-process/examples/demoproject.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/examples/demoproject.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/examples/demoproject.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-process/examples/demoruncommand.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-process/examples/demoruncommand.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/examples/echoparams.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/src/amicommon/pipes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
