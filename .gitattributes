@@ -1970,6 +1970,7 @@ packages/fcl-base/examples/testcont.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-base/examples/testexprpars.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/testez.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/testhres.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/examples/testini.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/testipc_client.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/testipc_server.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/testmime.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
