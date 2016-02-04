@@ -12451,8 +12451,6 @@ tests/test/thlp6.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/thlp7.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/thlp8.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/thlp9.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-tests/test/tifthen1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-tests/test/tifthen2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/timplements1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/timplements2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/timplements3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
