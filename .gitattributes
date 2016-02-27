@@ -1944,8 +1944,6 @@ packages/fcl-base/examples/intl/restest.pb.po svn_mime_002dtype=text%2Fplain svn
 packages/fcl-base/examples/intl/restest.ru.mo svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-base/examples/intl/restest.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/intl/resttest.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-base/examples/ipcclient.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-base/examples/ipcserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/isockcli.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/isocksvr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/istream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2573,6 +2571,10 @@ packages/fcl-process/examples/demoruncommand.pp svn_mime_002dtype=text%2Fplain s
 packages/fcl-process/examples/echoparams.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/examples/empty.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-process/examples/infinity.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/fcl-process/examples/ipcclient.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-process/examples/ipcclient.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-process/examples/ipcserver.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-process/examples/ipcserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/examples/waitonexit.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-process/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/src/amicommon/pipes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
