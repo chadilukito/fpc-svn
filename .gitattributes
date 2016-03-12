@@ -6053,6 +6053,7 @@ packages/morphunits/src/exec.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/morphunits/src/gadtools.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/morphunits/src/get9.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/hardware.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/icon.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/morphunits/src/iffparse.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/input.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/inputevent.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6064,6 +6065,7 @@ packages/morphunits/src/muihelper.pas svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/morphunits/src/timer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/tinygl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/utility.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/workbench.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/mysql/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/mysql/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
