@@ -9722,6 +9722,8 @@ rtl/inc/objcnf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/objpas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/objpash.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/pagemem.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/psabieh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/psabiehh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/real2str.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/resh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/rtti.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
