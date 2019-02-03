@@ -9758,6 +9758,7 @@ rtl/inc/rttih.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/sfpu128.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/inc/sfpux80.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/inc/softfpu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/sortbase.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/sstrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/strings.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/stringsi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -14297,6 +14298,7 @@ tests/test/units/classes/tmakeobjinst.pp svn_mime_002dtype=text%2Fplain svn_eol_
 tests/test/units/classes/tsetstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/classes/tstringlistexchange.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/classes/ttbits.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/units/classes/ttlist.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/classes/tvclcomobject.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/cpu/tcpu1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/crt/tcrt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -14386,6 +14388,7 @@ tests/test/units/objects/testobj2.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 tests/test/units/sharemem/libtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sharemem/test1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/softfpu/sfttst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/sortbase/tsortbase.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/strings/tstrcopy.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/strings/tstrings1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/strutils/taddchar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -16620,6 +16623,7 @@ tests/webtbs/tw3490.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3491.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3492.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3494.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw34971.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3499.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3504.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3506.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
