@@ -47,6 +47,7 @@ compiler/aarch64/racpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 compiler/aarch64/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/symcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aasmbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/aasmcfi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aasmcnst.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aasmdata.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aasmdef.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
