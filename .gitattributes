@@ -682,6 +682,7 @@ compiler/riscv/nrvcnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 compiler/riscv/nrvcon.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/riscv/nrvinl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/riscv/nrvset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv/rarvgas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/riscv/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/riscv32/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/riscv32/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10020,10 +10021,9 @@ rtl/linux/riscv32/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 rtl/linux/riscv32/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/riscv32/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/riscv64/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/linux/riscv64/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/linux/riscv64/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/linux/riscv64/gprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/linux/riscv64/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv64/si_c.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv64/si_dll.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv64/si_prc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/riscv64/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/riscv64/sighndh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/riscv64/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10464,6 +10464,7 @@ rtl/openbsd/sysctlh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/sysofft.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/systypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/openbsd/t_openbsd.h2paschk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/termio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/termios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -11304,6 +11305,9 @@ tests/tbf/tb0265.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbf/tb0266a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbf/tb0266b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbf/tb0267.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/tbf/tb0268.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/tbf/tb0269.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/tbf/tb0270.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbf/tb0588.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbf/ub0115.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/ub0149.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -14980,6 +14984,7 @@ tests/webtbf/tw3488.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw3495.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw3502.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw35149a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbf/tw35348.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbf/tw3553.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw3562.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw3583.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
