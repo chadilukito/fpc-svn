@@ -10109,6 +10109,7 @@ rtl/m68k/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/macos/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/macos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/macostp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10123,6 +10124,7 @@ rtl/macos/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/macos/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/cpuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10441,7 +10443,6 @@ rtl/openbsd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/errnostr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/i386/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/openbsd/i386/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/i386/openbsd_ident.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/i386/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/i386/si_c.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10477,7 +10478,6 @@ rtl/openbsd/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/unxsysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/x86_64/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/openbsd/x86_64/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/x86_64/openbsd_ident.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/x86_64/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/x86_64/si_c.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -12886,7 +12886,9 @@ tests/test/opt/tdfa15.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nativ
 tests/test/opt/tdfa16.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/opt/tdfa17.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/opt/tdfa18.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/opt/tdfa19.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tdfa2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/opt/tdfa20.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tdfa3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/opt/tdfa4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/opt/tdfa5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
