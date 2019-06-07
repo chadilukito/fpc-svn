@@ -1949,6 +1949,7 @@ packages/fcl-base/examples/databom.txt svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-base/examples/dbugsrv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/debugtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/decodeascii85.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/examples/demoio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/dobserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/doecho.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/dparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1992,6 +1993,7 @@ packages/fcl-base/examples/stringl.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/fcl-base/examples/tarmakercons.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/tarmakerconsgzip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/testapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/examples/testappexit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/testbf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/testbs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/testcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -12182,6 +12184,13 @@ tests/test/cg/obj/haiku/i386/tcext3.o svn_mime_002dtype=application%2Foctet-stre
 tests/test/cg/obj/haiku/i386/tcext4.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/haiku/i386/tcext5.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/haiku/i386/tcext6.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/haiku/x86_64/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/haiku/x86_64/cpptcl2.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/haiku/x86_64/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/haiku/x86_64/tcext3.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/haiku/x86_64/tcext4.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/haiku/x86_64/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/haiku/x86_64/tcext6.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/aarch64/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/aarch64/cpptcl2.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/aarch64/ctest.o svn_mime_002dtype=application%2Foctet-stream
@@ -16760,6 +16769,7 @@ tests/webtbs/tw35187.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw35224.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3523.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw35233.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw35272.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3529.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3531.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3533.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
