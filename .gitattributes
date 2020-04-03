@@ -12312,6 +12312,7 @@ rtl/xtensa/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/xtensa/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/xtensa/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/xtensa/xtensa.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/z80/cpuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
