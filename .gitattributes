@@ -1082,6 +1082,7 @@ compiler/z80/rz80sta.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/rz80std.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/rz80sup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/symcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/z80/z80ins.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/z80reg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
 /fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /fpmake_add1.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
