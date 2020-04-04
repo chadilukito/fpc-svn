@@ -922,6 +922,7 @@ compiler/utils/mkx86inl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/utils/mkx86ins.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkx86reg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkxtensareg.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+compiler/utils/mkz80ins.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkz80reg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/msg2inc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/msgdif.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1083,7 +1084,10 @@ compiler/z80/rz80std.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/rz80sup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/symcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/z80ins.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/z80/z80nop.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/z80/z80op.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/z80reg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
+compiler/z80/z80stdopnames.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /fpmake_add1.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /fpmake_proc1.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
