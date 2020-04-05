@@ -19152,6 +19152,7 @@ utils/ihx2tzx/ihx2tzx.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 utils/ihx2tzx/ihx2tzx.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/ihx2tzx/ihxreader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/ihx2tzx/tzxwriter.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/ihx2tzx/zxbasic.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/importtl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/importtl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/importtl/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
