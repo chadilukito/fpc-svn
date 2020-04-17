@@ -1090,6 +1090,7 @@ compiler/z80/z80nop.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/z80op.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/z80reg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
 compiler/z80/z80stdopnames.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/z80/z80tab.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /fpmake_add1.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /fpmake_proc1.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
