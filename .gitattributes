@@ -859,6 +859,7 @@ compiler/systems/i_wdosx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/systems/i_wii.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_win.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_win16.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/systems/i_zxspectrum.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/mac_crea.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_aix.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_amiga.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -892,6 +893,7 @@ compiler/systems/t_wdosx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/systems/t_wii.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_win.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_win16.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/systems/t_zxspectrum.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/tgobj.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/tokens.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
