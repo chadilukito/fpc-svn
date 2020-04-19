@@ -19173,6 +19173,9 @@ utils/h2pas/scan.l svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/scan.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/yylex.cod svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/yyparse.cod svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/ihx2tzx/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/ihx2tzx/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/ihx2tzx/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/ihx2tzx/ihx2tzx.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/ihx2tzx/ihx2tzx.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/ihx2tzx/ihxreader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
