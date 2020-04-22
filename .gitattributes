@@ -1042,6 +1042,7 @@ compiler/xtensa/ncpuadd.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=na
 compiler/xtensa/ncpucnv.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/xtensa/ncpuinl.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/xtensa/ncpumat.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+compiler/xtensa/ncpumem.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/xtensa/ncpuutil.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/xtensa/racpugas.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/xtensa/raxtensa.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -12220,6 +12221,7 @@ rtl/win/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/systlsdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/syswin.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win/syswinh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/windirs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/wininc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -13394,6 +13396,7 @@ tests/tbs/tb0666b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbs/tb0667.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbs/tb0668a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbs/tb0668b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/tbs/tb0669.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbs/ub0060.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/ub0069.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/ub0119.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
