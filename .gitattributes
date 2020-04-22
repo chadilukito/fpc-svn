@@ -1075,6 +1075,7 @@ compiler/z80/cputarg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/hlcgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/nz80add.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/nz80cal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/z80/nz80mat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/raz80.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/raz80asm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
