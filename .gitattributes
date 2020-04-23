@@ -12353,6 +12353,7 @@ rtl/xtensa/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/xtensa/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/xtensa/xtensa.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/cpuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/z80/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
