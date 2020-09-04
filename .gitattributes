@@ -13919,7 +13919,6 @@ tests/test/cg/tcalcst5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/cg/tcalcst6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalcst7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalcst8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/test/cg/tcaldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalext3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcalext4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
