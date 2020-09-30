@@ -12255,6 +12255,7 @@ rtl/watcom/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/watcom/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/watcom/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/watcom/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/watcom/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/watcom/watcom.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wii/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wii/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
